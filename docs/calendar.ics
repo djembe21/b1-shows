@@ -16,86 +16,8 @@ TZNAME:KST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b39788b8dcf6@b1.shows
-DTSTAMP:20261115T115755Z
-DTSTART;TZID=Asia/Seoul:20261115T190000
-DTEND;TZID=Asia/Seoul:20261115T220000
-SUMMARY:TINY AF SHOW - AFTER PATCHROOM (Chip Post Gang\, Hypnosis Therapy)
-  @ Spin and Grind
-LOCATION:Spin and Grind (스핀 앤 그라인드)
-DESCRIPTION:Lineup: Chip Post Gang\, Hypnosis Therapy\n라인업: 칩 포
- 스트 갱\, 힙노시스테라피\nDoors: 18:30\nPrice: Advance 30\,000 
- KRW\nSOLD OUT. Small capacity\; Sinchon shop (2F\, 32 Yonsei-ro 12-gil\, 
- Seodaemun-gu). Chip Post Gang 19:00-19:30\, Hypnosis Therapy 19:40-20:20.
-  Ticket holders get a limited-edition pin button. Reservation deadline No
- v 13 midnight\; non-refundable after.\nSource: https://www.instagram.com/
- p/DfOgU5JBjZL/\nListed by b1.shows. Always check the original post before
-  you go.
-URL:https://www.instagram.com/p/DfOgU5JBjZL/
-END:VEVENT
-BEGIN:VEVENT
-UID:c2599e598b90@b1.shows
-DTSTAMP:20261115T115755Z
-DTSTART;TZID=Asia/Seoul:20261115T190000
-DTEND;TZID=Asia/Seoul:20261115T220000
-SUMMARY:Jazz Live Show! (Lee Jae-hyung Quartet\, Lee Taehyung Quartet) @ S
- ubriot
-LOCATION:Subriot (서브라이엇 HBC)
-DESCRIPTION:Lineup: Lee Jae-hyung Quartet\, Lee Taehyung Quartet\n라인
- 업: 이재형 QUARTET\, 이태형 QUARTET\nPrice: Free entry / pay after
-  the show\nStandard jazz\, bebop\, swing. Reservations: 010 8018 5546 (Ko
- rean)\, 010 7454 4005 (English). B1\, 1 Sinheung-ro 7-gil\, Yongsan-gu (H
- aebangchon). Set approx. 19:00-21:00.\nSource: https://www.instagram.com/
- p/DfviOX5kwTA/\nSource: https://www.instagram.com/p/DfrNBhST_u7/\nListed 
- by b1.shows. Always check the original post before you go.
-URL:https://www.instagram.com/p/DfviOX5kwTA/
-END:VEVENT
-BEGIN:VEVENT
-UID:b133a50653f4@b1.shows
-DTSTAMP:20261115T115755Z
-DTSTART;TZID=Asia/Seoul:20261115T193000
-DTEND;TZID=Asia/Seoul:20261115T223000
-SUMMARY:The Greatest Music of Lana Del Rey (DJ High) @ Pet Sounds
-LOCATION:Pet Sounds (펫사운즈)
-DESCRIPTION:Lineup: DJ High\n라인업: DJ High\nPrice: Free\nLana Del Rey
-  music and videos on a big screen\; runs 7:30PM-2AM\; other genres added 
- after midnight. Adults only. Venue is on the 3rd floor\, Itaewon-dong 278
- -8.\nSource: https://www.instagram.com/p/DflfFOapB5h/\nListed by b1.shows
- . Always check the original post before you go.
-URL:https://www.instagram.com/p/DflfFOapB5h/
-END:VEVENT
-BEGIN:VEVENT
-UID:6cb671b08465@b1.shows
-DTSTAMP:20261115T115755Z
-DTSTART;TZID=Asia/Seoul:20261115T210000
-DTEND;TZID=Asia/Seoul:20261116T000000
-SUMMARY:Jazz Live Show! (Distortion Junkies) @ Subriot
-LOCATION:Subriot (서브라이엇 HBC)
-DESCRIPTION:Lineup: Distortion Junkies\n라인업: DISTORTION JUNKIES\nPri
- ce: Free entry / pay after the show\nRock\, blues. Reservations: 010 8018
-  5546 (Korean)\, 010 7454 4005 (English). B1\, 1 Sinheung-ro 7-gil\, Yong
- san-gu (Haebangchon). Set approx. 21:00-23:00.\nSource: https://www.insta
- gram.com/p/DfviOX5kwTA/\nSource: https://www.instagram.com/p/DfrNBhST_u7/
- \nListed by b1.shows. Always check the original post before you go.
-URL:https://www.instagram.com/p/DfviOX5kwTA/
-END:VEVENT
-BEGIN:VEVENT
-UID:9ead30a7e5ec@b1.shows
-DTSTAMP:20261115T115755Z
-DTSTART;TZID=Asia/Seoul:20261115T220000
-DTEND;TZID=Asia/Seoul:20261116T010000
-SUMMARY:Metal Night (DJ Eddie) @ Club FF
-LOCATION:Club FF (클럽 FF)
-DESCRIPTION:Lineup: DJ Eddie\n라인업: DJ Eddie\nPrice: No cover (drink 
- pre-order required on entry)\nAll metal genres DJ night\, all night. Firs
- t 30 guests wearing a metal band T-shirt get a free special metal cocktai
- l.\nSource: https://www.instagram.com/p/DfhlTgiM6hP/\nListed by b1.shows.
-  Always check the original post before you go.
-URL:https://www.instagram.com/p/DfhlTgiM6hP/
-END:VEVENT
-BEGIN:VEVENT
 UID:9120d5df0758@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261116T200000
 DTEND;TZID=Asia/Seoul:20261116T230000
 SUMMARY:90s Rock Special (DJ SJ) @ Pet Sounds
@@ -109,7 +31,7 @@ URL:https://www.instagram.com/p/Dfug7tXp2SC/
 END:VEVENT
 BEGIN:VEVENT
 UID:5151848a8f11@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261117T200000
 DTEND;TZID=Asia/Seoul:20261117T230000
 SUMMARY:Umamusume Special (DJ Minsu) @ Pet Sounds
@@ -123,7 +45,7 @@ URL:https://www.instagram.com/p/DftQYjwJAvn/
 END:VEVENT
 BEGIN:VEVENT
 UID:84d0ad63abd1@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261118T200000
 DTEND;TZID=Asia/Seoul:20261118T230000
 SUMMARY:Wednesday Sad Music Club (DJ 4pril 5our) @ Pet Sounds
@@ -137,7 +59,7 @@ URL:https://www.instagram.com/p/DfwW-ZRJyER/
 END:VEVENT
 BEGIN:VEVENT
 UID:e83089356347@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261119T200000
 DTEND;TZID=Asia/Seoul:20261119T230000
 SUMMARY:Thursday Music Life (Keith Says One More\, Sloejean) @ Channel 196
@@ -152,7 +74,7 @@ URL:https://www.instagram.com/p/Dfg-nK8PCX3/
 END:VEVENT
 BEGIN:VEVENT
 UID:7624396fecb9@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261119T200000
 DTEND;TZID=Asia/Seoul:20261119T230000
 SUMMARY:The Greatest Music of Guns N' Roses + 80s 90s Music (DJ High) @ Pe
@@ -168,7 +90,7 @@ URL:https://www.instagram.com/reel/DftlRA9J_Jf/
 END:VEVENT
 BEGIN:VEVENT
 UID:b3e256db4c7f@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261119T230000
 DTEND;TZID=Asia/Seoul:20261120T020000
 SUMMARY:French Night (DJ Eddie) @ Club FF
@@ -182,7 +104,7 @@ URL:https://www.instagram.com/p/DfuL898Ru6x/
 END:VEVENT
 BEGIN:VEVENT
 UID:0500b03aa476@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261120T193000
 DTEND;TZID=Asia/Seoul:20261120T223000
 SUMMARY:1nfinity Club DJ Class Workshop Party Vol. 19 (kat tv\, shampoo\, 
@@ -201,7 +123,7 @@ URL:https://www.instagram.com/p/Dfqw7Q0pRuZ/
 END:VEVENT
 BEGIN:VEVENT
 UID:4ee999cc5bce@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261120T220000
 DTEND;TZID=Asia/Seoul:20261121T010000
 SUMMARY:Midnight Salon Vol.2 (DJ Rocket\, DJ Baxa) @ Morene Sukha
@@ -217,7 +139,7 @@ URL:https://www.instagram.com/p/Dfb6rAro-qE/
 END:VEVENT
 BEGIN:VEVENT
 UID:9f0e64f8b3f9@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261121T140000
 DTEND;TZID=Asia/Seoul:20261121T170000
 SUMMARY:MRN Groove: chiyoonhae LIVE Concert (Chiyoonhae\, Jung Sumin (Doub
@@ -236,7 +158,7 @@ URL:https://www.instagram.com/p/Dfeql8pTfDc/
 END:VEVENT
 BEGIN:VEVENT
 UID:4dcd58b19376@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261121T200000
 DTEND;TZID=Asia/Seoul:20261121T230000
 SUMMARY:Noite Brasileira Vol. 4 (YG Brazilian Lab\, Son Wonjin & Samba Fri
@@ -255,7 +177,7 @@ URL:https://www.instagram.com/p/Dfo4_UwFKsv/
 END:VEVENT
 BEGIN:VEVENT
 UID:205836c071ec@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261121T200000
 DTEND;TZID=Asia/Seoul:20261121T230000
 SUMMARY:TROPICOLOR (Reggae Chingudeul (Reggae Friends) live jam session\, 
@@ -273,7 +195,7 @@ URL:https://www.instagram.com/p/DfhXqwSI4QC/
 END:VEVENT
 BEGIN:VEVENT
 UID:5d506e4d3e33@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261121T204500
 DTEND;TZID=Asia/Seoul:20261121T234500
 SUMMARY:The Kids Are Alright (Liferadio\, Peace Pizza Piece\, Oysters) @ C
@@ -291,7 +213,7 @@ URL:https://www.instagram.com/p/DfmJNL2M5cO/
 END:VEVENT
 BEGIN:VEVENT
 UID:8e050fb8dc6d@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261121T210000
 DTEND;TZID=Asia/Seoul:20261122T000000
 SUMMARY:Saturday Rock Night! (DJ High) @ Pet Sounds
@@ -306,7 +228,7 @@ URL:https://www.instagram.com/p/DfwWkh2JBGr/
 END:VEVENT
 BEGIN:VEVENT
 UID:2842e2cf6a0e@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261122T000000
 DTEND;TZID=Asia/Seoul:20261122T030000
 SUMMARY:Bushiroad Party Music (B.P.M) (Jeokbalchu\, StaRi9ht\, mob\, Gongs
@@ -325,7 +247,7 @@ URL:https://www.instagram.com/p/Dfu5lMdJWzM/
 END:VEVENT
 BEGIN:VEVENT
 UID:9ce090085df1@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261123T190000
 DTEND;TZID=Asia/Seoul:20261123T220000
 SUMMARY:2xFE : Korea Showcase (2xFE) @ Rolling Hall
@@ -340,7 +262,7 @@ URL:https://www.instagram.com/reel/DfByb3JgadZ/
 END:VEVENT
 BEGIN:VEVENT
 UID:86a3290f6917@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261126T200000
 DTEND;TZID=Asia/Seoul:20261126T230000
 SUMMARY:Thursday Music Life (Gneuldance\, Nazare) @ Channel 1969
@@ -354,7 +276,7 @@ URL:https://www.instagram.com/p/Dfg-nK8PCX3/
 END:VEVENT
 BEGIN:VEVENT
 UID:3c36aa78ae80@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261127T200000
 DTEND;TZID=Asia/Seoul:20261127T230000
 SUMMARY:Live Club Day Vol. 85 (KIMSEUNGJOO\, THE VANE\, Men And Them\, DOO
@@ -376,7 +298,7 @@ URL:https://www.instagram.com/p/DfWampmhh4d/
 END:VEVENT
 BEGIN:VEVENT
 UID:7874225f8f3e@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261127T200000
 DTEND;TZID=Asia/Seoul:20261127T230000
 SUMMARY:MRN Groove: DECADENT LIVE (DECADENT) @ Morene Sukha
@@ -392,7 +314,7 @@ URL:https://www.instagram.com/p/Dfjln-Kzz8M/
 END:VEVENT
 BEGIN:VEVENT
 UID:60276ba667b7@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261127T200000
 DTEND;TZID=Asia/Seoul:20261127T230000
 SUMMARY:Biuret Concert 4 Seasons : Winter (Biuret\, GAEHWA) @ Rolling Hall
@@ -406,7 +328,7 @@ URL:https://www.instagram.com/reel/DfBayNjjsbf/
 END:VEVENT
 BEGIN:VEVENT
 UID:a1fa6c655d32@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261128T183000
 DTEND;TZID=Asia/Seoul:20261128T213000
 SUMMARY:SWIM\, DANCE\, LOVE (Bulgogi Disco\, Polyamory\, Swiimers) @ Pet S
@@ -421,7 +343,7 @@ URL:https://www.instagram.com/p/Dfi-qfApHYC/
 END:VEVENT
 BEGIN:VEVENT
 UID:e2b16772d659@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261128T200000
 DTEND;TZID=Asia/Seoul:20261128T230000
 SUMMARY:From Midnight TOKYO Vol.94 (DJ Cha Seungwoo\, DJ Kim Mingyu\, DJ H
@@ -438,7 +360,7 @@ URL:https://www.instagram.com/p/DfjpDpLo7SO/
 END:VEVENT
 BEGIN:VEVENT
 UID:251298e8f24a@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261129T170000
 DTEND;TZID=Asia/Seoul:20261129T200000
 SUMMARY:MRN Groove: UINONE LIVE (UINONE) @ Morene Sukha
@@ -455,7 +377,7 @@ URL:https://www.instagram.com/p/DfZXrF8TWC7/
 END:VEVENT
 BEGIN:VEVENT
 UID:b8cc388d5e12@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261205T180000
 DTEND;TZID=Asia/Seoul:20261205T210000
 SUMMARY:Club SHARP - Very First Last Month Ever (The Reseters\, Seoul Dolm
@@ -473,7 +395,7 @@ URL:https://www.instagram.com/p/DfT2uaZP2GM/
 END:VEVENT
 BEGIN:VEVENT
 UID:571c8550cb60@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261206T170000
 DTEND;TZID=Asia/Seoul:20261206T200000
 SUMMARY:AxMxP CONCERT <Home Sweet Home> : 2026 MAPO Winter Edition (AxMxP)
@@ -489,7 +411,7 @@ URL:https://www.instagram.com/p/DfgwVIrE2Wh/
 END:VEVENT
 BEGIN:VEVENT
 UID:fd2706298885@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261206T170000
 DTEND;TZID=Asia/Seoul:20261206T200000
 SUMMARY:ChRocktikal The 1st World Tour [CRTK : The End of Beginning] in Se
@@ -504,7 +426,7 @@ URL:https://www.instagram.com/reel/DfWBCbND25k/
 END:VEVENT
 BEGIN:VEVENT
 UID:7470251d651f@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261206T180000
 DTEND;TZID=Asia/Seoul:20261206T210000
 SUMMARY:Are the Mountains and Rivers Changed? – Shin Seung-eun 1st Album
@@ -522,7 +444,7 @@ URL:https://www.instagram.com/p/DfhLUSxFDub/
 END:VEVENT
 BEGIN:VEVENT
 UID:5d16f128ffa8@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Club SHARP - Very First Last Month Ever (Find the Spot\, Sutegoro\
@@ -539,7 +461,7 @@ URL:https://www.instagram.com/p/DfT2uaZP2GM/
 END:VEVENT
 BEGIN:VEVENT
 UID:a1aeb698a690@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261219T180000
 DTEND;TZID=Asia/Seoul:20261219T210000
 SUMMARY:Club SHARP - Very First Last Month Ever (Nahu\, Slant\, Palecistus
@@ -556,7 +478,7 @@ URL:https://www.instagram.com/p/DfT2uaZP2GM/
 END:VEVENT
 BEGIN:VEVENT
 UID:e52e298e0f76@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261224T200000
 DTEND;TZID=Asia/Seoul:20261224T230000
 SUMMARY:Kim Dongha Stand-up Comedy Tour <Life Goes On> - Seoul: 2026 Mapo 
@@ -571,7 +493,7 @@ URL:https://www.instagram.com/p/DfgweAFk69v/
 END:VEVENT
 BEGIN:VEVENT
 UID:7fc40fa6f359@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261224T200000
 DTEND;TZID=Asia/Seoul:20261224T230000
 SUMMARY:2026 JINHO <JIN-GLE PARTY> (Jinho's Christmas Party!) (Jinho (PENT
@@ -587,7 +509,7 @@ URL:https://www.instagram.com/reel/DfQ3b7CjP4L/
 END:VEVENT
 BEGIN:VEVENT
 UID:167ad0ac4175@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261225T170000
 DTEND;TZID=Asia/Seoul:20261225T200000
 SUMMARY:2026 JINHO <JIN-GLE PARTY> (Jinho's Christmas Party!) (Jinho (PENT
@@ -603,7 +525,7 @@ URL:https://www.instagram.com/reel/DfQ3b7CjP4L/
 END:VEVENT
 BEGIN:VEVENT
 UID:80c83ff725e2@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261225T180000
 DTEND;TZID=Asia/Seoul:20261225T210000
 SUMMARY:Kim Dongha Stand-up Comedy Tour <Life Goes On> - Seoul: 2026 Mapo 
@@ -618,7 +540,7 @@ URL:https://www.instagram.com/p/DfgweAFk69v/
 END:VEVENT
 BEGIN:VEVENT
 UID:01e81369f4b9@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261226T180000
 DTEND;TZID=Asia/Seoul:20261226T210000
 SUMMARY:Dive Or Die (Green Flame Boys (Chorok Bulkkot Sonyeondan)) @ Rolli
@@ -634,7 +556,7 @@ URL:https://www.instagram.com/reel/Dfi5AIfCF2r/
 END:VEVENT
 BEGIN:VEVENT
 UID:a26e8e75b7a1@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261227T180000
 DTEND;TZID=Asia/Seoul:20261227T210000
 SUMMARY:Club SHARP - Very First Last Month Ever (Burning Hepburn\, Row Bro
@@ -651,7 +573,7 @@ URL:https://www.instagram.com/p/DfT2uaZP2GM/
 END:VEVENT
 BEGIN:VEVENT
 UID:f47d485a5bdd@b1.shows
-DTSTAMP:20261115T115755Z
+DTSTAMP:20261115T213350Z
 DTSTART;TZID=Asia/Seoul:20261231T200000
 DTEND;TZID=Asia/Seoul:20261231T230000
 SUMMARY:Nilo Year End Solo Concert 'Our Season : Stay' (Nilo) @ Rolling Ha

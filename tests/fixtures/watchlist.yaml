@@ -1,0 +1,31 @@
+venues:
+  - handle: test_club_ff
+    name: Club FF
+    name_ko: 클럽 FF
+    area: Hongdae
+    aliases: [클럽에프에프]
+  - handle: test_rolling_hall
+    name: Rolling Hall
+    name_ko: 롤링홀
+    area: Hongdae
+  - handle: test_strange_fruit
+    name: Strange Fruit
+    name_ko: 스트레인지 프룻
+    area: Hongdae
+  - handle: test_channel1969
+    name: Channel 1969
+    name_ko: 채널1969
+    area: Hongdae
+  - handle: test_mullae_space
+    name: Mullae Space Moon
+    name_ko: 문래공간 문
+    area: Mullae
+  - handle: test_southside
+    name: Southside Parlor
+    area: Itaewon
+bands:
+  - handle: test_paper_moths
+    name: Paper Moths
+promoters:
+  - handle: test_noise_promo
+    name: Night Noise Seoul

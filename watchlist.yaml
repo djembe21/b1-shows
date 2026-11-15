@@ -1,0 +1,137 @@
+# b1.shows - watchlist
+#
+# Instagram usernames to check (without the @). Each must be a PUBLIC
+# Business or Creator account - personal accounts are invisible to the API.
+# The daily run writes data/fetch_report.json listing any handle that failed,
+# so you can tell which ones need swapping out.
+#
+# Venues are the backbone: most shows get posted by the venue even when the
+# band's own account is personal. Add bands and promoters on top of that.
+#
+# For venues, `aliases` are the other ways the venue gets written on posters
+# (Korean name, short names). They're used to merge duplicate listings and to
+# show one consistent English name on the site. `area` drives the area filter.
+#
+# Handles came from press and listing sites, not Instagram itself. The first
+# run's fetch report will show which ones work.
+
+venues:
+  # --- Hongdae / Yeonnam ---
+  - handle: hongdaeff
+    name: Club FF
+    name_ko: 클럽 FF
+    area: Hongdae
+    aliases: [FF, 클럽에프에프, 클럽 에프에프, Club FF Hongdae, 홍대FF]
+
+  - handle: strangefruit.seoul
+    name: Strange Fruit
+    name_ko: 스트레인지 프룻
+    area: Hongdae
+    aliases: [스트레인지프룻, 프룻, Strange Fruits, Strange Fruits Soul]
+
+  - handle: rollinghall
+    name: Rolling Hall
+    name_ko: 롤링홀
+    area: Hongdae
+    aliases: [롤링 홀, 홍대 롤링홀, Rolling Hall Seoul]
+
+  - handle: channel1969.seoul
+    name: Channel 1969
+    name_ko: 채널1969
+    area: Yeonnam
+    aliases: [채널 1969, Channel1969, CH1969]
+
+  # --- Mangwon ---
+  - handle: club_sharp
+    name: Club SHARP
+    name_ko: 클럽 샤프
+    area: Mangwon
+    aliases: [SHARP, 클럽샤프, Club Sharp Mangwon]
+
+  - handle: binarystudioskorea
+    name: Binary Studios
+    area: Mangwon
+    aliases: [바이너리 스튜디오, Binary Studio]
+
+  # --- Sinchon / west ---
+  - handle: babydoll_seoul
+    name: Baby Doll
+    name_ko: 베이비돌
+    area: Sinchon
+    aliases: [Babydoll, 신촌 베이비돌, Sinchon Babydoll]
+
+  - handle: 1nfntclb
+    name: 1nfinity Club
+    area: Sinchon
+    aliases: [Infinity Club, 인피니티클럽, 인피니티 클럽]
+
+  - handle: spinandgrind
+    name: Spin and Grind
+    area: Sinchon
+    aliases: [Spin & Grind, 스핀앤그라인드]
+
+  - handle: morene__sukha
+    name: Morene Sukha
+    area: West Seoul
+    aliases: [Morene Sukha Live Sound Temple]
+
+  # --- Itaewon / HBC ---
+  - handle: petsoundsmusicpub
+    name: Pet Sounds
+    name_ko: 펫사운즈
+    area: Itaewon
+    aliases: [펫 사운즈, Petsounds]
+
+  - handle: subriot_hbc
+    name: Subriot
+    area: Haebangchon
+    aliases: [서브라이엇, Subriot HBC]
+
+  # Handles not found yet - look them up on Instagram, then uncomment
+  # - handle: ???
+  #   name: KT&G Sangsangmadang Live Hall
+  #   name_ko: KT&G 상상마당 라이브홀
+  #   area: Hongdae
+  #   aliases: [상상마당, 상상마당 라이브홀, Sangsangmadang]
+  # - handle: ???
+  #   name: Club Victim
+  #   area: Hongdae
+  #   aliases: [클럽 빅팀, Victim]
+
+bands:
+  - handle: bandbyebyebadman      # from a 2016 listing
+    name: Bye Bye Badman
+    name_ko: 바이바이배드맨
+
+  - handle: ourr_official
+    name: OurR
+    name_ko: 아월
+
+  # Handle not found yet - look it up on Instagram, then uncomment
+  # - handle: ???
+  #   name: TRPP
+
+  # Handle not found yet - look it up on Instagram, then uncomment
+  # - handle: ???
+  #   name: Sailor Honeymoon
+  #   name_ko: 세일러 허니문
+
+promoters:
+  # A second account that may also belong to Club FF. Its shows still get
+  # merged into the Club FF venue above.
+  - handle: clubff_hongdae
+    name: Club FF (second account)
+
+  - handle: diazablebooking
+    name: Diazable Booking
+
+  # Melon's main account is mostly K-pop releases and charts, not club shows.
+  # It would add cost and noise, so it's off by default.
+  # - handle: melon_music
+  #   name: Melon
+
+settings:
+  # How many recent posts to pull per account each run
+  posts_per_account: 12
+  # Ignore posts older than this (days)
+  max_post_age_days: 30

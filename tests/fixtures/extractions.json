@@ -1,0 +1,191 @@
+{
+ "p1": [
+  {
+   "date": "2026-11-14",
+   "doors": "19:00",
+   "start": "19:30",
+   "venue": "Club FF",
+   "venue_ko": "클럽 FF",
+   "lineup": [
+    "Paper Moths",
+    "Soeum Juuibo",
+    "Glass Hour"
+   ],
+   "lineup_ko": [
+    "페이퍼 모스",
+    "소음주의보",
+    "글래스 아워"
+   ],
+   "price": "25,000 KRW",
+   "genres": [
+    "indie",
+    "rock"
+   ],
+   "confidence": 0.95
+  }
+ ],
+ "p2": [
+  {
+   "date": "2026-11-14",
+   "start": "19:30",
+   "venue": "클럽에프에프",
+   "lineup": [
+    "Paper Moths",
+    "소음주의보",
+    "Glass Hour"
+   ],
+   "genres": [
+    "shoegaze"
+   ],
+   "notes": "Paper Moths play last",
+   "confidence": 0.85
+  }
+ ],
+ "p3": [
+  {
+   "title": "Low Sun 1st EP Release Show",
+   "title_ko": "낮은 해 1st EP 발매 공연",
+   "date": "2026-11-21",
+   "doors": "17:30",
+   "start": "18:00",
+   "venue": "롤링홀",
+   "lineup": [
+    "Low Sun"
+   ],
+   "lineup_ko": [
+    "낮은 해"
+   ],
+   "price": "Advance 33,000 / Door 38,000 KRW",
+   "ticket_url": "https://ticket.melon.com/",
+   "genres": [
+    "indie",
+    "folk"
+   ],
+   "notes": "Booking needs a Korean phone number; door tickets available",
+   "confidence": 0.92
+  }
+ ],
+ "p4": [
+  {
+   "date": "2026-11-15",
+   "start": "18:00",
+   "venue": "Strange Fruit",
+   "venue_ko": "스트레인지 프룻",
+   "lineup": [
+    "Kettle Choir",
+    "Minari Static"
+   ],
+   "price": "15,000 KRW",
+   "genres": [
+    "acoustic",
+    "folk"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "date": "2026-11-22",
+   "start": "19:00",
+   "venue": "Strange Fruit",
+   "lineup": [
+    "The Night Buses",
+    "Hwang Seulgi"
+   ],
+   "lineup_ko": [
+    "더 나이트 버시스",
+    "황슬기"
+   ],
+   "price": "20,000 KRW",
+   "genres": [
+    "indie",
+    "pop"
+   ],
+   "confidence": 0.88
+  },
+  {
+   "date": "2026-11-28",
+   "start": "19:00",
+   "venue": "Strange Fruit",
+   "lineup": [
+    "Ondo"
+   ],
+   "lineup_ko": [
+    "온도"
+   ],
+   "price": "Free",
+   "genres": [
+    "jazz"
+   ],
+   "confidence": 0.8
+  }
+ ],
+ "p5": [],
+ "p6": [
+  {
+   "title": "Mullae Noise Night vol.7",
+   "title_ko": "문래 노이즈 나잇 vol.7",
+   "date": "2026-12-05",
+   "start": "20:00",
+   "venue": "문래공간 문",
+   "lineup": [
+    "Iron Lung Choir",
+    "Static Bloom"
+   ],
+   "price": "Door 15,000 KRW",
+   "genres": [
+    "experimental",
+    "electronic"
+   ],
+   "confidence": 0.6
+  }
+ ],
+ "p7": [
+  {
+   "title": "Night Noise Winter Fest",
+   "date": "2026-12-12",
+   "doors": "16:00",
+   "start": "16:30",
+   "venue": "Southside Parlor",
+   "lineup": [
+    "Glass Hour",
+    "Cold Ramen",
+    "Paper Moths",
+    "Seoul Static",
+    "Ondo"
+   ],
+   "price": "40,000 KRW",
+   "ticket_url": "https://example.com/tickets",
+   "genres": [
+    "punk",
+    "indie",
+    "rock"
+   ],
+   "confidence": 0.9
+  },
+  {
+   "title": "Night Noise Winter Tour",
+   "date": "2026-12-19",
+   "start": "19:00",
+   "venue": "Ovantgarde",
+   "city": "Busan",
+   "lineup": [
+    "Glass Hour",
+    "Cold Ramen"
+   ],
+   "price": "25,000 KRW",
+   "genres": [
+    "punk"
+   ],
+   "confidence": 0.85
+  }
+ ],
+ "p8": [
+  {
+   "date": "2026-11-01",
+   "venue": "Club FF",
+   "lineup": [
+    "Someone"
+   ],
+   "confidence": 0.9
+  }
+ ]
+}

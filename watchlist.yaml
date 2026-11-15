@@ -23,7 +23,7 @@ venues:
     area: Hongdae
     aliases: [FF, 클럽에프에프, 클럽 에프에프, Club FF Hongdae, 홍대FF]
 
-  - handle: strangefruit.seoul
+  - handle: strangefruitseoul     # was strangefruit.seoul (invalid)
     name: Strange Fruit
     name_ko: 스트레인지 프룻
     area: Hongdae
@@ -40,6 +40,30 @@ venues:
     name_ko: 채널1969
     area: Yeonnam
     aliases: [채널 1969, Channel1969, CH1969]
+
+  - handle: ssmadang_live
+    name: KT&G Sangsangmadang Live Hall
+    name_ko: KT&G 상상마당 라이브홀
+    area: Hongdae
+    aliases: [상상마당, 상상마당 라이브홀, 상상마당 Live Hall, Sangsangmadang, KT&G 상상마당]
+
+  - handle: clubsteelface
+    name: Club Steel Face
+    name_ko: 클럽 스틸페이스
+    area: Hongdae
+    aliases: [Steel Face, 스틸페이스, 클럽스틸페이스]
+
+  - handle: senggistudio
+    name: Senggi Studio
+    name_ko: 생기스튜디오
+    area: Hongdae
+    aliases: [생기 스튜디오, Senggi]
+
+  - handle: yogigahanjoo
+    name: Yogiga
+    name_ko: 요기가
+    area: Hongdae
+    aliases: [요기가 한주, Yogiga Hanjoo]
 
   # --- Mangwon ---
   - handle: club_sharp
@@ -87,12 +111,30 @@ venues:
     area: Haebangchon
     aliases: [서브라이엇, Subriot HBC]
 
-  # Handles not found yet - look them up on Instagram, then uncomment
-  # - handle: ???
-  #   name: KT&G Sangsangmadang Live Hall
-  #   name_ko: KT&G 상상마당 라이브홀
-  #   area: Hongdae
-  #   aliases: [상상마당, 상상마당 라이브홀, Sangsangmadang]
+  - handle: skunk_itaewon
+    name: Skunk
+    area: Itaewon
+    aliases: [Skunk Itaewon, 스컹크]
+
+  # --- Euljiro / central ---
+  - handle: acs.kr
+    name: ACS
+    area: Euljiro
+    aliases: [ACS Seoul, ACS Euljiro]
+
+  - handle: youkillbong          # guessed from its email - check the report
+    name: Youkillbong
+    name_ko: 유킬봉
+    area: Euljiro
+    aliases: [유킬봉, You Kill Bong]
+
+  - handle: sounddog_jazz
+    name: SoundDog Jazz
+    name_ko: 사운드독
+    area: Huam-dong
+    aliases: [SoundDog, Sound Dog, 사운드독 재즈]
+
+  # Handle not found yet - look it up on Instagram, then uncomment
   # - handle: ???
   #   name: Club Victim
   #   area: Hongdae
@@ -117,13 +159,18 @@ bands:
   #   name_ko: 세일러 허니문
 
 promoters:
-  # A second account that may also belong to Club FF. Its shows still get
-  # merged into the Club FF venue above.
-  - handle: clubff_hongdae
-    name: Club FF (second account)
+  # clubff_hongdae had no posts in 30 days - removed. @hongdaeff is active.
 
-  - handle: diazablebooking
-    name: Diazable Booking
+  # - handle: diazablebooking   # invalid - find the right handle
+  #   name: Diazable Booking
+
+  # Live Club Day: the last Friday of each month, one wristband for several
+  # Hongdae venues (Prism Hall, Club FF, Veloso, Freebird, Musinsa Garage).
+  - handle: liveclubday
+    name: Live Club Day
+
+  - handle: gigguide.kr          # a gig listings account - check the report
+    name: Gig Guide KR
 
   # Melon's main account is mostly K-pop releases and charts, not club shows.
   # It would add cost and noise, so it's off by default.

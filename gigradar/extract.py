@@ -13,13 +13,19 @@ import requests
 from .config import KST
 from .instagram import Post
 
+# Sonnet reads dense Korean posters reliably. For a cheaper run, set
+# GIGRADAR_MODEL to claude-haiku-5-5 in the workflow.
 DEFAULT_MODEL = os.environ.get("GIGRADAR_MODEL", "claude-sonnet-5-5")
+MAX_IMAGES = int(os.environ.get("GIGRADAR_MAX_IMAGES", "2"))
+MAX_SIDE = 1000  # px; image tokens scale with pixel count
 
 SYSTEM = """You extract live music events from Instagram posts by Seoul/Korea venues, bands and promoters.
 The audience is foreigners living in Korea who may not read Korean, so give English values, keeping Korean originals where noted.
 
 Rules:
-- Only record concrete upcoming performances with a specific date. Ignore recaps of past shows, merch, album announcements without a show date, general venue promos, and thank-you posts.
+- Only record concrete upcoming LIVE MUSIC with a specific date: bands, solo artists, live jazz/acoustic sets, and club nights with named DJs. Ignore recaps of past shows, merch, album announcements without a show date, general venue promos, and thank-you posts.
+- Skip events that are not live music: stand-up comedy, talks, workshops and classes, film screenings, markets, fan meetings.
+- Skip playlist or request nights at music bars where nobody performs (e.g. "the greatest music of [artist]", "90s rock night", themed listening nights). If the post names a DJ who is playing, keep it and tag it "dj".
 - Posters often omit the year. Use the post date to infer it: choose the nearest date on or after (post date - 7 days).
 - One post can list several shows (a monthly schedule, a tour). Record each date/venue as its own event.
 - Times are KST in 24h "HH:MM". Leave a field null rather than guessing.
@@ -81,7 +87,7 @@ class ClaudeExtractor:
             f"Caption:\n{post.caption or '(no caption)'}"
         )
         content: list[dict] = []
-        for url in post.image_urls:
+        for url in post.image_urls[:MAX_IMAGES]:
             try:
                 content.append(_image_block(url))
             except Exception as e:  # a dead CDN link shouldn't lose the caption
@@ -123,24 +129,22 @@ def _events_from_text(text: str) -> list[dict]:
 
 
 def _image_block(url: str) -> dict:
-    """Instagram CDN URLs are public but short-lived. Download and inline them
-    so Claude always gets the bytes."""
+    """Download a poster, shrink it, and inline it as JPEG. Instagram CDN URLs
+    are short-lived, and smaller images cost far fewer tokens."""
+    from io import BytesIO
+
+    from PIL import Image
+
     r = requests.get(url, timeout=30, headers={"User-Agent": "Mozilla/5.0 (b1.shows listings bot)"})
     r.raise_for_status()
-    b = r.content
-    if b[:3] == b"\xff\xd8\xff":
-        media_type = "image/jpeg"
-    elif b[:8] == b"\x89PNG\r\n\x1a\n":
-        media_type = "image/png"
-    elif b[:4] == b"RIFF" and b[8:12] == b"WEBP":
-        media_type = "image/webp"
-    elif b[:4] == b"GIF8":
-        media_type = "image/gif"
-    else:
-        raise ValueError(f"unsupported image format ({r.headers.get('content-type')})")
+    img = Image.open(BytesIO(r.content))
+    img = img.convert("RGB")
+    img.thumbnail((MAX_SIDE, MAX_SIDE))
+    buf = BytesIO()
+    img.save(buf, format="JPEG", quality=85)
     return {
         "type": "image",
-        "source": {"type": "base64", "media_type": media_type, "data": base64.b64encode(b).decode()},
+        "source": {"type": "base64", "media_type": "image/jpeg", "data": base64.b64encode(buf.getvalue()).decode()},
     }
 
 

@@ -1,1 +1,1829 @@
-[]
+[
+  {
+    "date": "2026-11-19",
+    "doors": null,
+    "start": "23:00",
+    "title": "French Night",
+    "title_ko": null,
+    "venue": "Club FF",
+    "venue_ko": "클럽 FF",
+    "venue_handle": "hongdaeff",
+    "area": "Hongdae",
+    "city": "Seoul",
+    "lineup": [
+      "DJ Eddie"
+    ],
+    "lineup_ko": [],
+    "price": "Free (No cover, entry after ordering)",
+    "ticket_url": null,
+    "genres": [
+      "dj",
+      "pop"
+    ],
+    "notes": "Hongdae. 50% French music, 50% party anthems. DJ Eddie all night. Entry after ordering a drink/item.",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "hongdaeff",
+        "url": "https://www.instagram.com/p/DfuL898Ru6x/",
+        "posted": "2026-11-14T21:24:39+09:00"
+      }
+    ],
+    "id": "b3e256db4c7f",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-14",
+    "doors": null,
+    "start": "17:30",
+    "title": "TIME BOMB",
+    "title_ko": null,
+    "venue": "Club FF",
+    "venue_ko": "클럽 FF",
+    "venue_handle": "hongdaeff",
+    "area": "Hongdae",
+    "city": "Seoul",
+    "lineup": [
+      "Dead Chant",
+      "Fishingirls",
+      "Monkey Gang War",
+      "Daddy O Radio",
+      "Killerty",
+      "Rux"
+    ],
+    "lineup_ko": [
+      "데드챈트",
+      "피싱걸스",
+      "몽키갱워",
+      "데디오레디오",
+      "킬러티",
+      "럭스"
+    ],
+    "price": "Cover 35,000 KRW (door only)",
+    "ticket_url": null,
+    "genres": [
+      "indie",
+      "punk",
+      "rock"
+    ],
+    "notes": "Door-only ticketing, no advance booking; tickets sold from about 1 hour before show start. Killerty replaces cancelled Forger Army (포져군단). Set times: Dead Chant 17:30, Fishingirls 18:15, Monkey Gang War 19:00, Daddy O Radio 19:50, Killerty 20:40, Rux 21:30. Minors must leave by 22:00. No outside food or drinks.",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "hongdaeff",
+        "url": "https://www.instagram.com/p/DfrdLWkgYaN/",
+        "posted": "2026-11-13T19:50:16+09:00"
+      }
+    ],
+    "id": "83d6b3de6bd6",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-21",
+    "doors": "19:45",
+    "start": "20:45",
+    "title": "The Kids Are Alright",
+    "title_ko": null,
+    "venue": "Club FF",
+    "venue_ko": "클럽 FF",
+    "venue_handle": "hongdaeff",
+    "area": "Hongdae",
+    "city": "Seoul",
+    "lineup": [
+      "Liferadio",
+      "Peace Pizza Piece",
+      "Oysters"
+    ],
+    "lineup_ko": [
+      "라이프라디오",
+      "피스피자피스",
+      "오이스터즈"
+    ],
+    "price": "Door only 30,000 KRW",
+    "ticket_url": null,
+    "genres": [
+      "indie",
+      "punk",
+      "rock"
+    ],
+    "notes": "Door tickets only, no advance booking; door ticketing starts about 1 hour before show. Set times: Liferadio 20:45, Peace Pizza Piece 21:30, Oysters 22:15. DJ party after the show from 23:00. Minors must leave by 22:00.",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "hongdaeff",
+        "url": "https://www.instagram.com/p/DfmJNL2M5cO/",
+        "posted": "2026-11-11T18:23:44+09:00"
+      }
+    ],
+    "id": "5d506e4d3e33",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-15",
+    "doors": null,
+    "start": "22:00",
+    "title": "Metal Night",
+    "title_ko": "메탈 나이트",
+    "venue": "Club FF",
+    "venue_ko": "클럽 FF",
+    "venue_handle": "hongdaeff",
+    "area": "Hongdae",
+    "city": "Seoul",
+    "lineup": [
+      "DJ Eddie"
+    ],
+    "lineup_ko": [
+      "DJ Eddie"
+    ],
+    "price": "No cover (drink pre-order required on entry)",
+    "ticket_url": null,
+    "genres": [
+      "dj",
+      "metal",
+      "rock"
+    ],
+    "notes": "All metal genres DJ night, all night. First 30 guests wearing a metal band T-shirt get a free special metal cocktail.",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "hongdaeff",
+        "url": "https://www.instagram.com/p/DfhlTgiM6hP/",
+        "posted": "2026-11-09T23:56:20+09:00"
+      }
+    ],
+    "id": "9ead30a7e5ec",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-27",
+    "doors": null,
+    "start": "20:00",
+    "title": "Live Club Day Vol. 85",
+    "title_ko": "제 85회 라이브클럽데이",
+    "venue": "Club FF",
+    "venue_ko": "클럽 FF",
+    "venue_handle": "hongdaeff",
+    "area": "Hongdae",
+    "city": "Seoul",
+    "lineup": [
+      "KIMSEUNGJOO",
+      "THE VANE",
+      "Men And Them",
+      "DOORLESSHOUSE",
+      "SØHJ",
+      "ADIOS AUDIO",
+      "OYSTERS",
+      "UREUK AND THE GYPSIES",
+      "WOO HUIJUN",
+      "24TH",
+      "JKC",
+      "KIRARA",
+      "87DANCE",
+      "FAT HAMSTER & KANG NEW",
+      "FuturePeerClub",
+      "HOLLOW JAN"
+    ],
+    "lineup_ko": [
+      "김승주",
+      "더베인",
+      "맨앤뎀",
+      "문없는집",
+      "서현정",
+      "아디오스오디오",
+      "오이스터즈",
+      "우륵과 풍각쟁이들",
+      "우희준",
+      "이십사일",
+      "잭킹콩",
+      "키라라",
+      "팔칠댄스",
+      "팻햄스터 & 캉뉴",
+      "퓨처피어클럽",
+      "할로우잰"
+    ],
+    "price": null,
+    "ticket_url": null,
+    "genres": [
+      "indie",
+      "rock"
+    ],
+    "notes": "First lineup announcement, more acts to be announced. Tickets on sale Nov 6 (Fri) 7PM via Melon Ticket. Per-venue lineup split not given on the poster; the participating venues are listed on the poster.",
+    "confidence": 0.7,
+    "sources": [
+      {
+        "handle": "hongdaeff",
+        "url": "https://www.instagram.com/p/DfWampmhh4d/",
+        "posted": "2026-11-05T15:43:44+09:00"
+      }
+    ],
+    "id": "3c36aa78ae80",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-12-26",
+    "doors": null,
+    "start": "18:00",
+    "title": "Dive Or Die",
+    "title_ko": "초록불꽃소년단 연말 단독 콘서트 : Dive Or Die",
+    "venue": "Rolling Hall",
+    "venue_ko": "롤링홀",
+    "venue_handle": "rollinghall",
+    "area": "Hongdae",
+    "city": "Seoul",
+    "lineup": [
+      "Green Flame Boys (Chorok Bulkkot Sonyeondan)"
+    ],
+    "lineup_ko": [
+      "초록불꽃소년단"
+    ],
+    "price": "Advance 55,000 / Door 66,000 KRW",
+    "ticket_url": "https://buly.kr/7FUTWlW",
+    "genres": [
+      "indie",
+      "rock"
+    ],
+    "notes": "Headline solo concert. Tickets open on Melon Ticket at 8 PM on the post date (2026-11-10).",
+    "confidence": 0.97,
+    "sources": [
+      {
+        "handle": "rollinghall",
+        "url": "https://www.instagram.com/reel/Dfi5AIfCF2r/",
+        "posted": "2026-11-10T12:00:20+09:00"
+      },
+      {
+        "handle": "rollinghall",
+        "url": "https://www.instagram.com/p/DfQ3icpDRLj/",
+        "posted": "2026-11-03T12:01:04+09:00"
+      }
+    ],
+    "id": "01e81369f4b9",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-12-24",
+    "doors": null,
+    "start": "20:00",
+    "title": "Kim Dongha Stand-up Comedy Tour <Life Goes On> - Seoul: 2026 Mapo Winter Edition",
+    "title_ko": "김동하 스탠드업 코미디 투어 <Life Goes On> 서울 : 2026 마포 윈터 에디션",
+    "venue": "Mapo Art Center Art Hall MAC",
+    "venue_ko": "마포아트센터 아트홀 맥",
+    "venue_handle": null,
+    "area": null,
+    "city": "Seoul",
+    "lineup": [
+      "Kim Dongha"
+    ],
+    "lineup_ko": [
+      "김동하"
+    ],
+    "price": "88,000 KRW (all seats)",
+    "ticket_url": null,
+    "genres": [
+      "other"
+    ],
+    "notes": "Stand-up comedy show (in Korean), not a music gig. Tickets via NOL Ticket and Yes24. Presented by Mapo Foundation for Arts and Culture and Rolling Hall.",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "rollinghall",
+        "url": "https://www.instagram.com/p/DfgweAFk69v/",
+        "posted": "2026-11-09T16:07:08+09:00"
+      }
+    ],
+    "id": "e52e298e0f76",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-12-25",
+    "doors": null,
+    "start": "18:00",
+    "title": "Kim Dongha Stand-up Comedy Tour <Life Goes On> - Seoul: 2026 Mapo Winter Edition",
+    "title_ko": "김동하 스탠드업 코미디 투어 <Life Goes On> 서울 : 2026 마포 윈터 에디션",
+    "venue": "Mapo Art Center Art Hall MAC",
+    "venue_ko": "마포아트센터 아트홀 맥",
+    "venue_handle": null,
+    "area": null,
+    "city": "Seoul",
+    "lineup": [
+      "Kim Dongha"
+    ],
+    "lineup_ko": [
+      "김동하"
+    ],
+    "price": "88,000 KRW (all seats)",
+    "ticket_url": null,
+    "genres": [
+      "other"
+    ],
+    "notes": "Stand-up comedy show (in Korean), not a music gig. Tickets via NOL Ticket and Yes24. Presented by Mapo Foundation for Arts and Culture and Rolling Hall.",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "rollinghall",
+        "url": "https://www.instagram.com/p/DfgweAFk69v/",
+        "posted": "2026-11-09T16:07:08+09:00"
+      }
+    ],
+    "id": "80c83ff725e2",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-12-06",
+    "doors": null,
+    "start": "17:00",
+    "title": "AxMxP CONCERT <Home Sweet Home> : 2026 MAPO Winter Edition",
+    "title_ko": "AxMxP CONCERT <Home Sweet Home> : 2026 마포 윈터 에디션",
+    "venue": "Mapo Art Center Art Hall MAC",
+    "venue_ko": "마포아트센터 아트홀맥",
+    "venue_handle": null,
+    "area": null,
+    "city": "Seoul",
+    "lineup": [
+      "AxMxP"
+    ],
+    "lineup_ko": [
+      "에이엠피"
+    ],
+    "price": "1F 121,000 KRW / 2F 110,000 KRW",
+    "ticket_url": null,
+    "genres": [
+      "pop",
+      "rock"
+    ],
+    "notes": "Tickets on sale via Yes24 Ticket from 2026-11-09 20:00 KST (fan club presale was 2026-11-05 20:00). Hosted by Mapo Foundation for Arts and Culture and Rolling Hall.",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "rollinghall",
+        "url": "https://www.instagram.com/p/DfgwVIrE2Wh/",
+        "posted": "2026-11-09T16:05:56+09:00"
+      }
+    ],
+    "id": "571c8550cb60",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-12-31",
+    "doors": null,
+    "start": "20:00",
+    "title": "Nilo Year End Solo Concert 'Our Season : Stay'",
+    "title_ko": "닐로 연말 단독 콘서트 'Our Season : Stay'",
+    "venue": "Rolling Hall",
+    "venue_ko": "롤링홀",
+    "venue_handle": "rollinghall",
+    "area": "Hongdae",
+    "city": "Seoul",
+    "lineup": [
+      "Nilo"
+    ],
+    "lineup_ko": [
+      "닐로"
+    ],
+    "price": "66,000 KRW",
+    "ticket_url": "ticket.melon.com",
+    "genres": [
+      "pop"
+    ],
+    "notes": "Tickets on Melon Ticket, opening 2026-11-16 (Mon) 20:00 KST.",
+    "confidence": 0.97,
+    "sources": [
+      {
+        "handle": "rollinghall",
+        "url": "https://www.instagram.com/p/DfgUQY_kZhM/",
+        "posted": "2026-11-09T12:00:37+09:00"
+      }
+    ],
+    "id": "f47d485a5bdd",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-12-06",
+    "doors": null,
+    "start": "17:00",
+    "title": "ChRocktikal The 1st World Tour [CRTK : The End of Beginning] in Seoul",
+    "title_ko": null,
+    "venue": "Rolling Hall",
+    "venue_ko": "롤링홀",
+    "venue_handle": "rollinghall",
+    "area": "Hongdae",
+    "city": "Seoul",
+    "lineup": [
+      "ChRocktikal"
+    ],
+    "lineup_ko": [
+      "크록티칼"
+    ],
+    "price": "89,000 KRW",
+    "ticket_url": "https://url.kr/8qnnp8",
+    "genres": [
+      "indie",
+      "rock"
+    ],
+    "notes": "Tickets open on Melon Ticket at 8 PM on the post date (2026-11-05).",
+    "confidence": 0.97,
+    "sources": [
+      {
+        "handle": "rollinghall",
+        "url": "https://www.instagram.com/reel/DfWBCbND25k/",
+        "posted": "2026-11-05T12:00:21+09:00"
+      },
+      {
+        "handle": "rollinghall",
+        "url": "https://www.instagram.com/p/DfD_er5iji7/",
+        "posted": "2026-10-29T12:00:22+09:00"
+      }
+    ],
+    "id": "fd2706298885",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-12-24",
+    "doors": null,
+    "start": "20:00",
+    "title": "2026 JINHO <JIN-GLE PARTY> (Jinho's Christmas Party!)",
+    "title_ko": "2026 JINHO <JIN-GLE PARTY>",
+    "venue": "Rolling Hall",
+    "venue_ko": "롤링홀",
+    "venue_handle": "rollinghall",
+    "area": "Hongdae",
+    "city": "Seoul",
+    "lineup": [
+      "Jinho (PENTAGON)",
+      "Jinho"
+    ],
+    "lineup_ko": [
+      "진호 (펜타곤)",
+      "진호"
+    ],
+    "price": "99,000 KRW",
+    "ticket_url": "https://url.kr/ayyp1y",
+    "genres": [
+      "pop"
+    ],
+    "notes": "VIP access only. Tickets on Melon Ticket, opening 2026-11-03 at 8 PM.",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "rollinghall",
+        "url": "https://www.instagram.com/reel/DfQ3b7CjP4L/",
+        "posted": "2026-11-03T12:00:27+09:00"
+      },
+      {
+        "handle": "rollinghall",
+        "url": "https://www.instagram.com/p/DfD_kMSjx1X/",
+        "posted": "2026-10-29T12:01:06+09:00"
+      }
+    ],
+    "id": "7fc40fa6f359",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-12-25",
+    "doors": null,
+    "start": "17:00",
+    "title": "2026 JINHO <JIN-GLE PARTY> (Jinho's Christmas Party!)",
+    "title_ko": "2026 JINHO <JIN-GLE PARTY>",
+    "venue": "Rolling Hall",
+    "venue_ko": "롤링홀",
+    "venue_handle": "rollinghall",
+    "area": "Hongdae",
+    "city": "Seoul",
+    "lineup": [
+      "Jinho (PENTAGON)",
+      "Jinho"
+    ],
+    "lineup_ko": [
+      "진호 (펜타곤)",
+      "진호"
+    ],
+    "price": "99,000 KRW",
+    "ticket_url": "https://url.kr/ayyp1y",
+    "genres": [
+      "pop"
+    ],
+    "notes": "VIP access only. Tickets on Melon Ticket, opening 2026-11-03 at 8 PM.",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "rollinghall",
+        "url": "https://www.instagram.com/reel/DfQ3b7CjP4L/",
+        "posted": "2026-11-03T12:00:27+09:00"
+      },
+      {
+        "handle": "rollinghall",
+        "url": "https://www.instagram.com/p/DfD_kMSjx1X/",
+        "posted": "2026-10-29T12:01:06+09:00"
+      }
+    ],
+    "id": "167ad0ac4175",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-23",
+    "doors": "18:30",
+    "start": "19:00",
+    "title": "2xFE : Korea Showcase",
+    "title_ko": "2xFE : Korea Showcase",
+    "venue": "Rolling Hall",
+    "venue_ko": "롤링홀",
+    "venue_handle": "rollinghall",
+    "area": "Hongdae",
+    "city": "Seoul",
+    "lineup": [
+      "2xFE"
+    ],
+    "lineup_ko": [
+      "투에프이"
+    ],
+    "price": "Free",
+    "ticket_url": "https://bit.ly/4i8gfIg",
+    "genres": [
+      "pop"
+    ],
+    "notes": "Attendance by application via Google Form, opens at 18:00 on the post date (Oct 28). Poster also mentions Melon Ticket. Showcase on Monday.",
+    "confidence": 0.97,
+    "sources": [
+      {
+        "handle": "rollinghall",
+        "url": "https://www.instagram.com/reel/DfByb3JgadZ/",
+        "posted": "2026-10-28T15:28:11+09:00"
+      },
+      {
+        "handle": "rollinghall",
+        "url": "https://www.instagram.com/p/De8RHvpjwUk/",
+        "posted": "2026-10-26T12:00:34+09:00"
+      }
+    ],
+    "id": "9ce090085df1",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-27",
+    "doors": null,
+    "start": "20:00",
+    "title": "Biuret Concert 4 Seasons : Winter",
+    "title_ko": "뷰렛 4 Seasons : Winter",
+    "venue": "Rolling Hall",
+    "venue_ko": "롤링홀",
+    "venue_handle": "rollinghall",
+    "area": "Hongdae",
+    "city": "Seoul",
+    "lineup": [
+      "Biuret",
+      "GAEHWA"
+    ],
+    "lineup_ko": [
+      "뷰렛",
+      "개화"
+    ],
+    "price": "66,000 KRW",
+    "ticket_url": "https://buly.kr/7mEghIe",
+    "genres": [
+      "indie",
+      "rock"
+    ],
+    "notes": "Tickets via Melon Ticket (ticket.melon.com). GAEHWA is the guest. Ticket opening was announced for 8 PM on the post date.",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "rollinghall",
+        "url": "https://www.instagram.com/reel/DfBayNjjsbf/",
+        "posted": "2026-10-28T12:01:18+09:00"
+      }
+    ],
+    "id": "60276ba667b7",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-21",
+    "doors": "20:00",
+    "start": "20:00",
+    "title": "Noite Brasileira Vol. 4",
+    "title_ko": null,
+    "venue": "Channel 1969",
+    "venue_ko": "채널1969",
+    "venue_handle": "channel1969.seoul",
+    "area": "Yeonnam",
+    "city": "Seoul",
+    "lineup": [
+      "YG Brazilian Lab",
+      "Son Wonjin & Samba Friends",
+      "DJ Nanbong",
+      "DJ Mospiran",
+      "DJ Leelazer",
+      "DJ Noleeyuu"
+    ],
+    "lineup_ko": [
+      "손원진과 쌈바친구들"
+    ],
+    "price": "Door 20,000 KRW",
+    "ticket_url": null,
+    "genres": [
+      "dj",
+      "jazz",
+      "other"
+    ],
+    "notes": "Brazilian music night, 20:00-02:00. Live: YG Brazilian Lab (Japan) 21:00, Son Wonjin & friends 23:00. Vinyl DJs. Pop-up Brazilian hotdog (Cachorro Quente) by Blindspot (사각지대). Timetable: Noleeyuu 20-21, YG 21-22, Nanbong 22-23, Son Wonjin 23-24, Mospiran 00-01, Leelazer 01-02.",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "channel1969.seoul",
+        "url": "https://www.instagram.com/p/Dfo4_UwFKsv/",
+        "posted": "2026-11-12T19:55:31+09:00"
+      }
+    ],
+    "id": "4dcd58b19376",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-12-06",
+    "doors": null,
+    "start": "18:00",
+    "title": "Are the Mountains and Rivers Changed? – Shin Seung-eun 1st Album 10th Anniversary Concert",
+    "title_ko": "강산이 변했나요?",
+    "venue": "Channel 1969",
+    "venue_ko": "채널1969",
+    "venue_handle": "channel1969.seoul",
+    "area": "Yeonnam",
+    "city": "Seoul",
+    "lineup": [
+      "Shin Seungeun",
+      "Muy (drums)",
+      "Kim Jeongmin (bass)",
+      "Yang Dongwook (electric guitar)"
+    ],
+    "lineup_ko": [
+      "신승은",
+      "무이",
+      "김정민",
+      "양동욱"
+    ],
+    "price": "Advance 40,000 KRW / Door 45,000 KRW",
+    "ticket_url": null,
+    "genres": [
+      "folk",
+      "indie"
+    ],
+    "notes": "90-minute show. Advance booking opens Nov 9 at 18:00 via Channel1969 Instagram profile link or Naver Reservation. Text interpretation (captioning) available.",
+    "confidence": 0.93,
+    "sources": [
+      {
+        "handle": "channel1969.seoul",
+        "url": "https://www.instagram.com/p/DfhLUSxFDub/",
+        "posted": "2026-11-09T20:01:44+09:00"
+      }
+    ],
+    "id": "7470251d651f",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-19",
+    "doors": "19:00",
+    "start": "20:00",
+    "title": "Thursday Music Life",
+    "title_ko": "목요음악생활",
+    "venue": "Channel 1969",
+    "venue_ko": "채널1969",
+    "venue_handle": "channel1969.seoul",
+    "area": "Yeonnam",
+    "city": "Seoul",
+    "lineup": [
+      "Keith Says One More",
+      "Sloejean"
+    ],
+    "lineup_ko": [
+      "키스세이즈원모어",
+      "슬로우진"
+    ],
+    "price": "10,000 KRW",
+    "ticket_url": null,
+    "genres": [
+      "indie"
+    ],
+    "notes": "Sets at 20:00 (Keith Says One More) and 21:00 (Sloejean). Naver reservation available.",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "handle": "channel1969.seoul",
+        "url": "https://www.instagram.com/p/Dfg-nK8PCX3/",
+        "posted": "2026-11-09T18:11:58+09:00"
+      }
+    ],
+    "id": "e83089356347",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-26",
+    "doors": "19:00",
+    "start": "20:00",
+    "title": "Thursday Music Life",
+    "title_ko": "목요음악생활",
+    "venue": "Channel 1969",
+    "venue_ko": "채널1969",
+    "venue_handle": "channel1969.seoul",
+    "area": "Yeonnam",
+    "city": "Seoul",
+    "lineup": [
+      "Gneuldance",
+      "Nazare"
+    ],
+    "lineup_ko": [
+      "그늘춤",
+      "나자레"
+    ],
+    "price": "10,000 KRW",
+    "ticket_url": null,
+    "genres": [
+      "indie"
+    ],
+    "notes": "Sets at 20:00 (Gneuldance) and 21:00 (Nazare). Naver reservation available.",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "handle": "channel1969.seoul",
+        "url": "https://www.instagram.com/p/Dfg-nK8PCX3/",
+        "posted": "2026-11-09T18:11:58+09:00"
+      }
+    ],
+    "id": "86a3290f6917",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-12-05",
+    "doors": "17:30",
+    "start": "18:00",
+    "title": "Club SHARP - Very First Last Month Ever",
+    "title_ko": null,
+    "venue": "Club SHARP",
+    "venue_ko": "클럽 샤프",
+    "venue_handle": "club_sharp",
+    "area": "Mangwon",
+    "city": "Seoul",
+    "lineup": [
+      "The Reseters",
+      "Seoul Dolmangchi",
+      "...Whatever That Means",
+      "18Fevers",
+      "Startline",
+      "Lustrouble"
+    ],
+    "lineup_ko": [
+      "서울 돌망치"
+    ],
+    "price": "Advance 30,000 / Door 35,000 KRW",
+    "ticket_url": null,
+    "genres": [
+      "punk",
+      "rock"
+    ],
+    "notes": "Advance payment by bank transfer (Woori Bank 1002 062 004400, 유진석) in your own name; advance deadline Dec 4 23:59. Non-refundable. No entry limit.",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "handle": "club_sharp",
+        "url": "https://www.instagram.com/p/DfT2uaZP2GM/",
+        "posted": "2026-11-04T15:52:46+09:00"
+      },
+      {
+        "handle": "club_sharp",
+        "url": "https://www.instagram.com/p/De8Xei5sU29/",
+        "posted": "2026-10-26T12:57:06+09:00"
+      }
+    ],
+    "id": "b8cc388d5e12",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-12-12",
+    "doors": null,
+    "start": null,
+    "title": "Club SHARP - Very First Last Month Ever",
+    "title_ko": null,
+    "venue": "Club SHARP",
+    "venue_ko": "클럽 샤프",
+    "venue_handle": "club_sharp",
+    "area": "Mangwon",
+    "city": "Seoul",
+    "lineup": [
+      "Find the Spot",
+      "Sutegoro",
+      "Huqueymsaw",
+      "Dustpan (JPN)",
+      "Tonedeaf (JPN)"
+    ],
+    "lineup_ko": [
+      "흑염소"
+    ],
+    "price": "Advance 30,000 / Door 35,000 KRW",
+    "ticket_url": null,
+    "genres": [
+      "hardcore",
+      "punk"
+    ],
+    "notes": "Show time differs from other dates; check the day-of poster. Advance booking requires filling out a form via the behindthetongue account link. Non-refundable.",
+    "confidence": 0.85,
+    "sources": [
+      {
+        "handle": "club_sharp",
+        "url": "https://www.instagram.com/p/DfT2uaZP2GM/",
+        "posted": "2026-11-04T15:52:46+09:00"
+      },
+      {
+        "handle": "club_sharp",
+        "url": "https://www.instagram.com/p/De8Xei5sU29/",
+        "posted": "2026-10-26T12:57:06+09:00"
+      }
+    ],
+    "id": "5d16f128ffa8",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-12-19",
+    "doors": "17:30",
+    "start": "18:00",
+    "title": "Club SHARP - Very First Last Month Ever",
+    "title_ko": null,
+    "venue": "Club SHARP",
+    "venue_ko": "클럽 샤프",
+    "venue_handle": "club_sharp",
+    "area": "Mangwon",
+    "city": "Seoul",
+    "lineup": [
+      "Nahu",
+      "Slant",
+      "Palecistus",
+      "No Shelter",
+      "WWA (World Wrestling Association)"
+    ],
+    "lineup_ko": [],
+    "price": "Advance 30,000 / Door 35,000 KRW",
+    "ticket_url": null,
+    "genres": [
+      "hardcore",
+      "punk"
+    ],
+    "notes": "Advance payment by bank transfer (Woori Bank 1002 062 004400, 유진석) in your own name; advance deadline Dec 4 23:59. Non-refundable. No entry limit.",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "handle": "club_sharp",
+        "url": "https://www.instagram.com/p/DfT2uaZP2GM/",
+        "posted": "2026-11-04T15:52:46+09:00"
+      },
+      {
+        "handle": "club_sharp",
+        "url": "https://www.instagram.com/p/De8Xei5sU29/",
+        "posted": "2026-10-26T12:57:06+09:00"
+      }
+    ],
+    "id": "a1aeb698a690",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-12-27",
+    "doors": "17:30",
+    "start": "18:00",
+    "title": "Club SHARP - Very First Last Month Ever",
+    "title_ko": null,
+    "venue": "Club SHARP",
+    "venue_ko": "클럽 샤프",
+    "venue_handle": "club_sharp",
+    "area": "Mangwon",
+    "city": "Seoul",
+    "lineup": [
+      "Burning Hepburn",
+      "Row Brothers",
+      "Kilbadak",
+      "Skasucks",
+      "+1 more TBA"
+    ],
+    "lineup_ko": [
+      "길바닥"
+    ],
+    "price": "Advance 30,000 / Door 35,000 KRW",
+    "ticket_url": null,
+    "genres": [
+      "punk",
+      "rock"
+    ],
+    "notes": "Final show. Advance payment by bank transfer (Woori Bank 1002 062 004400, 유진석) in your own name; advance deadline Dec 4 23:59. Non-refundable. No entry limit.",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "handle": "club_sharp",
+        "url": "https://www.instagram.com/p/DfT2uaZP2GM/",
+        "posted": "2026-11-04T15:52:46+09:00"
+      },
+      {
+        "handle": "club_sharp",
+        "url": "https://www.instagram.com/p/De8Xei5sU29/",
+        "posted": "2026-10-26T12:57:06+09:00"
+      }
+    ],
+    "id": "a26e8e75b7a1",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-22",
+    "doors": "23:40",
+    "start": "00:00",
+    "title": "Bushiroad Party Music (B.P.M)",
+    "title_ko": "부시로드 파티 뮤직",
+    "venue": "1nfinity Club",
+    "venue_ko": "신촌 인피니티클럽",
+    "venue_handle": "1nfntclb",
+    "area": "Sinchon",
+    "city": "Seoul",
+    "lineup": [
+      "Jeokbalchu",
+      "StaRi9ht",
+      "mob",
+      "Gongsaeop",
+      "AAO",
+      "Seomaru",
+      "Sereu",
+      "Gongjino"
+    ],
+    "lineup_ko": [
+      "적발추",
+      "StaRi9ht",
+      "mob",
+      "공사업",
+      "에이에이오",
+      "서마루",
+      "세르",
+      "공지노"
+    ],
+    "price": "Advance 20,000 KRW / Door 25,000 KRW",
+    "ticket_url": null,
+    "genres": [
+      "dj",
+      "electronic"
+    ],
+    "notes": "DJ event playing only songs from Bushiroad franchises (BanG Dream!, Revue Starlight, D4DJ, Assault Lily, ARGONAVIS, Milky Holmes). Song requests accepted. Runs until 05:20 on Nov 22 (doors 23:40 on Nov 21). VJs: Erinana, Name, Mcdowell. Advance tickets via link in bio.",
+    "confidence": 0.85,
+    "sources": [
+      {
+        "handle": "1nfntclb",
+        "url": "https://www.instagram.com/p/Dfu5lMdJWzM/",
+        "posted": "2026-11-15T03:56:11+09:00"
+      }
+    ],
+    "id": "2842e2cf6a0e",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-20",
+    "doors": "19:00",
+    "start": "19:30",
+    "title": "1nfinity Club DJ Class Workshop Party Vol. 19",
+    "title_ko": "인피니티클럽 디제이클래스 워크샵 파티 19기",
+    "venue": "1nfinity Club",
+    "venue_ko": "인피니티클럽",
+    "venue_handle": "1nfntclb",
+    "area": "Sinchon",
+    "city": "Seoul",
+    "lineup": [
+      "kat tv",
+      "shampoo",
+      "erica",
+      "Dung2",
+      "Chov0u",
+      "MAOZI",
+      "MYONG",
+      "juicy",
+      "Saya_Minus",
+      "angel3301",
+      "Chuuta",
+      "Netizen",
+      "sensei"
+    ],
+    "lineup_ko": [
+      "캐티방송",
+      "샴푸",
+      "에리카",
+      "덩이",
+      "쵸보",
+      "마오쯔",
+      "묭",
+      "쥬시",
+      "사야 마이너스",
+      "엔젤삼삼옹일",
+      "츄타",
+      "누리꾼",
+      "센세"
+    ],
+    "price": "Free",
+    "ticket_url": null,
+    "genres": [
+      "dj",
+      "electronic"
+    ],
+    "notes": "Graduation showcase of DJ class 19th cohort rookie DJs. Free entry. Address: Yonsei-ro 7an-gil 34-3, basement. Timetable: 19:30 kat tv, then 20-minute sets through 23:30 sensei.",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "1nfntclb",
+        "url": "https://www.instagram.com/p/Dfqw7Q0pRuZ/",
+        "posted": "2026-11-13T13:23:35+09:00"
+      }
+    ],
+    "id": "0500b03aa476",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-15",
+    "doors": "18:30",
+    "start": "19:00",
+    "title": "TINY AF SHOW - AFTER PATCHROOM",
+    "title_ko": null,
+    "venue": "Spin and Grind",
+    "venue_ko": "스핀 앤 그라인드",
+    "venue_handle": "spinandgrind",
+    "area": "Sinchon",
+    "city": "Seoul",
+    "lineup": [
+      "Chip Post Gang",
+      "Hypnosis Therapy"
+    ],
+    "lineup_ko": [
+      "칩 포스트 갱",
+      "힙노시스테라피"
+    ],
+    "price": "Advance 30,000 KRW",
+    "ticket_url": null,
+    "genres": [
+      "punk",
+      "rock"
+    ],
+    "notes": "SOLD OUT. Small capacity; Sinchon shop (2F, 32 Yonsei-ro 12-gil, Seodaemun-gu). Chip Post Gang 19:00-19:30, Hypnosis Therapy 19:40-20:20. Ticket holders get a limited-edition pin button. Reservation deadline Nov 13 midnight; non-refundable after.",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "spinandgrind",
+        "url": "https://www.instagram.com/p/DfOgU5JBjZL/",
+        "posted": "2026-11-02T14:01:02+09:00"
+      }
+    ],
+    "id": "b39788b8dcf6",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-27",
+    "doors": "19:00",
+    "start": "20:00",
+    "title": "MRN Groove: DECADENT LIVE",
+    "title_ko": "MRN Groove 데카당(DECADENT) LIVE",
+    "venue": "Morene Sukha",
+    "venue_ko": "모래내극락",
+    "venue_handle": "morene__sukha",
+    "area": "West Seoul",
+    "city": "Seoul",
+    "lineup": [
+      "DECADENT"
+    ],
+    "lineup_ko": [
+      "데카당"
+    ],
+    "price": "Advance 40,000 KRW / Door 45,000 KRW (no door sales if advance sells out)",
+    "ticket_url": null,
+    "genres": [
+      "indie",
+      "rock"
+    ],
+    "notes": "Standing, unreserved, first-come entry. Ages 19+ only (ID check). One drink order per person required. Show 20:00-21:00. Booking via Linktree in profile / Naver reservation. No parking, no lockers.",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "morene__sukha",
+        "url": "https://www.instagram.com/p/Dfjln-Kzz8M/",
+        "posted": "2026-11-10T20:00:07+09:00"
+      }
+    ],
+    "id": "7874225f8f3e",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-28",
+    "doors": "20:00",
+    "start": "20:00",
+    "title": "From Midnight TOKYO Vol.94",
+    "title_ko": "프롬 미드나잇 도쿄 Vol.94",
+    "venue": "Morene Sukha",
+    "venue_ko": "모래내극락",
+    "venue_handle": "morene__sukha",
+    "area": "West Seoul",
+    "city": "Seoul",
+    "lineup": [
+      "DJ Cha Seungwoo",
+      "DJ Kim Mingyu",
+      "DJ Hasegawa Yohei"
+    ],
+    "lineup_ko": [
+      "차승우",
+      "김민규",
+      "하세가와 요헤이"
+    ],
+    "price": "Walk-in only, 15,000 KRW",
+    "ticket_url": null,
+    "genres": [
+      "dj"
+    ],
+    "notes": "DJ party. Walk-in entry only. Adults only, ID check at entrance. One drink order per person required. No parking. Entry wristband required. Address: 2F, 7 Susaek-ro 4-gil, Seodaemun-gu (near Gajwa Station).",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "morene__sukha",
+        "url": "https://www.instagram.com/p/DfjpDpLo7SO/",
+        "posted": "2026-11-10T19:00:03+09:00"
+      }
+    ],
+    "id": "e2b16772d659",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-21",
+    "doors": "19:00",
+    "start": "20:00",
+    "title": "TROPICOLOR",
+    "title_ko": "트로피칼라",
+    "venue": "Morene Sukha",
+    "venue_ko": "모래내극락",
+    "venue_handle": "morene__sukha",
+    "area": "West Seoul",
+    "city": "Seoul",
+    "lineup": [
+      "Reggae Chingudeul (Reggae Friends) live jam session",
+      "WHO KNOWS",
+      "DJ ZION",
+      "DJ SGSY"
+    ],
+    "lineup_ko": [
+      "레게 친구들",
+      "후노즈",
+      "지온",
+      "슈가석율"
+    ],
+    "price": "Walk-in 10,000 KRW",
+    "ticket_url": null,
+    "genres": [
+      "dj",
+      "other"
+    ],
+    "notes": "Reggae jam session (Noh Seontaek, Ra Gukhsan, Sugar Seokyul/Smiley, Ssikssik, Euna, Lee Jangdan) plus Dancehall dance team WHO KNOWS and DJs. Standing, first-come entry, no under-19s (ID check), one drink per person required. Near Gajwa Station.",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "morene__sukha",
+        "url": "https://www.instagram.com/p/DfhXqwSI4QC/",
+        "posted": "2026-11-09T21:49:40+09:00"
+      }
+    ],
+    "id": "205836c071ec",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-21",
+    "doors": "13:00",
+    "start": "14:00",
+    "title": "MRN Groove: chiyoonhae LIVE Concert",
+    "title_ko": "MRN Groove 지윤해 LIVE",
+    "venue": "Morene Sukha",
+    "venue_ko": "모래내극락",
+    "venue_handle": "morene__sukha",
+    "area": "West Seoul",
+    "city": "Seoul",
+    "lineup": [
+      "Chiyoonhae",
+      "Jung Sumin (Double Bass)"
+    ],
+    "lineup_ko": [
+      "지윤해",
+      "정수민"
+    ],
+    "price": "Advance 40,000 / Door 45,000 KRW (no door sales if advance sells out)",
+    "ticket_url": null,
+    "genres": [
+      "indie",
+      "other"
+    ],
+    "notes": "Tickets open 2026-11-09 6PM via link in profile (Linktree). Unreserved standing, first come first served. Over-19 only, ID check at entrance. One drink per person required. No parking, no lockers. Show 14:00–15:00. Venue in Seodaemun-gu, near Gajwa Station (Gyeongui-Jungang Line).",
+    "confidence": 0.93,
+    "sources": [
+      {
+        "handle": "morene__sukha",
+        "url": "https://www.instagram.com/p/Dfeql8pTfDc/",
+        "posted": "2026-11-09T12:00:06+09:00"
+      }
+    ],
+    "id": "9f0e64f8b3f9",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-20",
+    "doors": null,
+    "start": "22:00",
+    "title": "Midnight Salon Vol.2",
+    "title_ko": "미드나잇 살롱",
+    "venue": "Morene Sukha",
+    "venue_ko": "모래내 극락",
+    "venue_handle": "morene__sukha",
+    "area": "West Seoul",
+    "city": "Seoul",
+    "lineup": [
+      "DJ Rocket",
+      "DJ Baxa"
+    ],
+    "lineup_ko": [
+      "DJ ROCKET",
+      "DJ BAXA"
+    ],
+    "price": "Free (walk-in)",
+    "ticket_url": null,
+    "genres": [
+      "dj",
+      "electronic"
+    ],
+    "notes": "Set times: Rocket 22:00-23:00, Baxa 23:00-24:00. Standing, first come first served; no door sales if reservations sell out. 19+/ID check for all, no minors. One drink per person required. Near Gagwa Station (Gyeongui-Jungang line), 4 min walk.",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "morene__sukha",
+        "url": "https://www.instagram.com/p/Dfb6rAro-qE/",
+        "posted": "2026-11-07T19:00:01+09:00"
+      }
+    ],
+    "id": "4ee999cc5bce",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-29",
+    "doors": "16:00",
+    "start": "17:00",
+    "title": "MRN Groove: UINONE LIVE",
+    "title_ko": "MRN Groove 유인원(UINONE) LIVE",
+    "venue": "Morene Sukha",
+    "venue_ko": "모래내극락",
+    "venue_handle": "morene__sukha",
+    "area": "West Seoul",
+    "city": "Seoul",
+    "lineup": [
+      "UINONE"
+    ],
+    "lineup_ko": [
+      "유인원"
+    ],
+    "price": "Advance 30,000 KRW / Door 35,000 KRW",
+    "ticket_url": null,
+    "genres": [
+      "indie",
+      "rock"
+    ],
+    "notes": "18+ only, ID check at entrance. Standing, first-come entry. One drink order per person required. Door sales only if advance tickets not sold out (caption says no door sales if sold out). Set approx 17:00-18:30. No parking. Booking via link in profile/Naver reservation. Near Gajwa Station (Gyeongui-Jungang line).",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "morene__sukha",
+        "url": "https://www.instagram.com/p/DfZXrF8TWC7/",
+        "posted": "2026-11-06T20:00:05+09:00"
+      }
+    ],
+    "id": "251298e8f24a",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-18",
+    "doors": null,
+    "start": "20:00",
+    "title": "Wednesday Sad Music Club",
+    "title_ko": null,
+    "venue": "Pet Sounds",
+    "venue_ko": "펫사운즈",
+    "venue_handle": "petsoundsmusicpub",
+    "area": "Itaewon",
+    "city": "Seoul",
+    "lineup": [
+      "DJ 4pril 5our"
+    ],
+    "lineup_ko": [],
+    "price": "Free",
+    "ticket_url": null,
+    "genres": [
+      "dj",
+      "indie",
+      "shoegaze"
+    ],
+    "notes": "DJ night playing shoegaze, post-rock, midwest emo, indie rock, indie pop. Free entry. Venue is on 3F, Itaewon (21 Hoenamu-ro, Yongsan-gu). Info: +82 10 2396 3050.",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "petsoundsmusicpub",
+        "url": "https://www.instagram.com/p/DfwW-ZRJyER/",
+        "posted": "2026-11-15T17:32:16+09:00"
+      }
+    ],
+    "id": "84d0ad63abd1",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-21",
+    "doors": null,
+    "start": "21:00",
+    "title": "Saturday Rock Night!",
+    "title_ko": "Saturday Rock Night",
+    "venue": "Pet Sounds",
+    "venue_ko": "펫사운즈",
+    "venue_handle": "petsoundsmusicpub",
+    "area": "Itaewon",
+    "city": "Seoul",
+    "lineup": [
+      "DJ High"
+    ],
+    "lineup_ko": [
+      "디제이 하이"
+    ],
+    "price": "Free",
+    "ticket_url": null,
+    "genres": [
+      "dj",
+      "rock"
+    ],
+    "notes": "Free entry. 9PM-3AM, rock music and videos on a big screen. After midnight other genres are added. A free-entry/pay-on-exit live set by a Korean indie band runs until 9PM. Music pub on 3F, Itaewon-dong 278-8.",
+    "confidence": 0.93,
+    "sources": [
+      {
+        "handle": "petsoundsmusicpub",
+        "url": "https://www.instagram.com/p/DfwWkh2JBGr/",
+        "posted": "2026-11-15T17:31:48+09:00"
+      }
+    ],
+    "id": "8e050fb8dc6d",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-16",
+    "doors": null,
+    "start": "20:00",
+    "title": "90s Rock Special",
+    "title_ko": "90s 록 스페셜",
+    "venue": "Pet Sounds",
+    "venue_ko": "펫사운즈",
+    "venue_handle": "petsoundsmusicpub",
+    "area": "Itaewon",
+    "city": "Seoul",
+    "lineup": [
+      "DJ SJ"
+    ],
+    "lineup_ko": [],
+    "price": "Free",
+    "ticket_url": null,
+    "genres": [
+      "dj",
+      "rock"
+    ],
+    "notes": "DJ night playing 90s rock (grunge, Britpop, alternative). Free entry, 8PM until late. 3F, Itaewon (21 Hoenamu-ro, Yongsan-gu). Info +82 10 2396 3050.",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "petsoundsmusicpub",
+        "url": "https://www.instagram.com/p/Dfug7tXp2SC/",
+        "posted": "2026-11-15T00:20:47+09:00"
+      }
+    ],
+    "id": "9120d5df0758",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-19",
+    "doors": null,
+    "start": "20:00",
+    "title": "The Greatest Music of Guns N' Roses + 80s 90s Music",
+    "title_ko": null,
+    "venue": "Pet Sounds",
+    "venue_ko": "펫사운즈",
+    "venue_handle": "petsoundsmusicpub",
+    "area": "Itaewon",
+    "city": "Seoul",
+    "lineup": [
+      "DJ High"
+    ],
+    "lineup_ko": [
+      "DJ High"
+    ],
+    "price": "Free",
+    "ticket_url": null,
+    "genres": [
+      "dj",
+      "metal",
+      "rock"
+    ],
+    "notes": "DJ night with big screen showing Guns N' Roses MVs and live videos plus 80s/90s rock, metal, pop, new wave. Runs 8pm-2am; after midnight other genres are added. Located in Itaewon-dong 278-8 (3F).",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "petsoundsmusicpub",
+        "url": "https://www.instagram.com/reel/DftlRA9J_Jf/",
+        "posted": "2026-11-14T15:41:00+09:00"
+      }
+    ],
+    "id": "7624396fecb9",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-17",
+    "doors": null,
+    "start": "20:00",
+    "title": "Umamusume Special",
+    "title_ko": "우마무스메 특집",
+    "venue": "Pet Sounds",
+    "venue_ko": "펫사운즈",
+    "venue_handle": "petsoundsmusicpub",
+    "area": "Itaewon",
+    "city": "Seoul",
+    "lineup": [
+      "DJ Minsu"
+    ],
+    "lineup_ko": [
+      "DJ MINSU"
+    ],
+    "price": "Free",
+    "ticket_url": null,
+    "genres": [
+      "dj",
+      "other"
+    ],
+    "notes": "Free entry. DJ set of Umamusume (anime/game) related music. Venue is on the 3F, Itaewon-dong 278-8 (21 Hoenamu-ro, Yongsan-gu). Info: +82 10 2396 3050",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "petsoundsmusicpub",
+        "url": "https://www.instagram.com/p/DftQYjwJAvn/",
+        "posted": "2026-11-14T12:36:57+09:00"
+      }
+    ],
+    "id": "5151848a8f11",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-15",
+    "doors": null,
+    "start": "19:30",
+    "title": "The Greatest Music of Lana Del Rey",
+    "title_ko": "라나델레이 특집",
+    "venue": "Pet Sounds",
+    "venue_ko": "펫사운즈",
+    "venue_handle": "petsoundsmusicpub",
+    "area": "Itaewon",
+    "city": "Seoul",
+    "lineup": [
+      "DJ High"
+    ],
+    "lineup_ko": [
+      "DJ High"
+    ],
+    "price": "Free",
+    "ticket_url": null,
+    "genres": [
+      "dj",
+      "indie",
+      "pop"
+    ],
+    "notes": "Lana Del Rey music and videos on a big screen; runs 7:30PM-2AM; other genres added after midnight. Adults only. Venue is on the 3rd floor, Itaewon-dong 278-8.",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "petsoundsmusicpub",
+        "url": "https://www.instagram.com/p/DflfFOapB5h/",
+        "posted": "2026-11-11T12:12:32+09:00"
+      }
+    ],
+    "id": "b133a50653f4",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-28",
+    "doors": null,
+    "start": "18:30",
+    "title": "SWIM, DANCE, LOVE",
+    "title_ko": "스윔, 댄스, 러브",
+    "venue": "Pet Sounds",
+    "venue_ko": "펫사운즈",
+    "venue_handle": "petsoundsmusicpub",
+    "area": "Itaewon",
+    "city": "Seoul",
+    "lineup": [
+      "Bulgogi Disco",
+      "Polyamory",
+      "Swiimers"
+    ],
+    "lineup_ko": [
+      "불고기디스코",
+      "폴리아모리",
+      "스위머스"
+    ],
+    "price": "Presale 30,000 KRW / Door 35,000 KRW",
+    "ticket_url": null,
+    "genres": [
+      "indie",
+      "rock"
+    ],
+    "notes": "Itaewon. 1 drink purchase required per person. Tickets link in Instagram bio.",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "petsoundsmusicpub",
+        "url": "https://www.instagram.com/p/Dfi-qfApHYC/",
+        "posted": "2026-11-10T12:49:43+09:00"
+      }
+    ],
+    "id": "a1fa6c655d32",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-14",
+    "doors": null,
+    "start": "18:00",
+    "title": "The Greatest Music of Chappell Roan & Olivia Rodrigo (Part 1)",
+    "title_ko": "마이 케미컬 로맨스 특집",
+    "venue": "Pet Sounds",
+    "venue_ko": "펫사운즈",
+    "venue_handle": "petsoundsmusicpub",
+    "area": "Itaewon",
+    "city": "Seoul",
+    "lineup": [
+      "DJ High"
+    ],
+    "lineup_ko": [
+      "DJ High"
+    ],
+    "price": "Free",
+    "ticket_url": null,
+    "genres": [
+      "dj",
+      "pop",
+      "punk"
+    ],
+    "notes": "Music pub night on a big screen with music videos and live footage. Part 1 runs 18:00-21:00. Pet Sounds is on the 3rd floor, Itaewon-dong 278-8. Free entry.",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "petsoundsmusicpub",
+        "url": "https://www.instagram.com/p/DfbUG-zJDj_/",
+        "posted": "2026-11-07T13:25:56+09:00"
+      },
+      {
+        "handle": "petsoundsmusicpub",
+        "url": "https://www.instagram.com/p/DfZlYpsptQs/",
+        "posted": "2026-11-06T21:18:56+09:00"
+      }
+    ],
+    "id": "b26dbc31e7b9",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-15",
+    "doors": null,
+    "start": "19:00",
+    "title": "Jazz Live Show!",
+    "title_ko": null,
+    "venue": "Subriot",
+    "venue_ko": "서브라이엇 HBC",
+    "venue_handle": "subriot_hbc",
+    "area": "Haebangchon",
+    "city": "Seoul",
+    "lineup": [
+      "Lee Jae-hyung Quartet",
+      "Lee Taehyung Quartet"
+    ],
+    "lineup_ko": [
+      "이재형 QUARTET",
+      "이태형 QUARTET"
+    ],
+    "price": "Free entry / pay after the show",
+    "ticket_url": null,
+    "genres": [
+      "jazz"
+    ],
+    "notes": "Standard jazz, bebop, swing. Reservations: 010 8018 5546 (Korean), 010 7454 4005 (English). B1, 1 Sinheung-ro 7-gil, Yongsan-gu (Haebangchon). Set approx. 19:00-21:00.",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "subriot_hbc",
+        "url": "https://www.instagram.com/p/DfviOX5kwTA/",
+        "posted": "2026-11-15T09:51:17+09:00"
+      },
+      {
+        "handle": "subriot_hbc",
+        "url": "https://www.instagram.com/p/DfrNBhST_u7/",
+        "posted": "2026-11-13T17:29:07+09:00"
+      }
+    ],
+    "id": "c2599e598b90",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-15",
+    "doors": null,
+    "start": "21:00",
+    "title": "Jazz Live Show!",
+    "title_ko": null,
+    "venue": "Subriot",
+    "venue_ko": "서브라이엇 HBC",
+    "venue_handle": "subriot_hbc",
+    "area": "Haebangchon",
+    "city": "Seoul",
+    "lineup": [
+      "Distortion Junkies"
+    ],
+    "lineup_ko": [
+      "DISTORTION JUNKIES"
+    ],
+    "price": "Free entry / pay after the show",
+    "ticket_url": null,
+    "genres": [
+      "other",
+      "rock"
+    ],
+    "notes": "Rock, blues. Reservations: 010 8018 5546 (Korean), 010 7454 4005 (English). B1, 1 Sinheung-ro 7-gil, Yongsan-gu (Haebangchon). Set approx. 21:00-23:00.",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "subriot_hbc",
+        "url": "https://www.instagram.com/p/DfviOX5kwTA/",
+        "posted": "2026-11-15T09:51:17+09:00"
+      },
+      {
+        "handle": "subriot_hbc",
+        "url": "https://www.instagram.com/p/DfrNBhST_u7/",
+        "posted": "2026-11-13T17:29:07+09:00"
+      }
+    ],
+    "id": "6cb671b08465",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-14",
+    "doors": null,
+    "start": "18:00",
+    "title": "Jazz Live Show!",
+    "title_ko": null,
+    "venue": "Subriot",
+    "venue_ko": "서브라이엇 HBC",
+    "venue_handle": "subriot_hbc",
+    "area": "Haebangchon",
+    "city": "Seoul",
+    "lineup": [
+      "Daeun Quartet"
+    ],
+    "lineup_ko": [
+      "다은 쿼텟"
+    ],
+    "price": "Free entry, pay after the show",
+    "ticket_url": null,
+    "genres": [
+      "jazz"
+    ],
+    "notes": "Standard jazz / original. Set 18:00-20:00. Reservations: 010 7454 4005 (English), 010 8018 5546 (Korean). Venue in Haebangchon, Yongsan-gu.",
+    "confidence": 0.93,
+    "sources": [
+      {
+        "handle": "subriot_hbc",
+        "url": "https://www.instagram.com/p/DfrbUlYky6i/",
+        "posted": "2026-11-13T19:34:00+09:00"
+      },
+      {
+        "handle": "subriot_hbc",
+        "url": "https://www.instagram.com/p/DfrNBhST_u7/",
+        "posted": "2026-11-13T17:29:07+09:00"
+      }
+    ],
+    "id": "6414b954b842",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-14",
+    "doors": null,
+    "start": "20:00",
+    "title": "Jazz Live Show!",
+    "title_ko": null,
+    "venue": "Subriot",
+    "venue_ko": "서브라이엇 HBC",
+    "venue_handle": "subriot_hbc",
+    "area": "Haebangchon",
+    "city": "Seoul",
+    "lineup": [
+      "Wonseok Choi Quintet",
+      "Choi Wonseok Quartet"
+    ],
+    "lineup_ko": [
+      "최원석 퀸텟",
+      "최원석 쿼텟"
+    ],
+    "price": "Free entry, pay after the show",
+    "ticket_url": null,
+    "genres": [
+      "jazz"
+    ],
+    "notes": "Standard, fusion jazz. Set 20:00-22:00. Poster says 'Quartet' but caption says Quintet. Reservations: 010 7454 4005 (English), 010 8018 5546 (Korean).",
+    "confidence": 0.92,
+    "sources": [
+      {
+        "handle": "subriot_hbc",
+        "url": "https://www.instagram.com/p/DfrbUlYky6i/",
+        "posted": "2026-11-13T19:34:00+09:00"
+      },
+      {
+        "handle": "subriot_hbc",
+        "url": "https://www.instagram.com/p/DfrNBhST_u7/",
+        "posted": "2026-11-13T17:29:07+09:00"
+      }
+    ],
+    "id": "01d8fe62603f",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  },
+  {
+    "date": "2026-11-14",
+    "doors": null,
+    "start": "22:00",
+    "title": "Jazz Live Show!",
+    "title_ko": null,
+    "venue": "Subriot",
+    "venue_ko": "서브라이엇 HBC",
+    "venue_handle": "subriot_hbc",
+    "area": "Haebangchon",
+    "city": "Seoul",
+    "lineup": [
+      "Woojin Jo and the Jazz Messengers",
+      "Jo Woojin and the Jazz Messengers"
+    ],
+    "lineup_ko": [
+      "조우진과 재즈메신저스"
+    ],
+    "price": "Free entry, pay after the show",
+    "ticket_url": null,
+    "genres": [
+      "jazz"
+    ],
+    "notes": "Hard bop, bebop, swing. Plays Art Blakey & The Jazz Messengers songs (no ballads). Set 22:00-24:00. Reservations: 010 7454 4005 (English), 010 8018 5546 (Korean).",
+    "confidence": 0.93,
+    "sources": [
+      {
+        "handle": "subriot_hbc",
+        "url": "https://www.instagram.com/p/DfrbUlYky6i/",
+        "posted": "2026-11-13T19:34:00+09:00"
+      },
+      {
+        "handle": "subriot_hbc",
+        "url": "https://www.instagram.com/p/DfrNBhST_u7/",
+        "posted": "2026-11-13T17:29:07+09:00"
+      }
+    ],
+    "id": "1d63a4f7c14b",
+    "first_seen": "2026-11-15T20:57:55+09:00",
+    "updated": "2026-11-15T20:57:55+09:00"
+  }
+]

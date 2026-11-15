@@ -82,7 +82,10 @@ class ClaudeExtractor:
         )
         content: list[dict] = []
         for url in post.image_urls:
-            content.append(_image_block(url))
+            try:
+                content.append(_image_block(url))
+            except Exception as e:  # a dead CDN link shouldn't lose the caption
+                text += f"\n(poster image unavailable: {type(e).__name__})"
         content.append({"type": "text", "text": text})
 
         resp = self.client.messages.create(
@@ -90,26 +93,54 @@ class ClaudeExtractor:
             max_tokens=2000,
             system=SYSTEM,
             tools=[EVENT_TOOL],
-            tool_choice={"type": "tool", "name": "record_events"},
+            # Newer models don't accept a forced tool_choice; the system
+            # prompt tells Claude to always call record_events.
             messages=[{"role": "user", "content": content}],
         )
         for block in resp.content:
-            if block.type == "tool_use" and block.name == "record_events":
-                return list(block.input.get("events") or [])
-        return []
+            if getattr(block, "type", None) == "tool_use" and block.name == "record_events":
+                return list((block.input or {}).get("events") or [])
+        # Fallback: Claude answered in text. Pull out any JSON it wrote.
+        text_out = "".join(getattr(b, "text", "") for b in resp.content if getattr(b, "type", None) == "text")
+        return _events_from_text(text_out)
+
+
+def _events_from_text(text: str) -> list[dict]:
+    """Best effort: find a JSON object/array in a text reply."""
+    for opener, closer in (("{", "}"), ("[", "]")):
+        start, end = text.find(opener), text.rfind(closer)
+        if start == -1 or end <= start:
+            continue
+        try:
+            data = json.loads(text[start : end + 1])
+        except ValueError:
+            continue
+        if isinstance(data, dict):
+            data = data.get("events", [])
+        if isinstance(data, list):
+            return [e for e in data if isinstance(e, dict)]
+    return []
 
 
 def _image_block(url: str) -> dict:
     """Instagram CDN URLs are public but short-lived. Download and inline them
     so Claude always gets the bytes."""
-    r = requests.get(url, timeout=30)
+    r = requests.get(url, timeout=30, headers={"User-Agent": "Mozilla/5.0 (b1.shows listings bot)"})
     r.raise_for_status()
-    media_type = r.headers.get("content-type", "image/jpeg").split(";")[0]
-    if media_type not in ("image/jpeg", "image/png", "image/gif", "image/webp"):
+    b = r.content
+    if b[:3] == b"\xff\xd8\xff":
         media_type = "image/jpeg"
+    elif b[:8] == b"\x89PNG\r\n\x1a\n":
+        media_type = "image/png"
+    elif b[:4] == b"RIFF" and b[8:12] == b"WEBP":
+        media_type = "image/webp"
+    elif b[:4] == b"GIF8":
+        media_type = "image/gif"
+    else:
+        raise ValueError(f"unsupported image format ({r.headers.get('content-type')})")
     return {
         "type": "image",
-        "source": {"type": "base64", "media_type": media_type, "data": base64.b64encode(r.content).decode()},
+        "source": {"type": "base64", "media_type": media_type, "data": base64.b64encode(b).decode()},
     }
 
 

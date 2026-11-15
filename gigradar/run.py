@@ -73,6 +73,7 @@ def main(argv=None) -> int:
     seen: dict[str, str] = load_json(seen_path, {})
     events: list[dict] = load_json(events_path, [])
     report = {"run": now_iso, "accounts": {}, "posts_checked": 0, "added": 0, "merged": 0, "errors": 0}
+    # "errors" counts accounts that failed plus posts that couldn't be read
 
     for handle, acct in accounts.items():
         try:
@@ -93,6 +94,9 @@ def main(argv=None) -> int:
             except Exception as e:  # one bad post shouldn't sink the run
                 print(f"[warn] extract failed for {post.permalink}: {e}", file=sys.stderr)
                 report["errors"] += 1
+                stats.setdefault("extract_errors", [])
+                if len(stats["extract_errors"]) < 2:
+                    stats["extract_errors"].append(f"{type(e).__name__}: {str(e)[:300]}")
                 continue  # not marked seen, so it's retried next run
             for raw in raw_events:
                 if not is_valid_event(raw, now):

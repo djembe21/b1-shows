@@ -74,7 +74,14 @@ def _venue_key(e: dict) -> str:
 
 
 def _same_show(a: dict, b: dict) -> bool:
-    if a["date"] != b["date"] or _venue_key(a) != _venue_key(b):
+    if a["date"] != b["date"]:
+        return False
+    # Same date + same distinctive title = same show, even when one post
+    # didn't name the venue (e.g. a promoter's "Live Club Day #85" post).
+    ta_, tb_ = _slug(a.get("title") or ""), _slug(b.get("title") or "")
+    if len(ta_) >= 6 and ta_ == tb_ and (not a.get("venue_handle") or not b.get("venue_handle") or _venue_key(a) == _venue_key(b)):
+        return True
+    if _venue_key(a) != _venue_key(b):
         return False
     ta, tb = a.get("start"), b.get("start")
     if ta and tb and ta != tb:
@@ -86,6 +93,10 @@ def _same_show(a: dict, b: dict) -> bool:
 
 
 def _merge(into: dict, new: dict) -> dict:
+    # Prefer a venue we know over one we don't.
+    if not into.get("venue_handle") and new.get("venue_handle"):
+        for k in ("venue", "venue_ko", "venue_handle", "area"):
+            into[k] = new.get(k)
     for k in ("doors", "start", "title", "title_ko", "venue_ko", "price", "ticket_url", "notes", "area", "venue_handle"):
         if not into.get(k) and new.get(k):
             into[k] = new[k]

@@ -25,7 +25,7 @@ The audience is foreigners living in Korea who may not read Korean, so give Engl
 Rules:
 - Only record concrete upcoming LIVE MUSIC with a specific date: bands, solo artists, live jazz/acoustic sets, and club nights with named DJs. Ignore recaps of past shows, merch, album announcements without a show date, general venue promos, and thank-you posts.
 - Skip events that are not live music: stand-up comedy, talks, workshops and classes, film screenings, markets, fan meetings.
-- Skip playlist or request nights at music bars where nobody performs (e.g. "the greatest music of [artist]", "90s rock night", themed listening nights). If the post names a DJ who is playing, keep it and tag it "dj".
+- Skip playlist, record or request nights at music bars and pubs (e.g. "the greatest music of [artist]", "90s rock special", "sad music club", themed listening nights), even if staff or a resident selector plays the records. Keep a DJ night only when the post bills a specific named guest DJ or DJ lineup, and tag it "dj".
 - Posters often omit the year. Use the post date to infer it: choose the nearest date on or after (post date - 7 days).
 - One post can list several shows (a monthly schedule, a tour). Record each date/venue as its own event.
 - Times are KST in 24h "HH:MM". Leave a field null rather than guessing.

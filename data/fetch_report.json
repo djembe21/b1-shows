@@ -1,11 +1,11 @@
 {
-  "run": "2026-11-16T08:45:03+09:00",
+  "run": "2026-11-17T06:45:18+09:00",
   "accounts": {
     "hongdaeff": {
       "status": "ok",
       "posts": 12,
-      "new": 12,
-      "events": 3
+      "new": 1,
+      "events": 1
     },
     "strangefruitseoul": {
       "status": "error",
@@ -14,86 +14,86 @@
     "rollinghall": {
       "status": "ok",
       "posts": 12,
-      "new": 12,
-      "events": 13
+      "new": 2,
+      "events": 2
     },
     "channel1969.seoul": {
       "status": "ok",
       "posts": 12,
-      "new": 6,
-      "events": 4
+      "new": 0,
+      "events": 0
     },
     "ssmadang_live": {
       "status": "ok",
       "posts": 12,
-      "new": 12,
-      "events": 4
+      "new": 0,
+      "events": 0
     },
     "clubsteelface": {
       "status": "ok",
       "posts": 12,
-      "new": 6,
+      "new": 0,
       "events": 0
     },
     "senggistudio": {
       "status": "ok",
       "posts": 12,
-      "new": 1,
+      "new": 0,
       "events": 0
     },
     "yogigahanjoo": {
       "status": "ok",
       "posts": 12,
-      "new": 5,
+      "new": 0,
       "events": 0
     },
     "club_sharp": {
       "status": "ok",
       "posts": 12,
-      "new": 4,
-      "events": 8
+      "new": 0,
+      "events": 0
     },
     "binarystudioskorea": {
       "status": "ok",
       "posts": 12,
-      "new": 1,
+      "new": 0,
       "events": 0
     },
     "babydoll_seoul": {
       "status": "ok",
       "posts": 12,
-      "new": 1,
+      "new": 0,
       "events": 0
     },
     "1nfntclb": {
       "status": "ok",
       "posts": 12,
-      "new": 2,
-      "events": 2
+      "new": 0,
+      "events": 0
     },
     "spinandgrind": {
       "status": "ok",
       "posts": 12,
-      "new": 12,
-      "events": 1
+      "new": 0,
+      "events": 0
     },
     "morene__sukha": {
       "status": "ok",
       "posts": 12,
-      "new": 12,
-      "events": 13
+      "new": 0,
+      "events": 0
     },
     "petsoundsmusicpub": {
       "status": "ok",
       "posts": 12,
-      "new": 12,
-      "events": 7
+      "new": 1,
+      "events": 0
     },
     "subriot_hbc": {
       "status": "ok",
       "posts": 12,
-      "new": 12,
-      "events": 4
+      "new": 0,
+      "events": 0
     },
     "skunk_itaewon": {
       "status": "ok",
@@ -108,40 +108,40 @@
     "youkillbong": {
       "status": "ok",
       "posts": 12,
-      "new": 3,
+      "new": 0,
       "events": 0
     },
     "sounddog_jazz": {
       "status": "ok",
       "posts": 12,
-      "new": 12,
-      "events": 2
+      "new": 1,
+      "events": 1
     },
     "bandbyebyebadman": {
       "status": "ok",
       "posts": 12,
-      "new": 6,
+      "new": 0,
       "events": 0
     },
     "ourr_official": {
       "status": "ok",
       "posts": 12,
-      "new": 1,
+      "new": 0,
       "events": 0
     },
     "liveclubday": {
       "status": "ok",
       "posts": 12,
-      "new": 12,
-      "events": 3
+      "new": 0,
+      "events": 0
     },
     "gigguide.kr": {
       "status": "error",
       "error": "110/2207013: Invalid user id"
     }
   },
-  "posts_checked": 144,
-  "added": 47,
-  "merged": 17,
+  "posts_checked": 5,
+  "added": 3,
+  "merged": 1,
   "errors": 3
 }

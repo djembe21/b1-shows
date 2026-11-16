@@ -215,11 +215,16 @@
         "handle": "rollinghall",
         "url": "https://www.instagram.com/p/DfgUQY_kZhM/",
         "posted": "2026-11-09T12:00:37+09:00"
+      },
+      {
+        "handle": "rollinghall",
+        "url": "https://www.instagram.com/reel/DfyV0nyjQcz/",
+        "posted": "2026-11-16T12:00:43+09:00"
       }
     ],
     "id": "f47d485a5bdd",
     "first_seen": "2026-11-16T08:45:03+09:00",
-    "updated": "2026-11-16T08:45:03+09:00"
+    "updated": "2026-11-17T06:45:18+09:00"
   },
   {
     "date": "2026-12-06",
@@ -1924,5 +1929,117 @@
     "id": "e15e7854815a",
     "first_seen": "2026-11-16T08:45:03+09:00",
     "updated": "2026-11-16T08:45:03+09:00"
+  },
+  {
+    "date": "2026-11-20",
+    "doors": null,
+    "start": "22:00",
+    "title": "Throwback 00s-10s @ Club FF",
+    "title_ko": null,
+    "venue": "Club FF",
+    "venue_ko": "클럽 FF",
+    "venue_handle": "hongdaeff",
+    "area": "Hongdae",
+    "city": "Seoul",
+    "lineup": [
+      "Lisa Smaragd (Germany)",
+      "Eddie",
+      "Sodef"
+    ],
+    "lineup_ko": [],
+    "price": "Free",
+    "ticket_url": null,
+    "genres": [
+      "dj",
+      "hip-hop",
+      "pop"
+    ],
+    "notes": "No cover. All night. 00s-10s pop/rock/hip-hop/dance plus requests. Hongdae.",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "hongdaeff",
+        "url": "https://www.instagram.com/p/DfzkhAss_ND/",
+        "posted": "2026-11-16T23:29:21+09:00"
+      }
+    ],
+    "id": "dcea7a029987",
+    "first_seen": "2026-11-17T06:45:18+09:00",
+    "updated": "2026-11-17T06:45:18+09:00"
+  },
+  {
+    "date": "2026-12-19",
+    "doors": null,
+    "start": "17:00",
+    "title": "Chun Jinwoo and the Vomit Inducers Year-End Solo Concert: Christmas, I'm Sorry",
+    "title_ko": "천진우와 구토유발자들 연말 단독공연 : 크리스마스야, 미안해",
+    "venue": "Rolling Hall",
+    "venue_ko": "롤링홀",
+    "venue_handle": "rollinghall",
+    "area": "Hongdae",
+    "city": "Seoul",
+    "lineup": [
+      "Chun Jinwoo and the Vomit Inducers"
+    ],
+    "lineup_ko": [
+      "천진우와 구토유발자들"
+    ],
+    "price": "Advance 66,000 KRW / Door 77,000 KRW",
+    "ticket_url": "http://ticket.melon.com",
+    "genres": [
+      "pop",
+      "rock"
+    ],
+    "notes": "Tickets on sale via Melon Ticket from 2026-11-20 20:00. Age 7+ (with guardian). Standing. Capacity 100 on poster's first-seat note unclear.",
+    "confidence": 0.93,
+    "sources": [
+      {
+        "handle": "rollinghall",
+        "url": "https://www.instagram.com/p/DfyV36gFuTE/",
+        "posted": "2026-11-16T12:01:05+09:00"
+      }
+    ],
+    "id": "d121be13def4",
+    "first_seen": "2026-11-17T06:45:18+09:00",
+    "updated": "2026-11-17T06:45:18+09:00"
+  },
+  {
+    "date": "2026-11-17",
+    "doors": null,
+    "start": "19:30",
+    "title": "Jazz Jam Day",
+    "title_ko": null,
+    "venue": "SoundDog Jazz",
+    "venue_ko": "사운드독",
+    "venue_handle": "sounddog_jazz",
+    "area": "Huam-dong",
+    "city": "Seoul",
+    "lineup": [
+      "Paul Kirby",
+      "Kim In-young",
+      "Lee Seong-gu"
+    ],
+    "lineup_ko": [
+      "Paul Kirby",
+      "김인영",
+      "이성구"
+    ],
+    "price": "20,000 KRW per person (reservation by bank deposit); food/snacks may be brought in (5,000 KRW charge per 2 people)",
+    "ticket_url": null,
+    "genres": [
+      "jazz"
+    ],
+    "notes": "Jam session, 19:30-22:00. Piano: Paul Kirby, Bass: Kim In-young, Drums: Lee Seong-gu. Reservations by text 010-5368-2584 or WhatsApp +82-10-5368-2584; text name/date after deposit.",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "handle": "sounddog_jazz",
+        "url": "https://www.instagram.com/p/DfzXnnfyHOd/",
+        "posted": "2026-11-16T21:35:37+09:00"
+      }
+    ],
+    "id": "749290b63602",
+    "first_seen": "2026-11-17T06:45:18+09:00",
+    "updated": "2026-11-17T06:45:18+09:00"
   }
 ]

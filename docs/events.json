@@ -1,83 +1,45 @@
 {
-  "generated": "2026-11-16T08:45:03.058750+09:00",
-  "count": 40,
+  "generated": "2026-11-17T06:45:18.720607+09:00",
+  "count": 41,
   "events": [
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "doors": null,
-      "start": "20:00",
-      "title": "90s Rock Special",
+      "start": "19:30",
+      "title": "Jazz Jam Day",
       "title_ko": null,
-      "venue": "Pet Sounds",
-      "venue_ko": "펫사운즈",
-      "venue_handle": "petsoundsmusicpub",
-      "area": "Itaewon",
-      "city": "Seoul",
-      "lineup": [
-        "DJ SJ"
-      ],
-      "lineup_ko": [],
-      "price": "Free",
-      "ticket_url": null,
-      "genres": [
-        "dj",
-        "rock"
-      ],
-      "notes": "Free entry. 90s rock music played by DJ SJ (grunge, Britpop, alternative). Venue is on the 3rd floor, Itaewon (278-8 Itaewon-dong, 21 Hoenamu-ro, Yongsan-gu). Runs 8PM until late. Info: +82 10 2396 3050.",
-      "confidence": 0.9,
-      "sources": [
-        {
-          "handle": "petsoundsmusicpub",
-          "url": "https://www.instagram.com/p/Dfug7tXp2SC/",
-          "posted": "2026-11-15T00:20:47+09:00"
-        }
-      ],
-      "id": "9120d5df0758",
-      "first_seen": "2026-11-16T08:45:03+09:00",
-      "updated": "2026-11-16T08:45:03+09:00"
-    },
-    {
-      "date": "2026-11-16",
-      "doors": null,
-      "start": "20:00",
-      "title": "Na Hyunjin Quartet + Ojiik",
-      "title_ko": "나현진 Quartet + Ojiik",
       "venue": "SoundDog Jazz",
       "venue_ko": "사운드독",
       "venue_handle": "sounddog_jazz",
       "area": "Huam-dong",
       "city": "Seoul",
       "lineup": [
-        "Na Hyunjin (vocal)",
-        "Yan Kim (piano)",
-        "Choi Seyeol (bass)",
-        "Kim Cheolho (drums)",
-        "Ojiik"
+        "Paul Kirby",
+        "Kim In-young",
+        "Lee Seong-gu"
       ],
       "lineup_ko": [
-        "나현진",
-        "얀킴",
-        "최세열",
-        "김철호",
-        "Ojiik"
+        "Paul Kirby",
+        "김인영",
+        "이성구"
       ],
-      "price": "20,000 KRW per person",
+      "price": "20,000 KRW per person (reservation by bank deposit); food/snacks may be brought in (5,000 KRW charge per 2 people)",
       "ticket_url": null,
       "genres": [
         "jazz"
       ],
-      "notes": "Show 8-10PM. Reserve by text 010-5368-2584 (WhatsApp +82-10-5368-2584) and bank deposit, then text name/date. Outside snacks allowed (5,000 KRW charge per 2 people).",
+      "notes": "Jam session, 19:30-22:00. Piano: Paul Kirby, Bass: Kim In-young, Drums: Lee Seong-gu. Reservations by text 010-5368-2584 or WhatsApp +82-10-5368-2584; text name/date after deposit.",
       "confidence": 0.9,
       "sources": [
         {
           "handle": "sounddog_jazz",
-          "url": "https://www.instagram.com/p/Dfww3SwSfid/",
-          "posted": "2026-11-15T21:18:29+09:00"
+          "url": "https://www.instagram.com/p/DfzXnnfyHOd/",
+          "posted": "2026-11-16T21:35:37+09:00"
         }
       ],
-      "id": "09e34891b7cd",
-      "first_seen": "2026-11-16T08:45:03+09:00",
-      "updated": "2026-11-16T08:45:03+09:00"
+      "id": "749290b63602",
+      "first_seen": "2026-11-17T06:45:18+09:00",
+      "updated": "2026-11-17T06:45:18+09:00"
     },
     {
       "date": "2026-11-17",
@@ -348,6 +310,43 @@
       "id": "0500b03aa476",
       "first_seen": "2026-11-16T08:45:03+09:00",
       "updated": "2026-11-16T08:45:03+09:00"
+    },
+    {
+      "date": "2026-11-20",
+      "doors": null,
+      "start": "22:00",
+      "title": "Throwback 00s-10s @ Club FF",
+      "title_ko": null,
+      "venue": "Club FF",
+      "venue_ko": "클럽 FF",
+      "venue_handle": "hongdaeff",
+      "area": "Hongdae",
+      "city": "Seoul",
+      "lineup": [
+        "Lisa Smaragd (Germany)",
+        "Eddie",
+        "Sodef"
+      ],
+      "lineup_ko": [],
+      "price": "Free",
+      "ticket_url": null,
+      "genres": [
+        "dj",
+        "hip-hop",
+        "pop"
+      ],
+      "notes": "No cover. All night. 00s-10s pop/rock/hip-hop/dance plus requests. Hongdae.",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "handle": "hongdaeff",
+          "url": "https://www.instagram.com/p/DfzkhAss_ND/",
+          "posted": "2026-11-16T23:29:21+09:00"
+        }
+      ],
+      "id": "dcea7a029987",
+      "first_seen": "2026-11-17T06:45:18+09:00",
+      "updated": "2026-11-17T06:45:18+09:00"
     },
     {
       "date": "2026-11-20",
@@ -1369,6 +1368,42 @@
     },
     {
       "date": "2026-12-19",
+      "doors": null,
+      "start": "17:00",
+      "title": "Chun Jinwoo and the Vomit Inducers Year-End Solo Concert: Christmas, I'm Sorry",
+      "title_ko": "천진우와 구토유발자들 연말 단독공연 : 크리스마스야, 미안해",
+      "venue": "Rolling Hall",
+      "venue_ko": "롤링홀",
+      "venue_handle": "rollinghall",
+      "area": "Hongdae",
+      "city": "Seoul",
+      "lineup": [
+        "Chun Jinwoo and the Vomit Inducers"
+      ],
+      "lineup_ko": [
+        "천진우와 구토유발자들"
+      ],
+      "price": "Advance 66,000 KRW / Door 77,000 KRW",
+      "ticket_url": "http://ticket.melon.com",
+      "genres": [
+        "pop",
+        "rock"
+      ],
+      "notes": "Tickets on sale via Melon Ticket from 2026-11-20 20:00. Age 7+ (with guardian). Standing. Capacity 100 on poster's first-seat note unclear.",
+      "confidence": 0.93,
+      "sources": [
+        {
+          "handle": "rollinghall",
+          "url": "https://www.instagram.com/p/DfyV36gFuTE/",
+          "posted": "2026-11-16T12:01:05+09:00"
+        }
+      ],
+      "id": "d121be13def4",
+      "first_seen": "2026-11-17T06:45:18+09:00",
+      "updated": "2026-11-17T06:45:18+09:00"
+    },
+    {
+      "date": "2026-12-19",
       "doors": "17:30",
       "start": "18:00",
       "title": "VERY FIRST LAST MONTH EVER",
@@ -1657,11 +1692,16 @@
           "handle": "rollinghall",
           "url": "https://www.instagram.com/p/DfgUQY_kZhM/",
           "posted": "2026-11-09T12:00:37+09:00"
+        },
+        {
+          "handle": "rollinghall",
+          "url": "https://www.instagram.com/reel/DfyV0nyjQcz/",
+          "posted": "2026-11-16T12:00:43+09:00"
         }
       ],
       "id": "f47d485a5bdd",
       "first_seen": "2026-11-16T08:45:03+09:00",
-      "updated": "2026-11-16T08:45:03+09:00"
+      "updated": "2026-11-17T06:45:18+09:00"
     }
   ]
 }

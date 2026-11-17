@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-17T06:45:18+09:00",
+  "run": "2026-11-18T06:49:28+09:00",
   "accounts": {
     "hongdaeff": {
       "status": "ok",
@@ -14,8 +14,8 @@
     "rollinghall": {
       "status": "ok",
       "posts": 12,
-      "new": 2,
-      "events": 2
+      "new": 0,
+      "events": 0
     },
     "channel1969.seoul": {
       "status": "ok",
@@ -92,8 +92,8 @@
     "subriot_hbc": {
       "status": "ok",
       "posts": 12,
-      "new": 0,
-      "events": 0
+      "new": 1,
+      "events": 1
     },
     "skunk_itaewon": {
       "status": "ok",
@@ -114,7 +114,7 @@
     "sounddog_jazz": {
       "status": "ok",
       "posts": 12,
-      "new": 1,
+      "new": 2,
       "events": 1
     },
     "bandbyebyebadman": {
@@ -142,6 +142,6 @@
   },
   "posts_checked": 5,
   "added": 3,
-  "merged": 1,
+  "merged": 0,
   "errors": 3
 }

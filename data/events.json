@@ -1369,40 +1369,6 @@
     "updated": "2026-11-16T08:45:03+09:00"
   },
   {
-    "date": "2026-11-16",
-    "doors": null,
-    "start": "20:00",
-    "title": "90s Rock Special",
-    "title_ko": null,
-    "venue": "Pet Sounds",
-    "venue_ko": "펫사운즈",
-    "venue_handle": "petsoundsmusicpub",
-    "area": "Itaewon",
-    "city": "Seoul",
-    "lineup": [
-      "DJ SJ"
-    ],
-    "lineup_ko": [],
-    "price": "Free",
-    "ticket_url": null,
-    "genres": [
-      "dj",
-      "rock"
-    ],
-    "notes": "Free entry. 90s rock music played by DJ SJ (grunge, Britpop, alternative). Venue is on the 3rd floor, Itaewon (278-8 Itaewon-dong, 21 Hoenamu-ro, Yongsan-gu). Runs 8PM until late. Info: +82 10 2396 3050.",
-    "confidence": 0.9,
-    "sources": [
-      {
-        "handle": "petsoundsmusicpub",
-        "url": "https://www.instagram.com/p/Dfug7tXp2SC/",
-        "posted": "2026-11-15T00:20:47+09:00"
-      }
-    ],
-    "id": "9120d5df0758",
-    "first_seen": "2026-11-16T08:45:03+09:00",
-    "updated": "2026-11-16T08:45:03+09:00"
-  },
-  {
     "date": "2026-11-19",
     "doors": null,
     "start": "20:00",
@@ -1512,49 +1478,6 @@
       }
     ],
     "id": "a1fa6c655d32",
-    "first_seen": "2026-11-16T08:45:03+09:00",
-    "updated": "2026-11-16T08:45:03+09:00"
-  },
-  {
-    "date": "2026-11-16",
-    "doors": null,
-    "start": "20:00",
-    "title": "Na Hyunjin Quartet + Ojiik",
-    "title_ko": "나현진 Quartet + Ojiik",
-    "venue": "SoundDog Jazz",
-    "venue_ko": "사운드독",
-    "venue_handle": "sounddog_jazz",
-    "area": "Huam-dong",
-    "city": "Seoul",
-    "lineup": [
-      "Na Hyunjin (vocal)",
-      "Yan Kim (piano)",
-      "Choi Seyeol (bass)",
-      "Kim Cheolho (drums)",
-      "Ojiik"
-    ],
-    "lineup_ko": [
-      "나현진",
-      "얀킴",
-      "최세열",
-      "김철호",
-      "Ojiik"
-    ],
-    "price": "20,000 KRW per person",
-    "ticket_url": null,
-    "genres": [
-      "jazz"
-    ],
-    "notes": "Show 8-10PM. Reserve by text 010-5368-2584 (WhatsApp +82-10-5368-2584) and bank deposit, then text name/date. Outside snacks allowed (5,000 KRW charge per 2 people).",
-    "confidence": 0.9,
-    "sources": [
-      {
-        "handle": "sounddog_jazz",
-        "url": "https://www.instagram.com/p/Dfww3SwSfid/",
-        "posted": "2026-11-15T21:18:29+09:00"
-      }
-    ],
-    "id": "09e34891b7cd",
     "first_seen": "2026-11-16T08:45:03+09:00",
     "updated": "2026-11-16T08:45:03+09:00"
   },
@@ -1884,5 +1807,82 @@
     "id": "5b7fc6fd290e",
     "first_seen": "2026-11-18T06:49:28+09:00",
     "updated": "2026-11-18T06:49:28+09:00"
+  },
+  {
+    "date": "2026-11-22",
+    "doors": null,
+    "start": "19:00",
+    "title": "Pet Sounds Indie Live",
+    "title_ko": "펫사운즈 인디 라이브",
+    "venue": "Pet Sounds",
+    "venue_ko": "펫사운즈",
+    "venue_handle": "petsoundsmusicpub",
+    "area": "Itaewon",
+    "city": "Seoul",
+    "lineup": [
+      "RAVENS"
+    ],
+    "lineup_ko": [
+      "레이븐즈"
+    ],
+    "price": "Free",
+    "ticket_url": null,
+    "genres": [
+      "indie",
+      "rock"
+    ],
+    "notes": "Free entry; deferred payment for artists. Located 3F, 21 Hoenamu-ro, Yongsan-gu (Itaewon/Gyeongnidan). Info: +82 10 2396 3050.",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "petsoundsmusicpub",
+        "url": "https://www.instagram.com/p/Df4QXBfJAM2/",
+        "posted": "2026-11-18T19:08:23+09:00"
+      }
+    ],
+    "id": "ab6bf6ea6880",
+    "first_seen": "2026-11-19T06:50:03+09:00",
+    "updated": "2026-11-19T06:50:03+09:00"
+  },
+  {
+    "date": "2026-11-19",
+    "doors": null,
+    "start": "20:00",
+    "title": "Tetrasphere",
+    "title_ko": null,
+    "venue": "SoundDog Jazz",
+    "venue_ko": "사운드독",
+    "venue_handle": "sounddog_jazz",
+    "area": "Huam-dong",
+    "city": "Seoul",
+    "lineup": [
+      "Paul Kirby",
+      "Kim Daeho",
+      "Kim Taehyun",
+      "Ojiik"
+    ],
+    "lineup_ko": [
+      "Paul Kirby",
+      "김대호",
+      "김태현",
+      "Ojiik"
+    ],
+    "price": "20,000 KRW per person (reservation by deposit)",
+    "ticket_url": null,
+    "genres": [
+      "jazz"
+    ],
+    "notes": "Quartet: piano, bass, drums, sax. 8-10pm. Reservation by text 010-5368-2584 or WhatsApp +82-10-5368-2584. Outside snacks allowed (5,000 KRW charge per 2 people).",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "handle": "sounddog_jazz",
+        "url": "https://www.instagram.com/p/Df4g8M0SNmb/",
+        "posted": "2026-11-18T21:33:16+09:00"
+      }
+    ],
+    "id": "154a0776e613",
+    "first_seen": "2026-11-19T06:50:03+09:00",
+    "updated": "2026-11-19T06:50:03+09:00"
   }
 ]

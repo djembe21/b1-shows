@@ -1,11 +1,11 @@
 {
-  "run": "2026-11-18T06:49:28+09:00",
+  "run": "2026-11-19T06:50:03+09:00",
   "accounts": {
     "hongdaeff": {
       "status": "ok",
       "posts": 12,
-      "new": 1,
-      "events": 1
+      "new": 0,
+      "events": 0
     },
     "strangefruitseoul": {
       "status": "error",
@@ -32,7 +32,7 @@
     "clubsteelface": {
       "status": "ok",
       "posts": 12,
-      "new": 0,
+      "new": 1,
       "events": 0
     },
     "senggistudio": {
@@ -74,7 +74,7 @@
     "spinandgrind": {
       "status": "ok",
       "posts": 12,
-      "new": 0,
+      "new": 1,
       "events": 0
     },
     "morene__sukha": {
@@ -86,14 +86,14 @@
     "petsoundsmusicpub": {
       "status": "ok",
       "posts": 12,
-      "new": 1,
-      "events": 0
+      "new": 2,
+      "events": 1
     },
     "subriot_hbc": {
       "status": "ok",
       "posts": 12,
-      "new": 1,
-      "events": 1
+      "new": 0,
+      "events": 0
     },
     "skunk_itaewon": {
       "status": "ok",
@@ -132,7 +132,7 @@
     "liveclubday": {
       "status": "ok",
       "posts": 12,
-      "new": 0,
+      "new": 1,
       "events": 0
     },
     "gigguide.kr": {
@@ -140,8 +140,8 @@
       "error": "110/2207013: Invalid user id"
     }
   },
-  "posts_checked": 5,
-  "added": 3,
+  "posts_checked": 7,
+  "added": 2,
   "merged": 0,
   "errors": 3
 }

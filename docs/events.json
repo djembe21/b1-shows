@@ -1,116 +1,7 @@
 {
-  "generated": "2026-11-18T06:49:28.113945+09:00",
-  "count": 41,
+  "generated": "2026-11-19T06:50:03.051102+09:00",
+  "count": 40,
   "events": [
-    {
-      "date": "2026-11-18",
-      "doors": null,
-      "start": "20:00",
-      "title": "Wednesday Sad Music Club",
-      "title_ko": null,
-      "venue": "Pet Sounds",
-      "venue_ko": "펫사운즈",
-      "venue_handle": "petsoundsmusicpub",
-      "area": "Itaewon",
-      "city": "Seoul",
-      "lineup": [
-        "DJ 4pril 5our"
-      ],
-      "lineup_ko": [],
-      "price": "Free",
-      "ticket_url": null,
-      "genres": [
-        "dj",
-        "indie",
-        "shoegaze"
-      ],
-      "notes": "Free entry. DJ set of shoegaze, post-rock, midwest emo, indie rock and indie pop. Located on the 3rd floor, Itaewon.",
-      "confidence": 0.93,
-      "sources": [
-        {
-          "handle": "petsoundsmusicpub",
-          "url": "https://www.instagram.com/p/DfwW-ZRJyER/",
-          "posted": "2026-11-15T17:32:16+09:00"
-        }
-      ],
-      "id": "84d0ad63abd1",
-      "first_seen": "2026-11-16T08:45:03+09:00",
-      "updated": "2026-11-16T08:45:03+09:00"
-    },
-    {
-      "date": "2026-11-18",
-      "doors": null,
-      "start": "20:00",
-      "title": "Song Suji Trio",
-      "title_ko": "송수지 Trio",
-      "venue": "SoundDog Jazz",
-      "venue_ko": "사운드독",
-      "venue_handle": "sounddog_jazz",
-      "area": "Huam-dong",
-      "city": "Seoul",
-      "lineup": [
-        "Song Suji (piano)",
-        "Shin Myeongjun (bass)",
-        "Lee Seokhyeon (drums)"
-      ],
-      "lineup_ko": [
-        "송수지",
-        "신명준",
-        "이석현"
-      ],
-      "price": "20,000 KRW per person",
-      "ticket_url": null,
-      "genres": [
-        "jazz"
-      ],
-      "notes": "Runs 20:00-22:00. Reservation by text 010-5368-2584 (WhatsApp +82-10-5368-2584); deposit to Woori Bank 1002-550-545031 (Kim Sung) and text name/date. Outside snacks allowed (5,000 KRW charge per 2 people).",
-      "confidence": 0.93,
-      "sources": [
-        {
-          "handle": "sounddog_jazz",
-          "url": "https://www.instagram.com/p/Df2FqxSyAyq/",
-          "posted": "2026-11-17T22:56:29+09:00"
-        }
-      ],
-      "id": "5b7fc6fd290e",
-      "first_seen": "2026-11-18T06:49:28+09:00",
-      "updated": "2026-11-18T06:49:28+09:00"
-    },
-    {
-      "date": "2026-11-18",
-      "doors": null,
-      "start": "21:00",
-      "title": "Yoon Haecheon Trio – Keep on Keepin' On",
-      "title_ko": null,
-      "venue": "Subriot",
-      "venue_ko": "서브라이엇",
-      "venue_handle": "subriot_hbc",
-      "area": "Haebangchon",
-      "city": "Seoul",
-      "lineup": [
-        "Yoon Haecheon Trio"
-      ],
-      "lineup_ko": [
-        "윤해천 트리오"
-      ],
-      "price": "Free entry, pay after the show",
-      "ticket_url": null,
-      "genres": [
-        "jazz"
-      ],
-      "notes": "Standard jazz. Guitar Yoon Haecheon, Bass Lee Jaehyeon, Drums Yang Hyeonsu. Address: B1, 1, Sinheung-ro 7-gil, Yongsan-gu, Seoul.",
-      "confidence": 0.95,
-      "sources": [
-        {
-          "handle": "subriot_hbc",
-          "url": "https://www.instagram.com/p/Df2JopOz8Ho/",
-          "posted": "2026-11-17T23:31:08+09:00"
-        }
-      ],
-      "id": "4127e15d5a93",
-      "first_seen": "2026-11-18T06:49:28+09:00",
-      "updated": "2026-11-18T06:49:28+09:00"
-    },
     {
       "date": "2026-11-19",
       "doors": "19:00",
@@ -182,6 +73,47 @@
       "id": "7624396fecb9",
       "first_seen": "2026-11-16T08:45:03+09:00",
       "updated": "2026-11-16T08:45:03+09:00"
+    },
+    {
+      "date": "2026-11-19",
+      "doors": null,
+      "start": "20:00",
+      "title": "Tetrasphere",
+      "title_ko": null,
+      "venue": "SoundDog Jazz",
+      "venue_ko": "사운드독",
+      "venue_handle": "sounddog_jazz",
+      "area": "Huam-dong",
+      "city": "Seoul",
+      "lineup": [
+        "Paul Kirby",
+        "Kim Daeho",
+        "Kim Taehyun",
+        "Ojiik"
+      ],
+      "lineup_ko": [
+        "Paul Kirby",
+        "김대호",
+        "김태현",
+        "Ojiik"
+      ],
+      "price": "20,000 KRW per person (reservation by deposit)",
+      "ticket_url": null,
+      "genres": [
+        "jazz"
+      ],
+      "notes": "Quartet: piano, bass, drums, sax. 8-10pm. Reservation by text 010-5368-2584 or WhatsApp +82-10-5368-2584. Outside snacks allowed (5,000 KRW charge per 2 people).",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "handle": "sounddog_jazz",
+          "url": "https://www.instagram.com/p/Df4g8M0SNmb/",
+          "posted": "2026-11-18T21:33:16+09:00"
+        }
+      ],
+      "id": "154a0776e613",
+      "first_seen": "2026-11-19T06:50:03+09:00",
+      "updated": "2026-11-19T06:50:03+09:00"
     },
     {
       "date": "2026-11-19",
@@ -615,6 +547,42 @@
       "id": "2842e2cf6a0e",
       "first_seen": "2026-11-16T08:45:03+09:00",
       "updated": "2026-11-16T08:45:03+09:00"
+    },
+    {
+      "date": "2026-11-22",
+      "doors": null,
+      "start": "19:00",
+      "title": "Pet Sounds Indie Live",
+      "title_ko": "펫사운즈 인디 라이브",
+      "venue": "Pet Sounds",
+      "venue_ko": "펫사운즈",
+      "venue_handle": "petsoundsmusicpub",
+      "area": "Itaewon",
+      "city": "Seoul",
+      "lineup": [
+        "RAVENS"
+      ],
+      "lineup_ko": [
+        "레이븐즈"
+      ],
+      "price": "Free",
+      "ticket_url": null,
+      "genres": [
+        "indie",
+        "rock"
+      ],
+      "notes": "Free entry; deferred payment for artists. Located 3F, 21 Hoenamu-ro, Yongsan-gu (Itaewon/Gyeongnidan). Info: +82 10 2396 3050.",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "handle": "petsoundsmusicpub",
+          "url": "https://www.instagram.com/p/Df4QXBfJAM2/",
+          "posted": "2026-11-18T19:08:23+09:00"
+        }
+      ],
+      "id": "ab6bf6ea6880",
+      "first_seen": "2026-11-19T06:50:03+09:00",
+      "updated": "2026-11-19T06:50:03+09:00"
     },
     {
       "date": "2026-11-22",

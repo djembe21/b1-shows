@@ -1,5 +1,5 @@
 {
-  "run": "2026-11-19T06:50:03+09:00",
+  "run": "2026-11-20T06:47:48+09:00",
   "accounts": {
     "hongdaeff": {
       "status": "ok",
@@ -20,7 +20,7 @@
     "channel1969.seoul": {
       "status": "ok",
       "posts": 12,
-      "new": 0,
+      "new": 1,
       "events": 0
     },
     "ssmadang_live": {
@@ -32,7 +32,7 @@
     "clubsteelface": {
       "status": "ok",
       "posts": 12,
-      "new": 1,
+      "new": 0,
       "events": 0
     },
     "senggistudio": {
@@ -80,20 +80,20 @@
     "morene__sukha": {
       "status": "ok",
       "posts": 12,
-      "new": 0,
+      "new": 1,
       "events": 0
     },
     "petsoundsmusicpub": {
       "status": "ok",
       "posts": 12,
-      "new": 2,
-      "events": 1
+      "new": 1,
+      "events": 0
     },
     "subriot_hbc": {
       "status": "ok",
       "posts": 12,
-      "new": 0,
-      "events": 0
+      "new": 1,
+      "events": 2
     },
     "skunk_itaewon": {
       "status": "ok",
@@ -132,7 +132,7 @@
     "liveclubday": {
       "status": "ok",
       "posts": 12,
-      "new": 1,
+      "new": 0,
       "events": 0
     },
     "gigguide.kr": {
@@ -142,6 +142,6 @@
   },
   "posts_checked": 7,
   "added": 2,
-  "merged": 0,
+  "merged": 1,
   "errors": 3
 }

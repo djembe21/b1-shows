@@ -1,154 +1,7 @@
 {
-  "generated": "2026-11-19T06:50:03.051102+09:00",
-  "count": 40,
+  "generated": "2026-11-20T06:47:48.699061+09:00",
+  "count": 37,
   "events": [
-    {
-      "date": "2026-11-19",
-      "doors": "19:00",
-      "start": "20:00",
-      "title": "Thursday Music Life (목요음악생활)",
-      "title_ko": "목요음악생활",
-      "venue": "Channel 1969",
-      "venue_ko": "채널1969",
-      "venue_handle": "channel1969.seoul",
-      "area": "Yeonnam",
-      "city": "Seoul",
-      "lineup": [
-        "Keith Says One More",
-        "Sloejean"
-      ],
-      "lineup_ko": [
-        "키스세이즈원모어",
-        "슬로우진"
-      ],
-      "price": "10,000 KRW",
-      "ticket_url": null,
-      "genres": [],
-      "notes": "Weekly Thursday live show. Keith Says One More at 20:00, Sloejean at 21:00. Reservations via Naver. Venue is at B1, 35 Yeonhui-ro, Mapo-gu.",
-      "confidence": 0.95,
-      "sources": [
-        {
-          "handle": "channel1969.seoul",
-          "url": "https://www.instagram.com/p/Dfg-nK8PCX3/",
-          "posted": "2026-11-09T18:11:58+09:00"
-        }
-      ],
-      "id": "e83089356347",
-      "first_seen": "2026-11-16T08:45:03+09:00",
-      "updated": "2026-11-16T08:45:03+09:00"
-    },
-    {
-      "date": "2026-11-19",
-      "doors": null,
-      "start": "20:00",
-      "title": "The Greatest Music of Guns N' Roses + 80s 90s Music",
-      "title_ko": null,
-      "venue": "Pet Sounds",
-      "venue_ko": "펫사운즈",
-      "venue_handle": "petsoundsmusicpub",
-      "area": "Itaewon",
-      "city": "Seoul",
-      "lineup": [
-        "DJ High"
-      ],
-      "lineup_ko": [
-        "DJ High"
-      ],
-      "price": "Free",
-      "ticket_url": null,
-      "genres": [
-        "dj",
-        "metal",
-        "rock"
-      ],
-      "notes": "Music pub in Itaewon (3F). DJ playlist night with big screen, 8pm-2am; other genres added after midnight.",
-      "confidence": 0.9,
-      "sources": [
-        {
-          "handle": "petsoundsmusicpub",
-          "url": "https://www.instagram.com/reel/DftlRA9J_Jf/",
-          "posted": "2026-11-14T15:41:00+09:00"
-        }
-      ],
-      "id": "7624396fecb9",
-      "first_seen": "2026-11-16T08:45:03+09:00",
-      "updated": "2026-11-16T08:45:03+09:00"
-    },
-    {
-      "date": "2026-11-19",
-      "doors": null,
-      "start": "20:00",
-      "title": "Tetrasphere",
-      "title_ko": null,
-      "venue": "SoundDog Jazz",
-      "venue_ko": "사운드독",
-      "venue_handle": "sounddog_jazz",
-      "area": "Huam-dong",
-      "city": "Seoul",
-      "lineup": [
-        "Paul Kirby",
-        "Kim Daeho",
-        "Kim Taehyun",
-        "Ojiik"
-      ],
-      "lineup_ko": [
-        "Paul Kirby",
-        "김대호",
-        "김태현",
-        "Ojiik"
-      ],
-      "price": "20,000 KRW per person (reservation by deposit)",
-      "ticket_url": null,
-      "genres": [
-        "jazz"
-      ],
-      "notes": "Quartet: piano, bass, drums, sax. 8-10pm. Reservation by text 010-5368-2584 or WhatsApp +82-10-5368-2584. Outside snacks allowed (5,000 KRW charge per 2 people).",
-      "confidence": 0.9,
-      "sources": [
-        {
-          "handle": "sounddog_jazz",
-          "url": "https://www.instagram.com/p/Df4g8M0SNmb/",
-          "posted": "2026-11-18T21:33:16+09:00"
-        }
-      ],
-      "id": "154a0776e613",
-      "first_seen": "2026-11-19T06:50:03+09:00",
-      "updated": "2026-11-19T06:50:03+09:00"
-    },
-    {
-      "date": "2026-11-19",
-      "doors": null,
-      "start": "23:00",
-      "title": "French Night",
-      "title_ko": null,
-      "venue": "Club FF",
-      "venue_ko": "클럽 FF",
-      "venue_handle": "hongdaeff",
-      "area": "Hongdae",
-      "city": "Seoul",
-      "lineup": [
-        "DJ Eddie"
-      ],
-      "lineup_ko": [],
-      "price": "Free (No cover, entry after ordering)",
-      "ticket_url": null,
-      "genres": [
-        "dj",
-        "pop"
-      ],
-      "notes": "Hongdae. 50% French music, 50% party anthems. DJ Eddie all night. Entry after ordering a drink.",
-      "confidence": 0.95,
-      "sources": [
-        {
-          "handle": "hongdaeff",
-          "url": "https://www.instagram.com/p/DfuL898Ru6x/",
-          "posted": "2026-11-14T21:24:39+09:00"
-        }
-      ],
-      "id": "b3e256db4c7f",
-      "first_seen": "2026-11-16T08:45:03+09:00",
-      "updated": "2026-11-16T08:45:03+09:00"
-    },
     {
       "date": "2026-11-20",
       "doors": "19:00",
@@ -208,6 +61,47 @@
       "id": "0500b03aa476",
       "first_seen": "2026-11-16T08:45:03+09:00",
       "updated": "2026-11-16T08:45:03+09:00"
+    },
+    {
+      "date": "2026-11-20",
+      "doors": null,
+      "start": "20:00",
+      "title": "Lee Samsu Quartet",
+      "title_ko": "이삼수 쿼텟",
+      "venue": "SoundDog Jazz",
+      "venue_ko": "사운드독",
+      "venue_handle": "sounddog_jazz",
+      "area": "Huam-dong",
+      "city": "Seoul",
+      "lineup": [
+        "Lee Samsu (sax)",
+        "Kim Jinsu (piano)",
+        "Jeon Hanguk (bass)",
+        "Choi Muhyeon (drums)"
+      ],
+      "lineup_ko": [
+        "이삼수",
+        "김진수",
+        "전한국",
+        "최무현"
+      ],
+      "price": "20,000 KRW per person (reservation by deposit); outside food allowed, 5,000 KRW charge per 2 people",
+      "ticket_url": null,
+      "genres": [
+        "jazz"
+      ],
+      "notes": "Show 8PM-10PM. Reserve by text 010-5368-2584 or WhatsApp +82-10-5368-2584; bank deposit to Woori Bank 1002-550-545031 (Kim Sung), then text name/date.",
+      "confidence": 0.93,
+      "sources": [
+        {
+          "handle": "sounddog_jazz",
+          "url": "https://www.instagram.com/p/Df7Gy2GyWiU/",
+          "posted": "2026-11-19T21:42:31+09:00"
+        }
+      ],
+      "id": "e20ed99b0ece",
+      "first_seen": "2026-11-20T06:47:48+09:00",
+      "updated": "2026-11-20T06:47:48+09:00"
     },
     {
       "date": "2026-11-20",

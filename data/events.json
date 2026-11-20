@@ -1264,41 +1264,6 @@
     "updated": "2026-11-16T08:45:03+09:00"
   },
   {
-    "date": "2026-11-18",
-    "doors": null,
-    "start": "20:00",
-    "title": "Wednesday Sad Music Club",
-    "title_ko": null,
-    "venue": "Pet Sounds",
-    "venue_ko": "펫사운즈",
-    "venue_handle": "petsoundsmusicpub",
-    "area": "Itaewon",
-    "city": "Seoul",
-    "lineup": [
-      "DJ 4pril 5our"
-    ],
-    "lineup_ko": [],
-    "price": "Free",
-    "ticket_url": null,
-    "genres": [
-      "dj",
-      "indie",
-      "shoegaze"
-    ],
-    "notes": "Free entry. DJ set of shoegaze, post-rock, midwest emo, indie rock and indie pop. Located on the 3rd floor, Itaewon.",
-    "confidence": 0.93,
-    "sources": [
-      {
-        "handle": "petsoundsmusicpub",
-        "url": "https://www.instagram.com/p/DfwW-ZRJyER/",
-        "posted": "2026-11-15T17:32:16+09:00"
-      }
-    ],
-    "id": "84d0ad63abd1",
-    "first_seen": "2026-11-16T08:45:03+09:00",
-    "updated": "2026-11-16T08:45:03+09:00"
-  },
-  {
     "date": "2026-11-21",
     "doors": null,
     "start": "21:00",
@@ -1568,7 +1533,8 @@
     "area": "Hongdae",
     "city": "Seoul",
     "lineup": [
-      "Chun Jinwoo and the Vomit Inducers"
+      "Chun Jinwoo and the Vomit Inducers",
+      "Cheon Jinwoo and the Gutoyubaljadeul"
     ],
     "lineup_ko": [
       "천진우와 구토유발자들"
@@ -1586,11 +1552,16 @@
         "handle": "rollinghall",
         "url": "https://www.instagram.com/p/DfyV36gFuTE/",
         "posted": "2026-11-16T12:01:05+09:00"
+      },
+      {
+        "handle": "rollinghall",
+        "url": "https://www.instagram.com/reel/Df8u4Xno0H9/",
+        "posted": "2026-11-20T12:52:07+09:00"
       }
     ],
     "id": "d121be13def4",
     "first_seen": "2026-11-17T06:45:18+09:00",
-    "updated": "2026-11-17T06:45:18+09:00"
+    "updated": "2026-11-21T06:44:25+09:00"
   },
   {
     "date": "2026-11-22",
@@ -1623,80 +1594,6 @@
       }
     ],
     "id": "777ad0d89cd2",
-    "first_seen": "2026-11-18T06:49:28+09:00",
-    "updated": "2026-11-18T06:49:28+09:00"
-  },
-  {
-    "date": "2026-11-18",
-    "doors": null,
-    "start": "21:00",
-    "title": "Yoon Haecheon Trio – Keep on Keepin' On",
-    "title_ko": null,
-    "venue": "Subriot",
-    "venue_ko": "서브라이엇",
-    "venue_handle": "subriot_hbc",
-    "area": "Haebangchon",
-    "city": "Seoul",
-    "lineup": [
-      "Yoon Haecheon Trio"
-    ],
-    "lineup_ko": [
-      "윤해천 트리오"
-    ],
-    "price": "Free entry, pay after the show",
-    "ticket_url": null,
-    "genres": [
-      "jazz"
-    ],
-    "notes": "Standard jazz. Guitar Yoon Haecheon, Bass Lee Jaehyeon, Drums Yang Hyeonsu. Address: B1, 1, Sinheung-ro 7-gil, Yongsan-gu, Seoul.",
-    "confidence": 0.95,
-    "sources": [
-      {
-        "handle": "subriot_hbc",
-        "url": "https://www.instagram.com/p/Df2JopOz8Ho/",
-        "posted": "2026-11-17T23:31:08+09:00"
-      }
-    ],
-    "id": "4127e15d5a93",
-    "first_seen": "2026-11-18T06:49:28+09:00",
-    "updated": "2026-11-18T06:49:28+09:00"
-  },
-  {
-    "date": "2026-11-18",
-    "doors": null,
-    "start": "20:00",
-    "title": "Song Suji Trio",
-    "title_ko": "송수지 Trio",
-    "venue": "SoundDog Jazz",
-    "venue_ko": "사운드독",
-    "venue_handle": "sounddog_jazz",
-    "area": "Huam-dong",
-    "city": "Seoul",
-    "lineup": [
-      "Song Suji (piano)",
-      "Shin Myeongjun (bass)",
-      "Lee Seokhyeon (drums)"
-    ],
-    "lineup_ko": [
-      "송수지",
-      "신명준",
-      "이석현"
-    ],
-    "price": "20,000 KRW per person",
-    "ticket_url": null,
-    "genres": [
-      "jazz"
-    ],
-    "notes": "Runs 20:00-22:00. Reservation by text 010-5368-2584 (WhatsApp +82-10-5368-2584); deposit to Woori Bank 1002-550-545031 (Kim Sung) and text name/date. Outside snacks allowed (5,000 KRW charge per 2 people).",
-    "confidence": 0.93,
-    "sources": [
-      {
-        "handle": "sounddog_jazz",
-        "url": "https://www.instagram.com/p/Df2FqxSyAyq/",
-        "posted": "2026-11-17T22:56:29+09:00"
-      }
-    ],
-    "id": "5b7fc6fd290e",
     "first_seen": "2026-11-18T06:49:28+09:00",
     "updated": "2026-11-18T06:49:28+09:00"
   },
@@ -1854,5 +1751,384 @@
     "id": "e20ed99b0ece",
     "first_seen": "2026-11-20T06:47:48+09:00",
     "updated": "2026-11-20T06:47:48+09:00"
+  },
+  {
+    "date": "2026-11-29",
+    "doors": null,
+    "start": "21:00",
+    "title": "ROCK PARTY",
+    "title_ko": "락파티",
+    "venue": "Club FF",
+    "venue_ko": "클럽 FF",
+    "venue_handle": "hongdaeff",
+    "area": "Hongdae",
+    "city": "Seoul",
+    "lineup": [
+      "Jay",
+      "Felix",
+      "Eddie"
+    ],
+    "lineup_ko": [],
+    "price": "Free (no cover, drink order required)",
+    "ticket_url": null,
+    "genres": [
+      "dj",
+      "rock"
+    ],
+    "notes": "100% rock DJing (no hip-hop, EDM or pop). Runs all night. Wear a rock band T-shirt to get one free Rock N Roll cocktail. Hongdae.",
+    "confidence": 0.93,
+    "sources": [
+      {
+        "handle": "hongdaeff",
+        "url": "https://www.instagram.com/reel/Df9xuq9M0kw/",
+        "posted": "2026-11-20T22:51:43+09:00"
+      }
+    ],
+    "id": "ddbf5b79ab96",
+    "first_seen": "2026-11-21T06:44:25+09:00",
+    "updated": "2026-11-21T06:44:25+09:00"
+  },
+  {
+    "date": "2026-12-05",
+    "doors": "18:00",
+    "start": "19:00",
+    "title": "Marshall Live from 월하정인 (Live show)",
+    "title_ko": "월하정인",
+    "venue": "Morene Sukha",
+    "venue_ko": "모래내 극락",
+    "venue_handle": "morene__sukha",
+    "area": "West Seoul",
+    "city": "Seoul",
+    "lineup": [
+      "omm..",
+      "Noridogam"
+    ],
+    "lineup_ko": [
+      "옴",
+      "놀이도감"
+    ],
+    "price": "Advance 40,000 / Door 45,000 KRW",
+    "ticket_url": null,
+    "genres": [
+      "indie",
+      "other"
+    ],
+    "notes": "Tickets open 2026-11-23 8PM via Linktree in profile. Standing, first come first served. No door sales if advance sells out. Minors only with guardian (ID check). One drink per person required. Part of the Morene Sukha year-end series.",
+    "confidence": 0.85,
+    "sources": [
+      {
+        "handle": "morene__sukha",
+        "url": "https://www.instagram.com/p/Df9SD5Do5Hb/",
+        "posted": "2026-11-20T17:59:24+09:00"
+      }
+    ],
+    "id": "bc928d5d2172",
+    "first_seen": "2026-11-21T06:44:25+09:00",
+    "updated": "2026-11-21T06:44:25+09:00"
+  },
+  {
+    "date": "2026-12-05",
+    "doors": null,
+    "start": "20:40",
+    "title": "Birds of Paradise DJ Party (Marshall Live from 월하정인)",
+    "title_ko": "극락조 디제잉 파티",
+    "venue": "Morene Sukha",
+    "venue_ko": "모래내 극락",
+    "venue_handle": "morene__sukha",
+    "area": "West Seoul",
+    "city": "Seoul",
+    "lineup": [
+      "B.RALTA",
+      "Tiger Disco",
+      "Range Vak"
+    ],
+    "lineup_ko": [],
+    "price": "Door 10,000 KRW (door sales only); free for live show ticket holders",
+    "ticket_url": null,
+    "genres": [
+      "dj",
+      "electronic"
+    ],
+    "notes": "Follows the live show on the same night.",
+    "confidence": 0.85,
+    "sources": [
+      {
+        "handle": "morene__sukha",
+        "url": "https://www.instagram.com/p/Df9SD5Do5Hb/",
+        "posted": "2026-11-20T17:59:24+09:00"
+      }
+    ],
+    "id": "fbab9b615d31",
+    "first_seen": "2026-11-21T06:44:25+09:00",
+    "updated": "2026-11-21T06:44:25+09:00"
+  },
+  {
+    "date": "2026-12-04",
+    "doors": "19:00",
+    "start": "20:00",
+    "title": "Marshall Live from 월하정인 (Moonlit Lovers)",
+    "title_ko": "마샬 라이브 프롬 월하정인",
+    "venue": "Morene Sukha",
+    "venue_ko": "모래내 극락",
+    "venue_handle": "morene__sukha",
+    "area": "West Seoul",
+    "city": "Seoul",
+    "lineup": [
+      "SWELL CITY",
+      "Hathaway"
+    ],
+    "lineup_ko": [
+      "스웰시티",
+      "해서웨이"
+    ],
+    "price": "Advance 40,000 / Door 45,000 KRW",
+    "ticket_url": null,
+    "genres": [
+      "indie",
+      "rock"
+    ],
+    "notes": "Tickets open 2026-11-23 8PM via Linktree in profile. Unreserved standing, first come first served. No door sales if sold out. Minors only with guardian; ID check. One drink per person required. SWELL CITY 20:00, Hathaway 21:00. Free-entry music cafe and Marshall experience studio open from 18:00.",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "handle": "morene__sukha",
+        "url": "https://www.instagram.com/p/Df8qkIEI_GP/",
+        "posted": "2026-11-20T12:14:17+09:00"
+      }
+    ],
+    "id": "e0138e78d7da",
+    "first_seen": "2026-11-21T06:44:25+09:00",
+    "updated": "2026-11-21T06:44:25+09:00"
+  },
+  {
+    "date": "2026-11-21",
+    "doors": null,
+    "start": "19:00",
+    "title": "Pet Sounds Indie Live",
+    "title_ko": "펫사운즈 인디 라이브",
+    "venue": "Pet Sounds",
+    "venue_ko": "펫사운즈",
+    "venue_handle": "petsoundsmusicpub",
+    "area": "Itaewon",
+    "city": "Seoul",
+    "lineup": [
+      "MOOII",
+      "CHASEDAE"
+    ],
+    "lineup_ko": [
+      "무이",
+      "차세대"
+    ],
+    "price": "Free",
+    "ticket_url": null,
+    "genres": [
+      "indie"
+    ],
+    "notes": "Free entry; deferred payment for artists. Located on 3F, Gyeongridan-gil (Itaewon), Yongsan-gu.",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "petsoundsmusicpub",
+        "url": "https://www.instagram.com/p/Df89T8UGh0_/",
+        "posted": "2026-11-20T14:58:06+09:00"
+      }
+    ],
+    "id": "5f409e8a71a1",
+    "first_seen": "2026-11-21T06:44:25+09:00",
+    "updated": "2026-11-21T06:44:25+09:00"
+  },
+  {
+    "date": "2026-11-21",
+    "doors": null,
+    "start": "18:00",
+    "title": "Jazz Live Show!",
+    "title_ko": null,
+    "venue": "Subriot",
+    "venue_ko": "서브라이엇 HBC",
+    "venue_handle": "subriot_hbc",
+    "area": "Haebangchon",
+    "city": "Seoul",
+    "lineup": [
+      "Jung Seungbin Dixieland Family",
+      "Kansas City Band",
+      "The New Jazz Band with Kenji",
+      "Jeong Seungbin Dixieland Family"
+    ],
+    "lineup_ko": [
+      "정승빈 DIXIELAND FAMILY",
+      "더 뉴 재즈밴드 WITH KENJI"
+    ],
+    "price": "Free entry, pay after the show",
+    "ticket_url": null,
+    "genres": [
+      "jazz"
+    ],
+    "notes": "Dixieland / traditional jazz. Reservations: 010 7454 4005 (English), 010 8018 5546 (Korean). Venue in Haebangchon, Yongsan.",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "subriot_hbc",
+        "url": "https://www.instagram.com/p/Df9nlNFk4c1/",
+        "posted": "2026-11-20T21:07:27+09:00"
+      },
+      {
+        "handle": "subriot_hbc",
+        "url": "https://www.instagram.com/p/Df8Uh93zuUu/",
+        "posted": "2026-11-20T09:01:48+09:00"
+      }
+    ],
+    "id": "096e8db03afc",
+    "first_seen": "2026-11-21T06:44:25+09:00",
+    "updated": "2026-11-21T06:44:25+09:00"
+  },
+  {
+    "date": "2026-11-20",
+    "doors": null,
+    "start": "20:00",
+    "title": "Jazz Live Show",
+    "title_ko": null,
+    "venue": "Subriot",
+    "venue_ko": "서브라이엇 HBC",
+    "venue_handle": "subriot_hbc",
+    "area": "Haebangchon",
+    "city": "Seoul",
+    "lineup": [
+      "Gritty Kitty",
+      "Yu Taek-eon Quintet"
+    ],
+    "lineup_ko": [
+      "그리티 키티",
+      "유택언 퀸텟"
+    ],
+    "price": "Free entry / pay after the show",
+    "ticket_url": null,
+    "genres": [
+      "jazz",
+      "other",
+      "r&b"
+    ],
+    "notes": "Jazz, soul, funk, vocal. Sets 20:00-22:00. Reservations: 010-8018-5546 (Korean), 010-7454-4005 (English). Located B1, 1 Sinheung-ro 7-gil, Yongsan-gu (Haebangchon).",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "subriot_hbc",
+        "url": "https://www.instagram.com/p/Df9VRY_k6g4/",
+        "posted": "2026-11-20T18:27:28+09:00"
+      },
+      {
+        "handle": "subriot_hbc",
+        "url": "https://www.instagram.com/p/Df8Uh93zuUu/",
+        "posted": "2026-11-20T09:01:48+09:00"
+      }
+    ],
+    "id": "5739858688ca",
+    "first_seen": "2026-11-21T06:44:25+09:00",
+    "updated": "2026-11-21T06:44:25+09:00"
+  },
+  {
+    "date": "2026-11-28",
+    "doors": null,
+    "start": "20:00",
+    "title": null,
+    "title_ko": null,
+    "venue": "Subriot",
+    "venue_ko": "서브라이엇 HBC",
+    "venue_handle": "subriot_hbc",
+    "area": "Haebangchon",
+    "city": "Seoul",
+    "lineup": [
+      "Gritty Kitty"
+    ],
+    "lineup_ko": [
+      "그리티 키티"
+    ],
+    "price": "Free entry / pay after the show",
+    "ticket_url": null,
+    "genres": [
+      "jazz",
+      "other"
+    ],
+    "notes": "Jazz, soul, funk, vocal. Reservations: 010-8018-5546 (Korean), 010-7454-4005 (English).",
+    "confidence": 0.93,
+    "sources": [
+      {
+        "handle": "subriot_hbc",
+        "url": "https://www.instagram.com/p/Df9VRY_k6g4/",
+        "posted": "2026-11-20T18:27:28+09:00"
+      }
+    ],
+    "id": "a01cc79b095c",
+    "first_seen": "2026-11-21T06:44:25+09:00",
+    "updated": "2026-11-21T06:44:25+09:00"
+  },
+  {
+    "date": "2026-11-22",
+    "doors": null,
+    "start": "19:00",
+    "title": "Jazz Live Show",
+    "title_ko": null,
+    "venue": "Subriot",
+    "venue_ko": "해방촌 서브라이엇 HBC",
+    "venue_handle": "subriot_hbc",
+    "area": "Haebangchon",
+    "city": "Seoul",
+    "lineup": [
+      "Hippo Sound",
+      "Um Ki Eung Trial Band"
+    ],
+    "lineup_ko": [
+      "HIPPO SOUND"
+    ],
+    "price": "Free",
+    "ticket_url": null,
+    "genres": [
+      "jazz",
+      "other"
+    ],
+    "notes": "Free entry, pay after the show. Funk. English reservations: 010 7454 4005",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "subriot_hbc",
+        "url": "https://www.instagram.com/p/Df8Uh93zuUu/",
+        "posted": "2026-11-20T09:01:48+09:00"
+      }
+    ],
+    "id": "6dba094d308f",
+    "first_seen": "2026-11-21T06:44:25+09:00",
+    "updated": "2026-11-21T06:44:25+09:00"
+  },
+  {
+    "date": "2026-11-21",
+    "doors": null,
+    "start": "20:00",
+    "title": "Kailash Band",
+    "title_ko": null,
+    "venue": "SoundDog Jazz",
+    "venue_ko": "사운드독",
+    "venue_handle": "sounddog_jazz",
+    "area": "Huam-dong",
+    "city": "Seoul",
+    "lineup": [
+      "Kailash Band"
+    ],
+    "lineup_ko": [],
+    "price": "30,000 KRW",
+    "ticket_url": null,
+    "genres": [
+      "jazz"
+    ],
+    "notes": "Set 20:00-22:00. Members: Charlie Jung (guitar), Jungwon (rhythm guitar), Jason Park (piano), Oh Wonseok (bass), Lee Dohun (drums). Reservation by text 010-5368-2584 or WhatsApp +82-10-5368-2584; bank deposit required. Outside snacks allowed (5,000 KRW charge per 2 people).",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "handle": "sounddog_jazz",
+        "url": "https://www.instagram.com/p/Df9qD3zyZKV/",
+        "posted": "2026-11-20T21:29:10+09:00"
+      }
+    ],
+    "id": "9387374ce6a1",
+    "first_seen": "2026-11-21T06:44:25+09:00",
+    "updated": "2026-11-21T06:44:25+09:00"
   }
 ]

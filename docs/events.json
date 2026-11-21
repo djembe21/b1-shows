@@ -1,327 +1,7 @@
 {
-  "generated": "2026-11-21T06:44:25.044183+09:00",
-  "count": 42,
+  "generated": "2026-11-22T06:36:52.319877+09:00",
+  "count": 41,
   "events": [
-    {
-      "date": "2026-11-21",
-      "doors": "13:00",
-      "start": "14:00",
-      "title": "MRN Groove Chiyoonhae LIVE Concert",
-      "title_ko": "MRN Groove 지윤해 LIVE",
-      "venue": "Morene Sukha",
-      "venue_ko": "모래내극락",
-      "venue_handle": "morene__sukha",
-      "area": "West Seoul",
-      "city": "Seoul",
-      "lineup": [
-        "Chiyoonhae",
-        "Jung Sumin (Double Bass)"
-      ],
-      "lineup_ko": [
-        "지윤해",
-        "정수민"
-      ],
-      "price": "Advance 40,000 / Door 45,000 KRW (no door sales if advance sells out)",
-      "ticket_url": null,
-      "genres": [
-        "acoustic",
-        "indie"
-      ],
-      "notes": "Tickets open 2026-11-09 6PM via Linktree in profile. Unreserved standing, first come first served. 19+ with ID check; one drink order per person. Show 14:00-15:00. No parking.",
-      "confidence": 0.95,
-      "sources": [
-        {
-          "handle": "morene__sukha",
-          "url": "https://www.instagram.com/p/Dfeql8pTfDc/",
-          "posted": "2026-11-09T12:00:06+09:00"
-        }
-      ],
-      "id": "9f0e64f8b3f9",
-      "first_seen": "2026-11-16T08:45:03+09:00",
-      "updated": "2026-11-16T08:45:03+09:00"
-    },
-    {
-      "date": "2026-11-21",
-      "doors": null,
-      "start": "18:00",
-      "title": "Jazz Live Show!",
-      "title_ko": null,
-      "venue": "Subriot",
-      "venue_ko": "서브라이엇 HBC",
-      "venue_handle": "subriot_hbc",
-      "area": "Haebangchon",
-      "city": "Seoul",
-      "lineup": [
-        "Jung Seungbin Dixieland Family",
-        "Kansas City Band",
-        "The New Jazz Band with Kenji",
-        "Jeong Seungbin Dixieland Family"
-      ],
-      "lineup_ko": [
-        "정승빈 DIXIELAND FAMILY",
-        "더 뉴 재즈밴드 WITH KENJI"
-      ],
-      "price": "Free entry, pay after the show",
-      "ticket_url": null,
-      "genres": [
-        "jazz"
-      ],
-      "notes": "Dixieland / traditional jazz. Reservations: 010 7454 4005 (English), 010 8018 5546 (Korean). Venue in Haebangchon, Yongsan.",
-      "confidence": 0.95,
-      "sources": [
-        {
-          "handle": "subriot_hbc",
-          "url": "https://www.instagram.com/p/Df9nlNFk4c1/",
-          "posted": "2026-11-20T21:07:27+09:00"
-        },
-        {
-          "handle": "subriot_hbc",
-          "url": "https://www.instagram.com/p/Df8Uh93zuUu/",
-          "posted": "2026-11-20T09:01:48+09:00"
-        }
-      ],
-      "id": "096e8db03afc",
-      "first_seen": "2026-11-21T06:44:25+09:00",
-      "updated": "2026-11-21T06:44:25+09:00"
-    },
-    {
-      "date": "2026-11-21",
-      "doors": null,
-      "start": "19:00",
-      "title": "Pet Sounds Indie Live",
-      "title_ko": "펫사운즈 인디 라이브",
-      "venue": "Pet Sounds",
-      "venue_ko": "펫사운즈",
-      "venue_handle": "petsoundsmusicpub",
-      "area": "Itaewon",
-      "city": "Seoul",
-      "lineup": [
-        "MOOII",
-        "CHASEDAE"
-      ],
-      "lineup_ko": [
-        "무이",
-        "차세대"
-      ],
-      "price": "Free",
-      "ticket_url": null,
-      "genres": [
-        "indie"
-      ],
-      "notes": "Free entry; deferred payment for artists. Located on 3F, Gyeongridan-gil (Itaewon), Yongsan-gu.",
-      "confidence": 0.95,
-      "sources": [
-        {
-          "handle": "petsoundsmusicpub",
-          "url": "https://www.instagram.com/p/Df89T8UGh0_/",
-          "posted": "2026-11-20T14:58:06+09:00"
-        }
-      ],
-      "id": "5f409e8a71a1",
-      "first_seen": "2026-11-21T06:44:25+09:00",
-      "updated": "2026-11-21T06:44:25+09:00"
-    },
-    {
-      "date": "2026-11-21",
-      "doors": "20:00",
-      "start": "20:00",
-      "title": "Noite Brasileira Vol. 4",
-      "title_ko": "노이치 브라질레이라 4",
-      "venue": "Channel 1969",
-      "venue_ko": "채널1969",
-      "venue_handle": "channel1969.seoul",
-      "area": "Yeonnam",
-      "city": "Seoul",
-      "lineup": [
-        "YG Brazilian Lab",
-        "Son Wonjin and Samba Friends",
-        "DJ Noleeyuu",
-        "DJ Nanbong",
-        "DJ Mospiran",
-        "DJ Leelazer"
-      ],
-      "lineup_ko": [
-        "YG Brazilian Lab",
-        "손원진과 쌈바친구들",
-        "난봉"
-      ],
-      "price": "Door 20,000 KRW",
-      "ticket_url": null,
-      "genres": [
-        "dj",
-        "folk",
-        "other"
-      ],
-      "notes": "Brazilian music night, 8 PM–2 AM. Timetable: Noleeyuu 20-21, YG Brazilian Lab live 21-22, Nanbong 22-23, Son Wonjin & Samba Friends live 23-24, Mospiran 24-01, Leelazer 01-02. Also a Brazilian hotdog pop-up by Blindspot (사각지대). Vinyl DJ sets.",
-      "confidence": 0.95,
-      "sources": [
-        {
-          "handle": "channel1969.seoul",
-          "url": "https://www.instagram.com/p/Dfo4_UwFKsv/",
-          "posted": "2026-11-12T19:55:31+09:00"
-        }
-      ],
-      "id": "4dcd58b19376",
-      "first_seen": "2026-11-16T08:45:03+09:00",
-      "updated": "2026-11-16T08:45:03+09:00"
-    },
-    {
-      "date": "2026-11-21",
-      "doors": "19:00",
-      "start": "20:00",
-      "title": "TROPICOLOR",
-      "title_ko": "트로피칼라",
-      "venue": "Morene Sukha",
-      "venue_ko": "모래내 극락",
-      "venue_handle": "morene__sukha",
-      "area": "West Seoul",
-      "city": "Seoul",
-      "lineup": [
-        "SGSY (Reggae Friends live jam session)",
-        "WHO KNOWS (dance performance)",
-        "DJ ZION",
-        "DJ SGSY"
-      ],
-      "lineup_ko": [
-        "슈가석율",
-        "후노즈",
-        "ZION",
-        "SGSY"
-      ],
-      "price": "Walk-in 10,000 KRW",
-      "ticket_url": null,
-      "genres": [
-        "dj",
-        "other"
-      ],
-      "notes": "Reggae Friends live jam session (bass Noseontaek, percussion Ra Gukhsan, vocals SGSY/Smiley, keys Ssikssik, guitar Euna, drums Lee Jangdan), dancehall dance team WHO KNOWS, and DJ sets. No one under 19 allowed (ID check). One drink per person required. Standing, first come first served. Near Gajwa Station (Gyeongui-Jungang line).",
-      "confidence": 0.93,
-      "sources": [
-        {
-          "handle": "morene__sukha",
-          "url": "https://www.instagram.com/p/DfhXqwSI4QC/",
-          "posted": "2026-11-09T21:49:40+09:00"
-        },
-        {
-          "handle": "morene__sukha",
-          "url": "https://www.instagram.com/p/DfPmYvzzOVw/",
-          "posted": "2026-11-03T00:14:45+09:00"
-        }
-      ],
-      "id": "205836c071ec",
-      "first_seen": "2026-11-16T08:45:03+09:00",
-      "updated": "2026-11-16T08:45:03+09:00"
-    },
-    {
-      "date": "2026-11-21",
-      "doors": null,
-      "start": "20:00",
-      "title": "Kailash Band",
-      "title_ko": null,
-      "venue": "SoundDog Jazz",
-      "venue_ko": "사운드독",
-      "venue_handle": "sounddog_jazz",
-      "area": "Huam-dong",
-      "city": "Seoul",
-      "lineup": [
-        "Kailash Band"
-      ],
-      "lineup_ko": [],
-      "price": "30,000 KRW",
-      "ticket_url": null,
-      "genres": [
-        "jazz"
-      ],
-      "notes": "Set 20:00-22:00. Members: Charlie Jung (guitar), Jungwon (rhythm guitar), Jason Park (piano), Oh Wonseok (bass), Lee Dohun (drums). Reservation by text 010-5368-2584 or WhatsApp +82-10-5368-2584; bank deposit required. Outside snacks allowed (5,000 KRW charge per 2 people).",
-      "confidence": 0.9,
-      "sources": [
-        {
-          "handle": "sounddog_jazz",
-          "url": "https://www.instagram.com/p/Df9qD3zyZKV/",
-          "posted": "2026-11-20T21:29:10+09:00"
-        }
-      ],
-      "id": "9387374ce6a1",
-      "first_seen": "2026-11-21T06:44:25+09:00",
-      "updated": "2026-11-21T06:44:25+09:00"
-    },
-    {
-      "date": "2026-11-21",
-      "doors": "19:45",
-      "start": "20:45",
-      "title": "The Kids Are Alright",
-      "title_ko": null,
-      "venue": "Club FF",
-      "venue_ko": "클럽 FF",
-      "venue_handle": "hongdaeff",
-      "area": "Hongdae",
-      "city": "Seoul",
-      "lineup": [
-        "Liferadio",
-        "Peace Pizza Piece",
-        "Oysters"
-      ],
-      "lineup_ko": [
-        "라이프라디오",
-        "피스피자피스",
-        "오이스터즈"
-      ],
-      "price": "Door 30,000 KRW (door only)",
-      "ticket_url": null,
-      "genres": [
-        "indie",
-        "punk",
-        "rock"
-      ],
-      "notes": "Door sales only, no advance booking. Set times: Liferadio 20:45, Peace Pizza Piece 21:30, Oysters 22:15. DJ party from 23:00 after the live show. Minors must leave by 22:00. Door ticketing starts about 1 hour before show.",
-      "confidence": 0.95,
-      "sources": [
-        {
-          "handle": "hongdaeff",
-          "url": "https://www.instagram.com/p/DfmJNL2M5cO/",
-          "posted": "2026-11-11T18:23:44+09:00"
-        }
-      ],
-      "id": "5d506e4d3e33",
-      "first_seen": "2026-11-16T08:45:03+09:00",
-      "updated": "2026-11-16T08:45:03+09:00"
-    },
-    {
-      "date": "2026-11-21",
-      "doors": null,
-      "start": "21:00",
-      "title": "Saturday Rock Night",
-      "title_ko": "Saturday Rock Night",
-      "venue": "Pet Sounds",
-      "venue_ko": "펫사운즈",
-      "venue_handle": "petsoundsmusicpub",
-      "area": "Itaewon",
-      "city": "Seoul",
-      "lineup": [
-        "DJ High"
-      ],
-      "lineup_ko": [
-        "디제이 하이"
-      ],
-      "price": "Free",
-      "ticket_url": null,
-      "genres": [
-        "dj",
-        "rock"
-      ],
-      "notes": "Free entry, 9PM-3AM, at Itaewon-dong 278-8 (3F). Rock music and videos on a big screen. After midnight other genres are added. A free-entry local indie band live set runs before 9PM (band not named).",
-      "confidence": 0.9,
-      "sources": [
-        {
-          "handle": "petsoundsmusicpub",
-          "url": "https://www.instagram.com/p/DfwWkh2JBGr/",
-          "posted": "2026-11-15T17:31:48+09:00"
-        }
-      ],
-      "id": "8e050fb8dc6d",
-      "first_seen": "2026-11-16T08:45:03+09:00",
-      "updated": "2026-11-16T08:45:03+09:00"
-    },
     {
       "date": "2026-11-22",
       "doors": "23:40",
@@ -444,6 +124,47 @@
       "id": "6dba094d308f",
       "first_seen": "2026-11-21T06:44:25+09:00",
       "updated": "2026-11-21T06:44:25+09:00"
+    },
+    {
+      "date": "2026-11-22",
+      "doors": null,
+      "start": "20:00",
+      "title": "Park Junseo Quartet",
+      "title_ko": "박준서 쿼텟",
+      "venue": "SoundDog Jazz",
+      "venue_ko": "사운드독",
+      "venue_handle": "sounddog_jazz",
+      "area": "Huam-dong",
+      "city": "Seoul",
+      "lineup": [
+        "Park Junseo (tenor sax)",
+        "Kim Taeguk (alto sax)",
+        "Kim Jonghyun (bass)",
+        "Lee Seokhyun (drums)"
+      ],
+      "lineup_ko": [
+        "박준서",
+        "김태국",
+        "김종현",
+        "이석현"
+      ],
+      "price": "20,000 KRW per person",
+      "ticket_url": null,
+      "genres": [
+        "jazz"
+      ],
+      "notes": "Show 20:00-22:00. Reservation by text 010-5368-2584 or WhatsApp +82-10-5368-2584; pay by bank transfer and text name/date to confirm. Outside food allowed (5,000 KRW charge per 2 people).",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "handle": "sounddog_jazz",
+          "url": "https://www.instagram.com/p/DgAgg9wyNro/",
+          "posted": "2026-11-22T00:03:29+09:00"
+        }
+      ],
+      "id": "b0c6735a5904",
+      "first_seen": "2026-11-22T06:36:52+09:00",
+      "updated": "2026-11-22T06:36:52+09:00"
     },
     {
       "date": "2026-11-22",
@@ -586,6 +307,76 @@
       "id": "86a3290f6917",
       "first_seen": "2026-11-16T08:45:03+09:00",
       "updated": "2026-11-16T08:45:03+09:00"
+    },
+    {
+      "date": "2026-11-26",
+      "doors": null,
+      "start": "23:00",
+      "title": "Eurobash",
+      "title_ko": null,
+      "venue": "Club FF",
+      "venue_ko": "클럽 FF",
+      "venue_handle": "hongdaeff",
+      "area": "Hongdae",
+      "city": "Seoul",
+      "lineup": [
+        "DJ Eddie"
+      ],
+      "lineup_ko": [],
+      "price": "Free (No cover)",
+      "ticket_url": null,
+      "genres": [
+        "dj",
+        "electronic",
+        "pop"
+      ],
+      "notes": "European hits and party anthems night in Hongdae. DJ Eddie plays all night.",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "handle": "hongdaeff",
+          "url": "https://www.instagram.com/p/DgADFBeyvrm/",
+          "posted": "2026-11-21T19:54:08+09:00"
+        }
+      ],
+      "id": "645e8dc8aeb5",
+      "first_seen": "2026-11-22T06:36:52+09:00",
+      "updated": "2026-11-22T06:36:52+09:00"
+    },
+    {
+      "date": "2026-11-27",
+      "doors": null,
+      "start": "16:30",
+      "title": "Art Can't Live Without Us - Sound Performance 'Samgak: Something'",
+      "title_ko": "예술없이는못살아 - 사운드 퍼포먼스 〈삼각:무언가〉",
+      "venue": "Seoul Foundation for Arts and Culture Daehakro Center",
+      "venue_ko": "서울문화재단 대학로센터",
+      "venue_handle": null,
+      "area": null,
+      "city": "Seoul",
+      "lineup": [
+        "Im Jaemin"
+      ],
+      "lineup_ko": [
+        "임재민"
+      ],
+      "price": null,
+      "ticket_url": null,
+      "genres": [
+        "experimental"
+      ],
+      "notes": "Part of a two-day multi-disciplinary art festival (Nov 27-28, 2F/5F/6F); exhibition runs through Dec 11. Sound performance is one item among workshops and talks. Address: 122 Dongsung-gil, Jongno-gu.",
+      "confidence": 0.6,
+      "sources": [
+        {
+          "handle": "youkillbong",
+          "url": "https://www.instagram.com/p/DgAD8Wxpe8N/",
+          "posted": "2026-11-21T19:55:24+09:00"
+        }
+      ],
+      "id": "90b13fb33a71",
+      "first_seen": "2026-11-22T06:36:52+09:00",
+      "updated": "2026-11-22T06:36:52+09:00"
     },
     {
       "date": "2026-11-27",
@@ -772,6 +563,42 @@
       "id": "60276ba667b7",
       "first_seen": "2026-11-16T08:45:03+09:00",
       "updated": "2026-11-16T08:45:03+09:00"
+    },
+    {
+      "date": "2026-11-27",
+      "doors": null,
+      "start": "23:00",
+      "title": "Thanksgiving Afterparty",
+      "title_ko": null,
+      "venue": "Club FF",
+      "venue_ko": "클럽 FF",
+      "venue_handle": "hongdaeff",
+      "area": "Hongdae",
+      "city": "Seoul",
+      "lineup": [
+        "DJ Eddie",
+        "DJ Sodef"
+      ],
+      "lineup_ko": [],
+      "price": "Free (no cover)",
+      "ticket_url": null,
+      "genres": [
+        "dj",
+        "hip-hop",
+        "pop"
+      ],
+      "notes": "American hits old & new: pop, hip-hop, pop-punk and party anthems. Located in Hongdae.",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "handle": "hongdaeff",
+          "url": "https://www.instagram.com/p/DgAHqc3SHoX/",
+          "posted": "2026-11-21T20:30:39+09:00"
+        }
+      ],
+      "id": "cd253b6f780d",
+      "first_seen": "2026-11-22T06:36:52+09:00",
+      "updated": "2026-11-22T06:36:52+09:00"
     },
     {
       "date": "2026-11-28",
@@ -1258,6 +1085,120 @@
       "id": "7470251d651f",
       "first_seen": "2026-11-16T08:45:03+09:00",
       "updated": "2026-11-16T08:45:03+09:00"
+    },
+    {
+      "date": "2026-12-06",
+      "doors": "17:00",
+      "start": "18:00",
+      "title": "Marshall Live from 월하정인 (Moonlit Lovers)",
+      "title_ko": "월하정인",
+      "venue": "Morene Sukha",
+      "venue_ko": "모래내 극락",
+      "venue_handle": "morene__sukha",
+      "area": "West Seoul",
+      "city": "Seoul",
+      "lineup": [
+        "Kim Ildu",
+        "Windycity",
+        "Ureuk and the Gypsies"
+      ],
+      "lineup_ko": [
+        "김일두",
+        "윈디시티",
+        "우륵과 풍각쟁이들"
+      ],
+      "price": "Advance 35,000 / Door 40,000 KRW",
+      "ticket_url": null,
+      "genres": [
+        "acoustic",
+        "indie",
+        "rock"
+      ],
+      "notes": "Kim Ildu acoustic set at 16:00 is free to watch. Live show: 18:00 Windycity, 19:00 Ureuk and the Gypsies. Tickets open 2026-11-23 8PM via Linktree in profile. Unreserved standing, first come first served; no door sales if sold out. Minors only with guardian, ID check. One drink per person required.",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "handle": "morene__sukha",
+          "url": "https://www.instagram.com/p/Df_NwDRo-EJ/",
+          "posted": "2026-11-21T12:00:13+09:00"
+        }
+      ],
+      "id": "36cd02fc0d88",
+      "first_seen": "2026-11-22T06:36:52+09:00",
+      "updated": "2026-11-22T06:36:52+09:00"
+    },
+    {
+      "date": "2026-12-11",
+      "doors": "19:00",
+      "start": "20:00",
+      "title": "Marshall Live from 월하정인 (Moonlit Lovers)",
+      "title_ko": "월하정인",
+      "venue": "Morene Sukha",
+      "venue_ko": "모래내 극락",
+      "venue_handle": "morene__sukha",
+      "area": "West Seoul",
+      "city": "Seoul",
+      "lineup": [
+        "Yoo Younghyun"
+      ],
+      "lineup_ko": [
+        "유영현"
+      ],
+      "price": "Advance 30,000 KRW",
+      "ticket_url": null,
+      "genres": [
+        "indie"
+      ],
+      "notes": "Tickets open 2026-11-23 8PM via Linktree in profile. Unreserved standing, first come first served. No door sales if sold out. Minors only with guardian; ID check. One drink per person required.",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "handle": "morene__sukha",
+          "url": "https://www.instagram.com/p/Df_3A02o5Zw/",
+          "posted": "2026-11-21T18:00:47+09:00"
+        }
+      ],
+      "id": "a8ded7681b92",
+      "first_seen": "2026-11-22T06:36:52+09:00",
+      "updated": "2026-11-22T06:36:52+09:00"
+    },
+    {
+      "date": "2026-12-11",
+      "doors": null,
+      "start": "21:00",
+      "title": "Reverty Crew Party",
+      "title_ko": "유영현 Reverty Crew Party",
+      "venue": "Morene Sukha",
+      "venue_ko": "모래내 극락",
+      "venue_handle": "morene__sukha",
+      "area": "West Seoul",
+      "city": "Seoul",
+      "lineup": [
+        "String North Noodle",
+        "DoongGae",
+        "Queazy",
+        "NWPH.",
+        "POSE"
+      ],
+      "lineup_ko": [],
+      "price": "Free",
+      "ticket_url": null,
+      "genres": [
+        "dj",
+        "electronic"
+      ],
+      "notes": "Part of Marshall Live from 월하정인 night. String North Noodle performs live; the others are DJs. Free entry.",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "handle": "morene__sukha",
+          "url": "https://www.instagram.com/p/Df_3A02o5Zw/",
+          "posted": "2026-11-21T18:00:47+09:00"
+        }
+      ],
+      "id": "eb5eb5dce7ef",
+      "first_seen": "2026-11-22T06:36:52+09:00",
+      "updated": "2026-11-22T06:36:52+09:00"
     },
     {
       "date": "2026-12-12",

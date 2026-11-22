@@ -1,238 +1,7 @@
 {
-  "generated": "2026-11-22T06:36:52.319877+09:00",
-  "count": 41,
+  "generated": "2026-11-23T06:39:07.655522+09:00",
+  "count": 40,
   "events": [
-    {
-      "date": "2026-11-22",
-      "doors": "23:40",
-      "start": "00:00",
-      "title": "Bushiroad Party Music B.P.M",
-      "title_ko": "부시로드 컨텐츠 DJ 이벤트",
-      "venue": "1nfinity Club",
-      "venue_ko": "신촌 인피니티클럽",
-      "venue_handle": "1nfntclb",
-      "area": "Sinchon",
-      "city": "Seoul",
-      "lineup": [
-        "Jeokbalchu",
-        "StaRi9ht",
-        "mob",
-        "Gongsaeop",
-        "Eiieio",
-        "Seomaru",
-        "Ser",
-        "Gongjino"
-      ],
-      "lineup_ko": [
-        "적발추",
-        "StaRi9ht",
-        "mob",
-        "공사업",
-        "에이에이오",
-        "서마루",
-        "세르",
-        "공지노"
-      ],
-      "price": "Advance 20,000 / Door 25,000 KRW",
-      "ticket_url": null,
-      "genres": [
-        "dj",
-        "electronic"
-      ],
-      "notes": "Bushiroad-franchise (BanG Dream!, D4DJ, etc.) anime/game music DJ night. Doors 23:40 on Nov 21, music runs 00:00-05:20 on Nov 22. VJs: Erinana, Name, Mcdowell. Song requests accepted. Advance tickets via link in bio.",
-      "confidence": 0.9,
-      "sources": [
-        {
-          "handle": "1nfntclb",
-          "url": "https://www.instagram.com/p/Dfu5lMdJWzM/",
-          "posted": "2026-11-15T03:56:11+09:00"
-        }
-      ],
-      "id": "2842e2cf6a0e",
-      "first_seen": "2026-11-16T08:45:03+09:00",
-      "updated": "2026-11-16T08:45:03+09:00"
-    },
-    {
-      "date": "2026-11-22",
-      "doors": null,
-      "start": "19:00",
-      "title": "Pet Sounds Indie Live",
-      "title_ko": "펫사운즈 인디 라이브",
-      "venue": "Pet Sounds",
-      "venue_ko": "펫사운즈",
-      "venue_handle": "petsoundsmusicpub",
-      "area": "Itaewon",
-      "city": "Seoul",
-      "lineup": [
-        "RAVENS"
-      ],
-      "lineup_ko": [
-        "레이븐즈"
-      ],
-      "price": "Free",
-      "ticket_url": null,
-      "genres": [
-        "indie",
-        "rock"
-      ],
-      "notes": "Free entry; deferred payment for artists. Located 3F, 21 Hoenamu-ro, Yongsan-gu (Itaewon/Gyeongnidan). Info: +82 10 2396 3050.",
-      "confidence": 0.95,
-      "sources": [
-        {
-          "handle": "petsoundsmusicpub",
-          "url": "https://www.instagram.com/p/Df4QXBfJAM2/",
-          "posted": "2026-11-18T19:08:23+09:00"
-        }
-      ],
-      "id": "ab6bf6ea6880",
-      "first_seen": "2026-11-19T06:50:03+09:00",
-      "updated": "2026-11-19T06:50:03+09:00"
-    },
-    {
-      "date": "2026-11-22",
-      "doors": null,
-      "start": "19:00",
-      "title": "Jazz Live Show",
-      "title_ko": null,
-      "venue": "Subriot",
-      "venue_ko": "해방촌 서브라이엇 HBC",
-      "venue_handle": "subriot_hbc",
-      "area": "Haebangchon",
-      "city": "Seoul",
-      "lineup": [
-        "Hippo Sound",
-        "Um Ki Eung Trial Band"
-      ],
-      "lineup_ko": [
-        "HIPPO SOUND"
-      ],
-      "price": "Free",
-      "ticket_url": null,
-      "genres": [
-        "jazz",
-        "other"
-      ],
-      "notes": "Free entry, pay after the show. Funk. English reservations: 010 7454 4005",
-      "confidence": 0.95,
-      "sources": [
-        {
-          "handle": "subriot_hbc",
-          "url": "https://www.instagram.com/p/Df8Uh93zuUu/",
-          "posted": "2026-11-20T09:01:48+09:00"
-        }
-      ],
-      "id": "6dba094d308f",
-      "first_seen": "2026-11-21T06:44:25+09:00",
-      "updated": "2026-11-21T06:44:25+09:00"
-    },
-    {
-      "date": "2026-11-22",
-      "doors": null,
-      "start": "20:00",
-      "title": "Park Junseo Quartet",
-      "title_ko": "박준서 쿼텟",
-      "venue": "SoundDog Jazz",
-      "venue_ko": "사운드독",
-      "venue_handle": "sounddog_jazz",
-      "area": "Huam-dong",
-      "city": "Seoul",
-      "lineup": [
-        "Park Junseo (tenor sax)",
-        "Kim Taeguk (alto sax)",
-        "Kim Jonghyun (bass)",
-        "Lee Seokhyun (drums)"
-      ],
-      "lineup_ko": [
-        "박준서",
-        "김태국",
-        "김종현",
-        "이석현"
-      ],
-      "price": "20,000 KRW per person",
-      "ticket_url": null,
-      "genres": [
-        "jazz"
-      ],
-      "notes": "Show 20:00-22:00. Reservation by text 010-5368-2584 or WhatsApp +82-10-5368-2584; pay by bank transfer and text name/date to confirm. Outside food allowed (5,000 KRW charge per 2 people).",
-      "confidence": 0.9,
-      "sources": [
-        {
-          "handle": "sounddog_jazz",
-          "url": "https://www.instagram.com/p/DgAgg9wyNro/",
-          "posted": "2026-11-22T00:03:29+09:00"
-        }
-      ],
-      "id": "b0c6735a5904",
-      "first_seen": "2026-11-22T06:36:52+09:00",
-      "updated": "2026-11-22T06:36:52+09:00"
-    },
-    {
-      "date": "2026-11-22",
-      "doors": null,
-      "start": "22:00",
-      "title": "Guilty Pleasures",
-      "title_ko": null,
-      "venue": "Club FF",
-      "venue_ko": "클럽 FF",
-      "venue_handle": "hongdaeff",
-      "area": "Hongdae",
-      "city": "Seoul",
-      "lineup": [
-        "DJ Eddie"
-      ],
-      "lineup_ko": [],
-      "price": "Free (No cover)",
-      "ticket_url": null,
-      "genres": [
-        "dj",
-        "pop"
-      ],
-      "notes": "Sunday night cheesy teen idol dance pop and K-pop party in Hongdae, all night.",
-      "confidence": 0.9,
-      "sources": [
-        {
-          "handle": "hongdaeff",
-          "url": "https://www.instagram.com/p/Df2Caplhlmo/",
-          "posted": "2026-11-17T22:43:13+09:00"
-        }
-      ],
-      "id": "777ad0d89cd2",
-      "first_seen": "2026-11-18T06:49:28+09:00",
-      "updated": "2026-11-18T06:49:28+09:00"
-    },
-    {
-      "date": "2026-11-22",
-      "doors": null,
-      "start": null,
-      "title": null,
-      "title_ko": null,
-      "venue": "Morene Sukha",
-      "venue_ko": "모래내극락",
-      "venue_handle": "morene__sukha",
-      "area": "West Seoul",
-      "city": "Seoul",
-      "lineup": [
-        "JDL"
-      ],
-      "lineup_ko": [],
-      "price": null,
-      "ticket_url": null,
-      "genres": [
-        "other"
-      ],
-      "notes": null,
-      "confidence": 0.9,
-      "sources": [
-        {
-          "handle": "morene__sukha",
-          "url": "https://www.instagram.com/p/DfPmYvzzOVw/",
-          "posted": "2026-11-03T00:14:45+09:00"
-        }
-      ],
-      "id": "4f338d5a0cbd",
-      "first_seen": "2026-11-16T08:45:03+09:00",
-      "updated": "2026-11-16T08:45:03+09:00"
-    },
     {
       "date": "2026-11-23",
       "doors": "18:30",
@@ -272,6 +41,92 @@
       "id": "9ce090085df1",
       "first_seen": "2026-11-16T08:45:03+09:00",
       "updated": "2026-11-16T08:45:03+09:00"
+    },
+    {
+      "date": "2026-11-23",
+      "doors": null,
+      "start": "20:00",
+      "title": "Yan Kim Trio",
+      "title_ko": "김요한 TRIO",
+      "venue": "SoundDog Jazz",
+      "venue_ko": "사운드독",
+      "venue_handle": "sounddog_jazz",
+      "area": "Huam-dong",
+      "city": "Seoul",
+      "lineup": [
+        "Yan Kim (piano)",
+        "Jeon Han-guk (bass)",
+        "Song Ha-yeon (drums)"
+      ],
+      "lineup_ko": [
+        "김요한",
+        "전한국",
+        "송하연"
+      ],
+      "price": "20,000 KRW per person (+ 5,000 KRW charge per 2 people if bringing outside snacks)",
+      "ticket_url": null,
+      "genres": [
+        "jazz"
+      ],
+      "notes": "Show runs 20:00-22:00. Reservation by text 010-5368-2584 or WhatsApp +82-10-5368-2584; pay by bank transfer deposit and text name/date to confirm. Outside snacks allowed.",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "handle": "sounddog_jazz",
+          "url": "https://www.instagram.com/p/DgDC0S4S0yY/",
+          "posted": "2026-11-22T23:41:42+09:00"
+        }
+      ],
+      "id": "fbab236eccbb",
+      "first_seen": "2026-11-23T06:39:07+09:00",
+      "updated": "2026-11-23T06:39:07+09:00"
+    },
+    {
+      "date": "2026-11-26",
+      "doors": "18:30",
+      "start": "19:00",
+      "title": "Thursday Vibes",
+      "title_ko": null,
+      "venue": "Club FF",
+      "venue_ko": "클럽 FF",
+      "venue_handle": "hongdaeff",
+      "area": "Hongdae",
+      "city": "Seoul",
+      "lineup": [
+        "Sern",
+        "Mandarin Juice",
+        "Sayang",
+        "Other",
+        "Lego",
+        "James Kiss"
+      ],
+      "lineup_ko": [
+        "Sern",
+        "만다린쥬스",
+        "사양",
+        "아더",
+        "레고",
+        "제임스키스"
+      ],
+      "price": "Door only 20,000 KRW",
+      "ticket_url": null,
+      "genres": [
+        "indie",
+        "punk",
+        "rock"
+      ],
+      "notes": "Tickets sold at the door only (no advance booking); door ticketing about 30 min before start. Poster says 7pm start, caption header says 8pm but set times begin 19:00. Minors must leave by 22:00 unless accompanied by a guardian. Set times: Sern 19:00, Mandarin Juice 19:40, Sayang 20:20, Other 21:00, Lego 21:40, James Kiss 22:20. Venue is in Hongdae, Mapo-gu.",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "handle": "hongdaeff",
+          "url": "https://www.instagram.com/p/DgCu7TuS1Ur/",
+          "posted": "2026-11-22T20:51:11+09:00"
+        }
+      ],
+      "id": "1a407bcf2174",
+      "first_seen": "2026-11-23T06:39:07+09:00",
+      "updated": "2026-11-23T06:39:07+09:00"
     },
     {
       "date": "2026-11-26",
@@ -1237,6 +1092,46 @@
     },
     {
       "date": "2026-12-12",
+      "doors": "19:00",
+      "start": "20:00",
+      "title": "Marshall Live from 월하정인 (Moonlit Lovers)",
+      "title_ko": "Marshall Live from 월하정인",
+      "venue": "Morene Sukha",
+      "venue_ko": "모래내 극락",
+      "venue_handle": "morene__sukha",
+      "area": "West Seoul",
+      "city": "Seoul",
+      "lineup": [
+        "OYSTERS",
+        "BABO",
+        "Being 可愛い",
+        "SUNUG",
+        "SONG YOUNGNAM",
+        "DJ HALAPINO"
+      ],
+      "lineup_ko": [],
+      "price": "Advance 50,000 KRW",
+      "ticket_url": null,
+      "genres": [
+        "dj",
+        "indie",
+        "rock"
+      ],
+      "notes": "Live set times: OYSTERS 20:00, BABO 21:00. Being 可愛い DJ party from 21:45 (SUNUG, SONG YOUNGNAM, DJ HALAPINO), free entry. Standing, unreserved, first-come entry. Tickets open 2026-11-23 8PM via the Linktree in the profile; no door sales if sold out. Minors only with a guardian, ID check; 1 drink per person required. Music cafe and Marshall studio open from 18:00, free entry.",
+      "confidence": 0.93,
+      "sources": [
+        {
+          "handle": "morene__sukha",
+          "url": "https://www.instagram.com/p/DgBy7LOo8en/",
+          "posted": "2026-11-22T12:03:32+09:00"
+        }
+      ],
+      "id": "2b5257bdfefa",
+      "first_seen": "2026-11-23T06:39:07+09:00",
+      "updated": "2026-11-23T06:39:07+09:00"
+    },
+    {
+      "date": "2026-12-12",
       "doors": null,
       "start": null,
       "title": "VERY FIRST LAST MONTH EVER",
@@ -1288,6 +1183,42 @@
     {
       "date": "2026-12-13",
       "doors": null,
+      "start": "16:00",
+      "title": "Marshall Live from 월하정인 - Acoustic set",
+      "title_ko": "월하정인 어쿠스틱 공연",
+      "venue": "Morene Sukha",
+      "venue_ko": "모래내 극락",
+      "venue_handle": "morene__sukha",
+      "area": "West Seoul",
+      "city": "Seoul",
+      "lineup": [
+        "Sagong"
+      ],
+      "lineup_ko": [
+        "사공"
+      ],
+      "price": "Free",
+      "ticket_url": null,
+      "genres": [
+        "acoustic",
+        "indie"
+      ],
+      "notes": "Free-admission acoustic performance. Music cafe Jeongbun and Marshall experience studio open from 15:00, also free.",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "handle": "morene__sukha",
+          "url": "https://www.instagram.com/p/DgCb_CUo99w/",
+          "posted": "2026-11-22T18:02:19+09:00"
+        }
+      ],
+      "id": "521c23c45257",
+      "first_seen": "2026-11-23T06:39:07+09:00",
+      "updated": "2026-11-23T06:39:07+09:00"
+    },
+    {
+      "date": "2026-12-13",
+      "doors": null,
       "start": "17:00",
       "title": "Chanmin EP Release Solo Concert: 呼吸法 (Breathing Method)",
       "title_ko": "찬민 EP 발매기념 단독공연 「呼吸法 호흡법」",
@@ -1319,6 +1250,44 @@
       "id": "49bc543115cd",
       "first_seen": "2026-11-16T08:45:03+09:00",
       "updated": "2026-11-16T08:45:03+09:00"
+    },
+    {
+      "date": "2026-12-13",
+      "doors": "17:00",
+      "start": "18:00",
+      "title": "Marshall Live from 월하정인 (Moonlit Lovers)",
+      "title_ko": "월하정인",
+      "venue": "Morene Sukha",
+      "venue_ko": "모래내 극락",
+      "venue_handle": "morene__sukha",
+      "area": "West Seoul",
+      "city": "Seoul",
+      "lineup": [
+        "Cadejo",
+        "Maibai"
+      ],
+      "lineup_ko": [
+        "까데호",
+        "마이바이"
+      ],
+      "price": "Advance 40,000 KRW",
+      "ticket_url": null,
+      "genres": [
+        "indie",
+        "rock"
+      ],
+      "notes": "Part of Morene Sukha's year-end series (3rd season). Tickets open 2026-11-23 8PM via Linktree in profile bio. Unreserved standing, first come first served. No door sales if sold out. Minors only with guardian; ID check for all. One drink per person required. Cadejo at 18:00, Maibai at 19:00. Also: DJ party, hula dance party, food pop-up, and 2027 New Year countdown listed in the program.",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "handle": "morene__sukha",
+          "url": "https://www.instagram.com/p/DgCb_CUo99w/",
+          "posted": "2026-11-22T18:02:19+09:00"
+        }
+      ],
+      "id": "3e6698a79302",
+      "first_seen": "2026-11-23T06:39:07+09:00",
+      "updated": "2026-11-23T06:39:07+09:00"
     },
     {
       "date": "2026-12-19",

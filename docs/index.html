@@ -105,8 +105,8 @@
   .meta { margin-top: 6px; font-size: 14px; color: var(--ink-2); }
   .meta b { color: var(--ink); font-weight: 650; }
   .note { margin-top: 6px; font-size: 13px; color: var(--ink-2); font-style: italic; }
-  .genres { margin-top: 7px; display: flex; flex-wrap: wrap; gap: 5px; }
-  .genres span { font: 600 10px var(--mono); text-transform: uppercase; color: var(--ink-3); border: 1px solid var(--line); border-radius: 3px; padding: 2px 5px; }
+  .genres { margin-top: 8px; display: flex; flex-wrap: wrap; gap: 5px; }
+  .genres span { font: 16px/1 var(--dot); text-transform: uppercase; letter-spacing: .04em; color: var(--ink-2); border: 1px solid var(--line); border-radius: 3px; padding: 2px 6px 1px; }
   .actions { margin-top: 10px; display: flex; flex-wrap: wrap; gap: 6px; }
   .actions a, .actions button {
     font: 600 13px var(--sans); color: var(--ink); background: var(--paper-2); border: 1px solid var(--line);
@@ -217,12 +217,15 @@
     return true;
   }
 
+  // "indie" is a given on this site, so it's never shown as a tag
+  const VAGUE = new Set(["indie", "other"]);
+  const genresOf = (e) => (e.genres || []).filter((g) => !VAGUE.has(g));
   const areasOf = (e) => [e.area, ...(e.venues || []).map((v) => v.area)].filter(Boolean);
   const SHORT_PRICE = 26;
 
   function matches(e) {
     if (state.area && !areasOf(e).includes(state.area)) return false;
-    if (state.genre && !(e.genres || []).includes(state.genre)) return false;
+    if (state.genre && !genresOf(e).includes(state.genre)) return false;
     if (!inWindow(e)) return false;
     if (state.q) {
       const hay = [e.title, e.title_ko, e.venue, e.venue_ko, e.area, ...(e.venues || []).flatMap((v) => [v.venue, v.venue_ko]), ...(e.lineup || []), ...(e.lineup_ko || []), ...(e.genres || [])]
@@ -248,8 +251,8 @@
       for (const a of areas) box.append(chip(a, state.area === a, () => { state.area = state.area === a ? null : a; render(); }));
     }
     const counts = {};
-    state.events.forEach((e) => (e.genres || []).forEach((g) => (counts[g] = (counts[g] || 0) + 1)));
-    const genres = Object.keys(counts).sort((a, b) => counts[b] - counts[a]).slice(0, 10);
+    state.events.forEach((e) => genresOf(e).forEach((g) => (counts[g] = (counts[g] || 0) + 1)));
+    const genres = Object.keys(counts).sort((a, b) => counts[b] - counts[a]).slice(0, 14);
     if (genres.length) {
       box.append(el("span", { class: "sep" }));
       for (const g of genres) box.append(chip(g, state.genre === g, () => { state.genre = state.genre === g ? null : g; render(); }));
@@ -310,7 +313,9 @@
     const also = e.also && e.also.length
       ? el("div", { class: "also", text: "ALSO " + e.also.map((d) => parseYmd(d).toLocaleDateString("en-GB", { weekday: "short", day: "numeric", month: "short" }).toUpperCase()).join(", ") })
       : null;
-    const summary = el("summary", {}, time, el("div", {}, title, sumMeta, also), el("span", { class: "chev", "aria-hidden": "true", text: "▾" }));
+    const g = genresOf(e);
+    const tags = g.length ? el("div", { class: "genres" }, ...g.map((x) => el("span", { text: x }))) : null;
+    const summary = el("summary", {}, time, el("div", {}, title, sumMeta, also, tags), el("span", { class: "chev", "aria-hidden": "true", text: "▾" }));
 
     // --- on tap: the rest
     const more = el("div", { class: "more" });
@@ -320,7 +325,6 @@
     if (venues) more.append(el("div", { class: "meta", text: "Venues: " + venues.map((v) => v.venue).join(", ") }));
     if (e.price && !shortPrice) more.append(el("div", { class: "meta", text: "Price: " + e.price }));
     if (e.notes) more.append(el("div", { class: "note", text: e.notes }));
-    if (e.genres?.length) more.append(el("div", { class: "genres" }, ...e.genres.map((g) => el("span", { text: g }))));
 
     const actions = el("div", { class: "actions" });
     const post = safeUrl(e.sources?.[0]?.url);

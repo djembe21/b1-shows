@@ -28,6 +28,19 @@ def _slug(s: str) -> str:
     return re.sub(r"[^0-9a-z가-힣]+", "", (s or "").lower())
 
 
+VAGUE_GENRES = {"indie", "other", "live", "band", "music"}
+
+
+def _clean_genres(genres) -> list[str]:
+    """Keep order (most specific first), drop vague tags, max 3."""
+    out = []
+    for g in genres or []:
+        g = str(g).strip().lower()
+        if g and g not in VAGUE_GENRES and g not in out:
+            out.append(g)
+    return out[:3]
+
+
 def normalize(raw: dict, source_post, source_account: Account, venues: VenueIndex) -> dict:
     """Clean one extracted event and attach venue + source info."""
     v = venues.lookup(raw.get("venue", ""), raw.get("venue_ko") or "")
@@ -55,7 +68,7 @@ def normalize(raw: dict, source_post, source_account: Account, venues: VenueInde
         "lineup_ko": lineup_ko,
         "price": raw.get("price"),
         "ticket_url": raw.get("ticket_url"),
-        "genres": sorted({g.lower() for g in raw.get("genres") or []})[:3],
+        "genres": _clean_genres(raw.get("genres")),
         "notes": raw.get("notes"),
         "confidence": round(float(raw.get("confidence") or 0), 2),
         "sources": [
@@ -142,7 +155,7 @@ def _merge(into: dict, new: dict) -> dict:
                 dest = "lineup_ko" if k == "lineup" and re.fullmatch(r"[가-힣\s]+", x) else k
                 into[dest].append(x)
                 seen.add(_slug(x))
-    into["genres"] = sorted(set(into["genres"]) | set(new["genres"]))[:3]
+    into["genres"] = _clean_genres(into["genres"] + [g for g in new["genres"] if g not in into["genres"]])
     into["confidence"] = max(into["confidence"], new["confidence"])
     urls = {s["url"] for s in into["sources"]}
     into["sources"] += [s for s in new["sources"] if s["url"] not in urls]

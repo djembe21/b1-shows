@@ -1,11 +1,11 @@
 {
-  "run": "2026-11-23T06:39:07+09:00",
+  "run": "2026-11-24T06:49:35+09:00",
   "accounts": {
     "hongdaeff": {
       "status": "ok",
       "posts": 12,
-      "new": 1,
-      "events": 1
+      "new": 0,
+      "events": 0
     },
     "strangefruitseoul": {
       "status": "error",
@@ -14,8 +14,8 @@
     "rollinghall": {
       "status": "ok",
       "posts": 12,
-      "new": 0,
-      "events": 0
+      "new": 1,
+      "events": 1
     },
     "channel1969.seoul": {
       "status": "ok",
@@ -26,8 +26,8 @@
     "ssmadang_live": {
       "status": "ok",
       "posts": 12,
-      "new": 0,
-      "events": 0
+      "new": 1,
+      "events": 1
     },
     "clubsteelface": {
       "status": "ok",
@@ -44,7 +44,7 @@
     "yogigahanjoo": {
       "status": "ok",
       "posts": 12,
-      "new": 0,
+      "new": 1,
       "events": 0
     },
     "club_sharp": {
@@ -80,8 +80,8 @@
     "morene__sukha": {
       "status": "ok",
       "posts": 12,
-      "new": 3,
-      "events": 3
+      "new": 2,
+      "events": 4
     },
     "petsoundsmusicpub": {
       "status": "ok",
@@ -92,8 +92,8 @@
     "subriot_hbc": {
       "status": "ok",
       "posts": 12,
-      "new": 1,
-      "events": 2
+      "new": 0,
+      "events": 0
     },
     "skunk_itaewon": {
       "status": "ok",
@@ -114,8 +114,8 @@
     "sounddog_jazz": {
       "status": "ok",
       "posts": 12,
-      "new": 1,
-      "events": 1
+      "new": 3,
+      "events": 5
     },
     "bandbyebyebadman": {
       "status": "ok",
@@ -132,16 +132,16 @@
     "liveclubday": {
       "status": "ok",
       "posts": 12,
-      "new": 0,
-      "events": 0
+      "new": 7,
+      "events": 6
     },
     "gigguide.kr": {
       "status": "error",
       "error": "110/2207013: Invalid user id"
     }
   },
-  "posts_checked": 9,
-  "added": 5,
-  "merged": 2,
+  "posts_checked": 18,
+  "added": 13,
+  "merged": 4,
   "errors": 3
 }

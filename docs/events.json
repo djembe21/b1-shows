@@ -1,85 +1,82 @@
 {
-  "generated": "2026-11-23T06:39:07.655522+09:00",
-  "count": 40,
+  "generated": "2026-11-24T06:49:35.227371+09:00",
+  "count": 51,
   "events": [
     {
-      "date": "2026-11-23",
-      "doors": "18:30",
-      "start": "19:00",
-      "title": "2xFE : Korea Showcase",
-      "title_ko": "2xFE : Korea Showcase",
-      "venue": "Rolling Hall",
-      "venue_ko": "롤링홀",
-      "venue_handle": "rollinghall",
-      "area": "Hongdae",
-      "city": "Seoul",
-      "lineup": [
-        "2xFE"
-      ],
-      "lineup_ko": [
-        "투에프이"
-      ],
-      "price": "Free",
-      "ticket_url": "https://bit.ly/4i8gfIg",
-      "genres": [
-        "pop"
-      ],
-      "notes": "Attendance by application via Google Form (opens 18:00 on the post date, 2026-10-28). Poster also mentions Melon Ticket. Showcase for K-pop group 2xFE.",
-      "confidence": 0.97,
-      "sources": [
-        {
-          "handle": "rollinghall",
-          "url": "https://www.instagram.com/reel/DfByb3JgadZ/",
-          "posted": "2026-10-28T15:28:11+09:00"
-        },
-        {
-          "handle": "rollinghall",
-          "url": "https://www.instagram.com/p/De8RHvpjwUk/",
-          "posted": "2026-10-26T12:00:34+09:00"
-        }
-      ],
-      "id": "9ce090085df1",
-      "first_seen": "2026-11-16T08:45:03+09:00",
-      "updated": "2026-11-16T08:45:03+09:00"
-    },
-    {
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "doors": null,
-      "start": "20:00",
-      "title": "Yan Kim Trio",
-      "title_ko": "김요한 TRIO",
+      "start": "19:30",
+      "title": "Jazz Jam Day",
+      "title_ko": null,
       "venue": "SoundDog Jazz",
       "venue_ko": "사운드독",
       "venue_handle": "sounddog_jazz",
       "area": "Huam-dong",
       "city": "Seoul",
       "lineup": [
-        "Yan Kim (piano)",
-        "Jeon Han-guk (bass)",
-        "Song Ha-yeon (drums)"
+        "Paul Kirby",
+        "Masa Sasaki",
+        "Im Gyeong-jin",
+        "Lee Seong-gu"
       ],
       "lineup_ko": [
-        "김요한",
-        "전한국",
-        "송하연"
+        "Paul Kirby",
+        "마사 사사키",
+        "임경진",
+        "이성구"
       ],
-      "price": "20,000 KRW per person (+ 5,000 KRW charge per 2 people if bringing outside snacks)",
+      "price": "20,000 KRW per person (plus 5,000 KRW per 2 people charge if bringing outside snacks)",
       "ticket_url": null,
       "genres": [
         "jazz"
       ],
-      "notes": "Show runs 20:00-22:00. Reservation by text 010-5368-2584 or WhatsApp +82-10-5368-2584; pay by bank transfer deposit and text name/date to confirm. Outside snacks allowed.",
+      "notes": "Jam session with house band: Paul Kirby (piano), Masa Sasaki (guitar), Im Gyeong-jin (bass), Lee Seong-gu (drums). Runs 19:30-22:00. Reservations by text 010-5368-2584 or WhatsApp +82-10-5368-2584; deposit by bank transfer, then text name/date.",
       "confidence": 0.9,
       "sources": [
         {
           "handle": "sounddog_jazz",
-          "url": "https://www.instagram.com/p/DgDC0S4S0yY/",
-          "posted": "2026-11-22T23:41:42+09:00"
+          "url": "https://www.instagram.com/p/DgFYUpfynSR/",
+          "posted": "2026-11-23T21:28:05+09:00"
         }
       ],
-      "id": "fbab236eccbb",
-      "first_seen": "2026-11-23T06:39:07+09:00",
-      "updated": "2026-11-23T06:39:07+09:00"
+      "id": "21fa565eb95d",
+      "first_seen": "2026-11-24T06:49:35+09:00",
+      "updated": "2026-11-24T06:49:35+09:00"
+    },
+    {
+      "date": "2026-11-25",
+      "doors": null,
+      "start": "20:00",
+      "title": "SoundDog 4 Days",
+      "title_ko": null,
+      "venue": "SoundDog Jazz",
+      "venue_ko": "사운드독",
+      "venue_handle": "sounddog_jazz",
+      "area": "Huam-dong",
+      "city": "Seoul",
+      "lineup": [
+        "Song Hayeon"
+      ],
+      "lineup_ko": [
+        "송하연"
+      ],
+      "price": "20,000 KRW per person",
+      "ticket_url": null,
+      "genres": [
+        "jazz"
+      ],
+      "notes": "Drummer-led jazz shows, 20:00-22:00. Reservation by text 010-5368-2584 (WhatsApp 82-10-5368-2584) with deposit. Outside food allowed (5,000 KRW charge per 2 people).",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "handle": "sounddog_jazz",
+          "url": "https://www.instagram.com/reel/DgFTsz8SOfC/",
+          "posted": "2026-11-23T20:48:04+09:00"
+        }
+      ],
+      "id": "d87a28d7836c",
+      "first_seen": "2026-11-24T06:49:35+09:00",
+      "updated": "2026-11-24T06:49:35+09:00"
     },
     {
       "date": "2026-11-26",
@@ -162,6 +159,41 @@
       "id": "86a3290f6917",
       "first_seen": "2026-11-16T08:45:03+09:00",
       "updated": "2026-11-16T08:45:03+09:00"
+    },
+    {
+      "date": "2026-11-26",
+      "doors": null,
+      "start": "20:00",
+      "title": "SoundDog 4 Days",
+      "title_ko": null,
+      "venue": "SoundDog Jazz",
+      "venue_ko": "사운드독",
+      "venue_handle": "sounddog_jazz",
+      "area": "Huam-dong",
+      "city": "Seoul",
+      "lineup": [
+        "Song Hayeon"
+      ],
+      "lineup_ko": [
+        "송하연"
+      ],
+      "price": "20,000 KRW per person",
+      "ticket_url": null,
+      "genres": [
+        "jazz"
+      ],
+      "notes": "Drummer-led jazz shows, 20:00-22:00. Reservation by text 010-5368-2584 (WhatsApp 82-10-5368-2584) with deposit. Outside food allowed (5,000 KRW charge per 2 people).",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "handle": "sounddog_jazz",
+          "url": "https://www.instagram.com/reel/DgFTsz8SOfC/",
+          "posted": "2026-11-23T20:48:04+09:00"
+        }
+      ],
+      "id": "9d26f8dbf02b",
+      "first_seen": "2026-11-24T06:49:35+09:00",
+      "updated": "2026-11-24T06:49:35+09:00"
     },
     {
       "date": "2026-11-26",
@@ -262,7 +294,11 @@
         "FAT HAMSTER & KANG NEW",
         "FuturePeerClub",
         "HOLLOW JAN",
-        "W24"
+        "W24",
+        "Woo Heejun",
+        "Muneopneunjip",
+        "Ureuk and the Pungakjaengideul",
+        "Takapi"
       ],
       "lineup_ko": [
         "김승주",
@@ -285,13 +321,13 @@
         "W24"
       ],
       "price": null,
-      "ticket_url": null,
+      "ticket_url": "Melon Ticket (link in @liveclubday profile)",
       "genres": [
         "indie",
         "rock"
       ],
       "notes": "Multi-venue night; the poster does not say which act plays at which club. General tickets are sold on Melon Ticket (link in the promoter's profile). Sponsored by Kakao Creative Foundation.",
-      "confidence": 0.6,
+      "confidence": 0.85,
       "sources": [
         {
           "handle": "liveclubday",
@@ -302,11 +338,83 @@
           "handle": "liveclubday",
           "url": "https://www.instagram.com/p/DfV1RSfvII5/",
           "posted": "2026-11-05T11:00:03+09:00"
+        },
+        {
+          "handle": "liveclubday",
+          "url": "https://www.instagram.com/p/DgFFNrPks0U/",
+          "posted": "2026-11-23T18:41:04+09:00"
+        },
+        {
+          "handle": "liveclubday",
+          "url": "https://www.instagram.com/p/DgFDOj7kvuu/",
+          "posted": "2026-11-23T18:23:43+09:00"
         }
       ],
       "id": "3c36aa78ae80",
       "first_seen": "2026-11-16T08:45:03+09:00",
-      "updated": "2026-11-16T08:45:03+09:00"
+      "updated": "2026-11-24T06:49:35+09:00"
+    },
+    {
+      "date": "2026-11-27",
+      "doors": null,
+      "start": "20:00",
+      "title": "Live Club Day Vol. 85",
+      "title_ko": "제85회 라이브클럽데이",
+      "venue": "KT&G Sangsangmadang Live Hall",
+      "venue_ko": "KT&G 상상마당 라이브홀",
+      "venue_handle": "ssmadang_live",
+      "area": "Hongdae",
+      "city": "Seoul",
+      "lineup": [
+        "Oysters",
+        "Isipsail",
+        "Palchil Dance",
+        "Fathamster & Kangnyu",
+        "SØHJ",
+        "Kirara",
+        "Men And Them",
+        "THE VANE",
+        "FuturePeerClub"
+      ],
+      "lineup_ko": [
+        "오이스터즈",
+        "이십사일",
+        "팔칠댄스",
+        "팻햄스터 & 캉뉴",
+        "SØHJ(서현정)",
+        "키라라",
+        "맨앤뎀",
+        "더베인",
+        "퓨처피어클럽"
+      ],
+      "price": null,
+      "ticket_url": null,
+      "genres": [
+        "indie",
+        "rock"
+      ],
+      "notes": "Set times: Oysters 20:00, Isipsail (24일) 21:00, Palchil Dance (87 Dance) 22:00. Tickets via Melon Ticket (link in @liveclubday profile). Supported by Kakao Creative Foundation.",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "handle": "liveclubday",
+          "url": "https://www.instagram.com/p/DgFE2kBkuAc/",
+          "posted": "2026-11-23T18:37:55+09:00"
+        },
+        {
+          "handle": "liveclubday",
+          "url": "https://www.instagram.com/p/DgFEajckm76/",
+          "posted": "2026-11-23T18:34:05+09:00"
+        },
+        {
+          "handle": "liveclubday",
+          "url": "https://www.instagram.com/p/DgFBesnEuVb/",
+          "posted": "2026-11-23T18:08:26+09:00"
+        }
+      ],
+      "id": "c8a4d908a28e",
+      "first_seen": "2026-11-24T06:49:35+09:00",
+      "updated": "2026-11-24T06:49:35+09:00"
     },
     {
       "date": "2026-11-27",
@@ -385,6 +493,45 @@
       "date": "2026-11-27",
       "doors": null,
       "start": "20:00",
+      "title": "Live Club Day #85 - Track Zero Stage",
+      "title_ko": "제85회 라이브클럽데이 트랙제로 스테이지",
+      "venue": "Musinsa Garage",
+      "venue_ko": "무신사 개러지",
+      "venue_handle": null,
+      "area": null,
+      "city": "Seoul",
+      "lineup": [
+        "Kim Seungju",
+        "Adios Audio",
+        "Jack King Kong"
+      ],
+      "lineup_ko": [
+        "김승주",
+        "아디오스오디오",
+        "잭킹콩"
+      ],
+      "price": null,
+      "ticket_url": null,
+      "genres": [
+        "indie"
+      ],
+      "notes": "Set times: Kim Seungju 20:00, Adios Audio 21:00, Jack King Kong 22:00. Tickets via Melon Ticket (link in @liveclubday profile). Supported by Kakao Impact Foundation.",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "handle": "liveclubday",
+          "url": "https://www.instagram.com/p/DgFAvaDm-S4/",
+          "posted": "2026-11-23T18:01:59+09:00"
+        }
+      ],
+      "id": "ca036cd150e5",
+      "first_seen": "2026-11-24T06:49:35+09:00",
+      "updated": "2026-11-24T06:49:35+09:00"
+    },
+    {
+      "date": "2026-11-27",
+      "doors": null,
+      "start": "20:00",
       "title": "Biuret Concert 4 Seasons : Winter",
       "title_ko": "뷰렛 4 Seasons : Winter",
       "venue": "Rolling Hall",
@@ -418,6 +565,41 @@
       "id": "60276ba667b7",
       "first_seen": "2026-11-16T08:45:03+09:00",
       "updated": "2026-11-16T08:45:03+09:00"
+    },
+    {
+      "date": "2026-11-27",
+      "doors": null,
+      "start": "20:00",
+      "title": "SoundDog 4 Days",
+      "title_ko": null,
+      "venue": "SoundDog Jazz",
+      "venue_ko": "사운드독",
+      "venue_handle": "sounddog_jazz",
+      "area": "Huam-dong",
+      "city": "Seoul",
+      "lineup": [
+        "Song Hayeon"
+      ],
+      "lineup_ko": [
+        "송하연"
+      ],
+      "price": "20,000 KRW per person",
+      "ticket_url": null,
+      "genres": [
+        "jazz"
+      ],
+      "notes": "Drummer-led jazz shows, 20:00-22:00. Reservation by text 010-5368-2584 (WhatsApp 82-10-5368-2584) with deposit. Outside food allowed (5,000 KRW charge per 2 people).",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "handle": "sounddog_jazz",
+          "url": "https://www.instagram.com/reel/DgFTsz8SOfC/",
+          "posted": "2026-11-23T20:48:04+09:00"
+        }
+      ],
+      "id": "3156b0739c12",
+      "first_seen": "2026-11-24T06:49:35+09:00",
+      "updated": "2026-11-24T06:49:35+09:00"
     },
     {
       "date": "2026-11-27",
@@ -545,6 +727,41 @@
       "id": "e2b16772d659",
       "first_seen": "2026-11-16T08:45:03+09:00",
       "updated": "2026-11-16T08:45:03+09:00"
+    },
+    {
+      "date": "2026-11-28",
+      "doors": null,
+      "start": "20:00",
+      "title": "SoundDog 4 Days",
+      "title_ko": null,
+      "venue": "SoundDog Jazz",
+      "venue_ko": "사운드독",
+      "venue_handle": "sounddog_jazz",
+      "area": "Huam-dong",
+      "city": "Seoul",
+      "lineup": [
+        "Song Hayeon"
+      ],
+      "lineup_ko": [
+        "송하연"
+      ],
+      "price": "20,000 KRW per person",
+      "ticket_url": null,
+      "genres": [
+        "jazz"
+      ],
+      "notes": "Drummer-led jazz shows, 20:00-22:00. Reservation by text 010-5368-2584 (WhatsApp 82-10-5368-2584) with deposit. Outside food allowed (5,000 KRW charge per 2 people).",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "handle": "sounddog_jazz",
+          "url": "https://www.instagram.com/reel/DgFTsz8SOfC/",
+          "posted": "2026-11-23T20:48:04+09:00"
+        }
+      ],
+      "id": "853ea183ade8",
+      "first_seen": "2026-11-24T06:49:35+09:00",
+      "updated": "2026-11-24T06:49:35+09:00"
     },
     {
       "date": "2026-11-28",
@@ -1290,6 +1507,77 @@
       "updated": "2026-11-23T06:39:07+09:00"
     },
     {
+      "date": "2026-12-18",
+      "doors": "19:00",
+      "start": "20:00",
+      "title": "Marshall Live from 월하정인 (月下情人)",
+      "title_ko": "월하정인",
+      "venue": "Morene Sukha",
+      "venue_ko": "모래내 극락",
+      "venue_handle": "morene__sukha",
+      "area": "West Seoul",
+      "city": "Seoul",
+      "lineup": [
+        "KimOki & Mad Clown feat. Wonstein"
+      ],
+      "lineup_ko": [
+        "김오키 & 매드클라운 feat. 원슈타인"
+      ],
+      "price": "Advance 65,000 KRW",
+      "ticket_url": null,
+      "genres": [
+        "hip-hop",
+        "jazz"
+      ],
+      "notes": "Unreserved standing, first come first served. No door sales if sold out. Minors only with guardian; ID check. One drink per person required. Ticket sales open 2026-11-27 20:00. Part of the Morene Sukha year-end series.",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "handle": "morene__sukha",
+          "url": "https://www.instagram.com/p/DgEZULgo8gs/",
+          "posted": "2026-11-23T12:17:29+09:00"
+        }
+      ],
+      "id": "b8405b49f6ca",
+      "first_seen": "2026-11-24T06:49:35+09:00",
+      "updated": "2026-11-24T06:49:35+09:00"
+    },
+    {
+      "date": "2026-12-18",
+      "doors": null,
+      "start": "21:20",
+      "title": "Disco Surf Party (Marshall Live from 월하정인)",
+      "title_ko": "디스코 서프 파티",
+      "venue": "Morene Sukha",
+      "venue_ko": "모래내 극락",
+      "venue_handle": "morene__sukha",
+      "area": "West Seoul",
+      "city": "Seoul",
+      "lineup": [
+        "DJ Jinwook",
+        "Chiman"
+      ],
+      "lineup_ko": [],
+      "price": "Free",
+      "ticket_url": null,
+      "genres": [
+        "dj",
+        "electronic"
+      ],
+      "notes": "Free entry to the Disco Surf Party after the live show.",
+      "confidence": 0.88,
+      "sources": [
+        {
+          "handle": "morene__sukha",
+          "url": "https://www.instagram.com/p/DgEZULgo8gs/",
+          "posted": "2026-11-23T12:17:29+09:00"
+        }
+      ],
+      "id": "dde54dbdb3ed",
+      "first_seen": "2026-11-24T06:49:35+09:00",
+      "updated": "2026-11-24T06:49:35+09:00"
+    },
+    {
       "date": "2026-12-19",
       "doors": null,
       "start": "17:00",
@@ -1380,6 +1668,79 @@
       "id": "a1aeb698a690",
       "first_seen": "2026-11-16T08:45:03+09:00",
       "updated": "2026-11-16T08:45:03+09:00"
+    },
+    {
+      "date": "2026-12-19",
+      "doors": "19:00",
+      "start": "20:00",
+      "title": "Marshall Live from 월하정인 (Moonlit Lovers) - Live show",
+      "title_ko": "월하정인 라이브 공연",
+      "venue": "Morene Sukha",
+      "venue_ko": "모래내 극락",
+      "venue_handle": "morene__sukha",
+      "area": "West Seoul",
+      "city": "Seoul",
+      "lineup": [
+        "Omar and the Eastern Power"
+      ],
+      "lineup_ko": [
+        "오마르와 동방전력"
+      ],
+      "price": "Advance 30,000 / Door 35,000 KRW",
+      "ticket_url": null,
+      "genres": [
+        "other"
+      ],
+      "notes": "Part of the Sagarenae Sukha year-end series. Unreserved standing, first-come entry. No door sales if advance sells out. Minors only with guardian; ID check. One drink per person required. Tickets open 2026-11-27 8PM via Linktree on profile. A hula dance party (Huladang) follows at 21:00 (ticket 11,000 KRW).",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "handle": "morene__sukha",
+          "url": "https://www.instagram.com/p/DgFBbFoo3RS/",
+          "posted": "2026-11-23T18:07:57+09:00"
+        }
+      ],
+      "id": "49c2ba07025a",
+      "first_seen": "2026-11-24T06:49:35+09:00",
+      "updated": "2026-11-24T06:49:35+09:00"
+    },
+    {
+      "date": "2026-12-19",
+      "doors": null,
+      "start": "22:00",
+      "title": "Marshall Live from 월하정인 - DJ Party",
+      "title_ko": "월하정인 디제잉 파티",
+      "venue": "Morene Sukha",
+      "venue_ko": "모래내 극락",
+      "venue_handle": "morene__sukha",
+      "area": "West Seoul",
+      "city": "Seoul",
+      "lineup": [
+        "NAUN",
+        "SUN"
+      ],
+      "lineup_ko": [
+        "NAUN",
+        "SUN"
+      ],
+      "price": "Free",
+      "ticket_url": null,
+      "genres": [
+        "dj",
+        "electronic"
+      ],
+      "notes": "DJ party after the live show and hula party; free entry.",
+      "confidence": 0.8,
+      "sources": [
+        {
+          "handle": "morene__sukha",
+          "url": "https://www.instagram.com/p/DgFBbFoo3RS/",
+          "posted": "2026-11-23T18:07:57+09:00"
+        }
+      ],
+      "id": "caa8c5c2dc74",
+      "first_seen": "2026-11-24T06:49:35+09:00",
+      "updated": "2026-11-24T06:49:35+09:00"
     },
     {
       "date": "2026-12-20",
@@ -1544,6 +1905,41 @@
     },
     {
       "date": "2026-12-27",
+      "doors": null,
+      "start": "17:00",
+      "title": "Lee Byung-chan Year-End Solo Concert: Rollinghall Stage",
+      "title_ko": "이병찬 연말 단독 콘서트 : Rollinghall Stage",
+      "venue": "Rolling Hall",
+      "venue_ko": "롤링홀",
+      "venue_handle": "rollinghall",
+      "area": "Hongdae",
+      "city": "Seoul",
+      "lineup": [
+        "Lee Byung-chan"
+      ],
+      "lineup_ko": [
+        "이병찬"
+      ],
+      "price": "110,000 KRW",
+      "ticket_url": "ticket.melon.com",
+      "genres": [
+        "pop"
+      ],
+      "notes": "Tickets on sale via Melon Ticket from 2026-11-26 20:00 KST.",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "handle": "rollinghall",
+          "url": "https://www.instagram.com/p/DgEXU4SBtps/",
+          "posted": "2026-11-23T12:00:08+09:00"
+        }
+      ],
+      "id": "ec4fd4db620a",
+      "first_seen": "2026-11-24T06:49:35+09:00",
+      "updated": "2026-11-24T06:49:35+09:00"
+    },
+    {
+      "date": "2026-12-27",
       "doors": "17:30",
       "start": "18:00",
       "title": "VERY FIRST LAST MONTH EVER",
@@ -1591,6 +1987,43 @@
       "id": "a26e8e75b7a1",
       "first_seen": "2026-11-16T08:45:03+09:00",
       "updated": "2026-11-16T08:45:03+09:00"
+    },
+    {
+      "date": "2026-12-27",
+      "doors": null,
+      "start": "18:00",
+      "title": "2026 Oh Ji-eun Year-End Concert <Winter Light>",
+      "title_ko": "2026 오지은 연말 콘서트 <겨울의 빛>",
+      "venue": "KT&G Sangsangmadang Live Hall",
+      "venue_ko": "KT&G 상상마당 라이브홀",
+      "venue_handle": "ssmadang_live",
+      "area": "Hongdae",
+      "city": "Seoul",
+      "lineup": [
+        "Oh Ji-eun"
+      ],
+      "lineup_ko": [
+        "오지은"
+      ],
+      "price": "77,000 KRW (all reserved seating)",
+      "ticket_url": null,
+      "genres": [
+        "folk",
+        "indie",
+        "pop"
+      ],
+      "notes": "Tickets open 2026-11-27 (Fri) 18:00 exclusively on Melon Ticket. Reserved seating. Inquiries: 02-2014-2021. Marks 20 years since her first album.",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "handle": "ssmadang_live",
+          "url": "https://www.instagram.com/p/DgEXUzuD_ww/",
+          "posted": "2026-11-23T12:00:06+09:00"
+        }
+      ],
+      "id": "07b0c66afb89",
+      "first_seen": "2026-11-24T06:49:35+09:00",
+      "updated": "2026-11-24T06:49:35+09:00"
     },
     {
       "date": "2026-12-31",

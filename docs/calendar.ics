@@ -17,41 +17,37 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:21fa565eb95d@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261124T193000
 DTEND;TZID=Asia/Seoul:20261124T223000
-SUMMARY:Jazz Jam Day (Paul Kirby\, Masa Sasaki\, Im Gyeong-jin\, Lee Seong
- -gu) @ SoundDog Jazz
+SUMMARY:Jazz Jam Day (Paul Kirby\, Masa Sasaki\, Lim Kyung-jin\, Lee Sung-
+ gu) @ SoundDog Jazz
 LOCATION:SoundDog Jazz (사운드독)
-DESCRIPTION:Lineup: Paul Kirby\, Masa Sasaki\, Im Gyeong-jin\, Lee Seong-g
- u\n라인업: Paul Kirby\, 마사 사사키\, 임경진\, 이성구\nPric
- e: 20\,000 KRW per person (plus 5\,000 KRW per 2 people charge if bringin
- g outside snacks)\nJam session with house band: Paul Kirby (piano)\, Masa
-  Sasaki (guitar)\, Im Gyeong-jin (bass)\, Lee Seong-gu (drums). Runs 19:3
- 0-22:00. Reservations by text 010-5368-2584 or WhatsApp +82-10-5368-2584\
- ; deposit by bank transfer\, then text name/date.\nSource: https://www.in
- stagram.com/p/DgFYUpfynSR/\nListed by b1.shows. Always check the original
-  post before you go.
+DESCRIPTION:Lineup: Paul Kirby\, Masa Sasaki\, Lim Kyung-jin\, Lee Sung-gu
+ \n라인업: Paul Kirby\, 마사 사사키\, 임경진\, 이성구\nPrice
+ : ₩20\,000\nJam session with house band\, 7:30-10PM. Reserve by text 01
+ 0-5368-2584 and pay by bank transfer\; outside snacks allowed (₩5\,000 
+ per 2).\nSource: https://www.instagram.com/p/DgFYUpfynSR/\nListed by b1.s
+ hows. Always check the original post before you go.
 URL:https://www.instagram.com/p/DgFYUpfynSR/
 END:VEVENT
 BEGIN:VEVENT
 UID:d87a28d7836c@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261125T200000
 DTEND;TZID=Asia/Seoul:20261125T230000
 SUMMARY:SoundDog 4 Days (Song Hayeon) @ SoundDog Jazz
 LOCATION:SoundDog Jazz (사운드독)
-DESCRIPTION:Lineup: Song Hayeon\n라인업: 송하연\nPrice: 20\,000 KRW 
- per person\nDrummer-led jazz shows\, 20:00-22:00. Reservation by text 010
- -5368-2584 (WhatsApp 82-10-5368-2584) with deposit. Outside food allowed 
- (5\,000 KRW charge per 2 people).\nSource: https://www.instagram.com/reel
- /DgFTsz8SOfC/\nListed by b1.shows. Always check the original post before 
- you go.
+DESCRIPTION:Lineup: Song Hayeon\n라인업: 송하연\nPrice: ₩20\,000\n
+ Reserve by text 010-5368-2584 and pay by bank transfer\; outside snacks a
+ llowed (₩5\,000 per 2 people).\nSource: https://www.instagram.com/reel/
+ DgFTsz8SOfC/\nListed by b1.shows. Always check the original post before y
+ ou go.
 URL:https://www.instagram.com/reel/DgFTsz8SOfC/
 END:VEVENT
 BEGIN:VEVENT
 UID:1a407bcf2174@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261126T190000
 DTEND;TZID=Asia/Seoul:20261126T220000
 SUMMARY:Thursday Vibes (Sern\, Mandarin Juice\, Sayang\, Other +more) @ Cl
@@ -59,795 +55,619 @@ SUMMARY:Thursday Vibes (Sern\, Mandarin Juice\, Sayang\, Other +more) @ Cl
 LOCATION:Club FF (클럽 FF)
 DESCRIPTION:Lineup: Sern\, Mandarin Juice\, Sayang\, Other\, Lego\, James 
  Kiss\n라인업: Sern\, 만다린쥬스\, 사양\, 아더\, 레고\, 제
- 임스키스\nDoors: 18:30\nPrice: Door only 20\,000 KRW\nTickets sold at
-  the door only (no advance booking)\; door ticketing about 30 min before 
- start. Poster says 7pm start\, caption header says 8pm but set times begi
- n 19:00. Minors must leave by 22:00 unless accompanied by a guardian. Set
-  times: Sern 19:00\, Mandarin Juice 19:40\, Sayang 20:20\, Other 21:00\, 
- Lego 21:40\, James Kiss 22:20. Venue is in Hongdae\, Mapo-gu.\nSource: ht
- tps://www.instagram.com/p/DgCu7TuS1Ur/\nListed by b1.shows. Always check 
- the original post before you go.
+ 임스키스\nDoors: 18:30\nPrice: ₩20\,000\nDoor sales only\, no advan
+ ce booking. Under-19s must leave by 22:00 unless with a guardian. Caption
+  also says 8pm.\nSource: https://www.instagram.com/p/DgCu7TuS1Ur/\nListed
+  by b1.shows. Always check the original post before you go.
 URL:https://www.instagram.com/p/DgCu7TuS1Ur/
 END:VEVENT
 BEGIN:VEVENT
 UID:86a3290f6917@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261126T200000
 DTEND;TZID=Asia/Seoul:20261126T230000
-SUMMARY:Thursday Music Life (목요음악생활) (Gneuldance\, Nazare) @ C
- hannel 1969
+SUMMARY:Thursday Music Life (Gneuldance\, Nazare) @ Channel 1969
 LOCATION:Channel 1969 (채널1969)
 DESCRIPTION:Lineup: Gneuldance\, Nazare\n라인업: 그늘춤\, 나자레\
- nDoors: 19:00\nPrice: 10\,000 KRW\nWeekly Thursday live show. Gneuldance 
- at 20:00\, Nazare at 21:00. Reservations via Naver. Venue is at B1\, 35 Y
- eonhui-ro\, Mapo-gu.\nSource: https://www.instagram.com/p/Dfg-nK8PCX3/\nL
- isted by b1.shows. Always check the original post before you go.
+ nDoors: 19:00\nPrice: ₩10\,000\nSets at 20:00 and 21:00. Bookable via N
+ aver Reservation.\nSource: https://www.instagram.com/p/Dfg-nK8PCX3/\nList
+ ed by b1.shows. Always check the original post before you go.
 URL:https://www.instagram.com/p/Dfg-nK8PCX3/
 END:VEVENT
 BEGIN:VEVENT
 UID:9d26f8dbf02b@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261126T200000
 DTEND;TZID=Asia/Seoul:20261126T230000
 SUMMARY:SoundDog 4 Days (Song Hayeon) @ SoundDog Jazz
 LOCATION:SoundDog Jazz (사운드독)
-DESCRIPTION:Lineup: Song Hayeon\n라인업: 송하연\nPrice: 20\,000 KRW 
- per person\nDrummer-led jazz shows\, 20:00-22:00. Reservation by text 010
- -5368-2584 (WhatsApp 82-10-5368-2584) with deposit. Outside food allowed 
- (5\,000 KRW charge per 2 people).\nSource: https://www.instagram.com/reel
- /DgFTsz8SOfC/\nListed by b1.shows. Always check the original post before 
- you go.
+DESCRIPTION:Lineup: Song Hayeon\n라인업: 송하연\nPrice: ₩20\,000\n
+ Reserve by text 010-5368-2584 and pay by bank transfer\; outside snacks a
+ llowed (₩5\,000 per 2 people).\nSource: https://www.instagram.com/reel/
+ DgFTsz8SOfC/\nListed by b1.shows. Always check the original post before y
+ ou go.
 URL:https://www.instagram.com/reel/DgFTsz8SOfC/
 END:VEVENT
 BEGIN:VEVENT
 UID:645e8dc8aeb5@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261126T230000
 DTEND;TZID=Asia/Seoul:20261127T020000
 SUMMARY:Eurobash (DJ Eddie) @ Club FF
 LOCATION:Club FF (클럽 FF)
-DESCRIPTION:Lineup: DJ Eddie\nPrice: Free (No cover)\nEuropean hits and pa
- rty anthems night in Hongdae. DJ Eddie plays all night.\nSource: https://
- www.instagram.com/p/DgADFBeyvrm/\nListed by b1.shows. Always check the or
- iginal post before you go.
+DESCRIPTION:Lineup: DJ Eddie\nPrice: Free\nNo cover. European hits and par
+ ty anthems\, DJ Eddie all night.\nSource: https://www.instagram.com/p/DgA
+ DFBeyvrm/\nListed by b1.shows. Always check the original post before you 
+ go.
 URL:https://www.instagram.com/p/DgADFBeyvrm/
 END:VEVENT
 BEGIN:VEVENT
 UID:90b13fb33a71@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261127T163000
 DTEND;TZID=Asia/Seoul:20261127T193000
-SUMMARY:Art Can't Live Without Us - Sound Performance 'Samgak: Something' 
- (Im Jaemin) @ Seoul Foundation for Arts and Culture Daehakro Center
+SUMMARY:Art Can't Live Without Art – Sound Performance 〈Triangle: Some
+ thing〉 (Im Jaemin) @ Seoul Foundation for Arts and Culture Daehakro Cen
+ ter
 LOCATION:Seoul Foundation for Arts and Culture Daehakro Center (서울문
  화재단 대학로센터)
-DESCRIPTION:Lineup: Im Jaemin\n라인업: 임재민\nPart of a two-day mul
- ti-disciplinary art festival (Nov 27-28\, 2F/5F/6F)\; exhibition runs thr
- ough Dec 11. Sound performance is one item among workshops and talks. Add
- ress: 122 Dongsung-gil\, Jongno-gu.\nSource: https://www.instagram.com/p/
- DgAD8Wxpe8N/\nListed by b1.shows. Always check the original post before y
- ou go.
+DESCRIPTION:Lineup: Im Jaemin\n라인업: 임재민\nPart of a multi-artis
+ t art festival (27–28 Nov\, 2F/5F/6F)\; sound performance at 16:30 on t
+ he 27th.\nSource: https://www.instagram.com/p/DgAD8Wxpe8N/\nListed by b1.
+ shows. Always check the original post before you go.
 URL:https://www.instagram.com/p/DgAD8Wxpe8N/
 END:VEVENT
 BEGIN:VEVENT
-UID:3c36aa78ae80@b1.shows
-DTSTAMP:20261123T214935Z
+UID:20a923c3882e@b1.shows
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261127T200000
 DTEND;TZID=Asia/Seoul:20261127T230000
-SUMMARY:Live Club Day #85 (KIMSEUNGJOO\, THE VANE\, Men And Them\, DOORLES
- SHOUSE +more) @ Club FF
-LOCATION:Club FF (클럽 FF)
-DESCRIPTION:Lineup: KIMSEUNGJOO\, THE VANE\, Men And Them\, DOORLESSHOUSE\
- , SØHJ\, ADIOS AUDIO\, OYSTERS\, UREUK AND THE GYPSIES\, WOO HUIJUN\, 24
- TH\, JKC\, KIRARA\, T.A-Copy\, 87DANCE\, FAT HAMSTER & KANG NEW\, FutureP
- eerClub\, HOLLOW JAN\, W24\, Woo Heejun\, Muneopneunjip\, Ureuk and the P
- ungakjaengideul\, Takapi\n라인업: 김승주\, 더베인\, 맨앤뎀\, 
- 문없는집\, 서현정\, 아디오스오디오\, 오이스터즈\, 우
- 륵과 풍각쟁이들\, 우희준\, 이십사일\, 잭킹콩\, 키라라
- \, 타카피\, 팔칠댄스\, 팻햄스터 & 캉뉴\, 퓨처피어클럽\
- , 할로우잰\, W24\nMulti-venue night\; the poster does not say which a
- ct plays at which club. General tickets are sold on Melon Ticket (link in
-  the promoter's profile). Sponsored by Kakao Creative Foundation.\nTicket
- s: Melon Ticket (link in @liveclubday profile)\nSource: https://www.insta
- gram.com/p/Dflx8d8PyPi/\nSource: https://www.instagram.com/p/DfV1RSfvII5/
- \nSource: https://www.instagram.com/p/DgFFNrPks0U/\nSource: https://www.i
- nstagram.com/p/DgFDOj7kvuu/\nListed by b1.shows. Always check the origina
- l post before you go.
-URL:https://www.instagram.com/p/Dflx8d8PyPi/
-END:VEVENT
-BEGIN:VEVENT
-UID:c8a4d908a28e@b1.shows
-DTSTAMP:20261123T214935Z
-DTSTART;TZID=Asia/Seoul:20261127T200000
-DTEND;TZID=Asia/Seoul:20261127T230000
-SUMMARY:Live Club Day Vol. 85 (Oysters\, Isipsail\, Palchil Dance\, Fatham
- ster & Kangnyu +more) @ KT&G Sangsangmadang Live Hall
-LOCATION:KT&G Sangsangmadang Live Hall (KT&G 상상마당 라이브홀)
-DESCRIPTION:Lineup: Oysters\, Isipsail\, Palchil Dance\, Fathamster & Kang
- nyu\, SØHJ\, Kirara\, Men And Them\, THE VANE\, FuturePeerClub\n라인
- 업: 오이스터즈\, 이십사일\, 팔칠댄스\, 팻햄스터 & 캉
- 뉴\, SØHJ(서현정)\, 키라라\, 맨앤뎀\, 더베인\, 퓨처피어
- 클럽\nSet times: Oysters 20:00\, Isipsail (24일) 21:00\, Palchil Dance
-  (87 Dance) 22:00. Tickets via Melon Ticket (link in @liveclubday profile
- ). Supported by Kakao Creative Foundation.\nSource: https://www.instagram
- .com/p/DgFE2kBkuAc/\nSource: https://www.instagram.com/p/DgFEajckm76/\nSo
- urce: https://www.instagram.com/p/DgFBesnEuVb/\nListed by b1.shows. Alway
- s check the original post before you go.
-URL:https://www.instagram.com/p/DgFE2kBkuAc/
-END:VEVENT
-BEGIN:VEVENT
-UID:7874225f8f3e@b1.shows
-DTSTAMP:20261123T214935Z
-DTSTART;TZID=Asia/Seoul:20261127T200000
-DTEND;TZID=Asia/Seoul:20261127T230000
-SUMMARY:MRN Groove: DECADENT LIVE (DECADENT) @ Morene Sukha
-LOCATION:Morene Sukha (모래내극락)
-DESCRIPTION:Lineup: DECADENT\n라인업: 데카당\nDoors: 19:00\nPrice: A
- dvance 40\,000 / Door 45\,000 KRW\nStanding\, unreserved\, first-come ent
- ry. Door sales only if advance tickets don't sell out. 19+ (ID check\, mi
- nors not admitted). One drink minimum per person. Performance 20:00-21:00
- . Near Gajwa Station (Gyeongui-Jungang Line).\nSource: https://www.instag
- ram.com/p/Dfjln-Kzz8M/\nSource: https://www.instagram.com/p/DfPmYvzzOVw/\
- nListed by b1.shows. Always check the original post before you go.
-URL:https://www.instagram.com/p/Dfjln-Kzz8M/
-END:VEVENT
-BEGIN:VEVENT
-UID:e15e7854815a@b1.shows
-DTSTAMP:20261123T214935Z
-DTSTART;TZID=Asia/Seoul:20261127T200000
-DTEND;TZID=Asia/Seoul:20261127T230000
-SUMMARY:Live Club Day #85 @ Multiple Hongdae live clubs (venues not listed
-  in post)
-LOCATION:Multiple Hongdae live clubs (venues not listed in post)
-DESCRIPTION:Price: 40\,000 KRW\nGeneral tickets open 2026-11-06 at 19:00 K
- ST on Melon Ticket. Lineup and participating venues not stated in this po
- st. Supported by Kakao Creation Foundation. Inquiries via KakaoTalk chann
- el 'Live Club Day'.\nSource: https://www.instagram.com/p/DfQ6XPzPNyy/\nLi
- sted by b1.shows. Always check the original post before you go.
-URL:https://www.instagram.com/p/DfQ6XPzPNyy/
-END:VEVENT
-BEGIN:VEVENT
-UID:ca036cd150e5@b1.shows
-DTSTAMP:20261123T214935Z
-DTSTART;TZID=Asia/Seoul:20261127T200000
-DTEND;TZID=Asia/Seoul:20261127T230000
-SUMMARY:Live Club Day #85 - Track Zero Stage (Kim Seungju\, Adios Audio\, 
- Jack King Kong) @ Musinsa Garage
-LOCATION:Musinsa Garage (무신사 개러지)
-DESCRIPTION:Lineup: Kim Seungju\, Adios Audio\, Jack King Kong\n라인업:
-  김승주\, 아디오스오디오\, 잭킹콩\nSet times: Kim Seungju 20
- :00\, Adios Audio 21:00\, Jack King Kong 22:00. Tickets via Melon Ticket 
- (link in @liveclubday profile). Supported by Kakao Impact Foundation.\nSo
- urce: https://www.instagram.com/p/DgFAvaDm-S4/\nListed by b1.shows. Alway
- s check the original post before you go.
-URL:https://www.instagram.com/p/DgFAvaDm-S4/
-END:VEVENT
-BEGIN:VEVENT
-UID:60276ba667b7@b1.shows
-DTSTAMP:20261123T214935Z
-DTSTART;TZID=Asia/Seoul:20261127T200000
-DTEND;TZID=Asia/Seoul:20261127T230000
-SUMMARY:Biuret Concert 4 Seasons : Winter (Biuret\, GAEHWA) @ Rolling Hall
-LOCATION:Rolling Hall (롤링홀)
-DESCRIPTION:Lineup: Biuret\, GAEHWA\n라인업: 뷰렛\, 개화\nPrice: 66
- \,000 KRW\nTickets via Melon Ticket (ticket.melon.com). Guest: GAEHWA. Ho
- ngdae.\nTickets: https://buly.kr/7mEghIe\nSource: https://www.instagram.c
- om/reel/DfBayNjjsbf/\nListed by b1.shows. Always check the original post 
- before you go.
-URL:https://www.instagram.com/reel/DfBayNjjsbf/
+SUMMARY:Live Club Day #85 (Woo Heejun\, Mundeopneunjip\, Urok and the Pung
+ akjaengi-deul\, Oysters +more) @ KT&G Sangsangmadang Live Hall
+LOCATION:Vel.R\, KT&G Sangsangmadang Live Hall\, Prism Hall\, Club FF\, Cl
+ ub Freebird\, Musinsa Garage
+DESCRIPTION:Lineup: Woo Heejun\, Mundeopneunjip\, Urok and the Pungakjaeng
+ i-deul\, Oysters\, Isipsail\, 87 Dance\, Fathamster & Kangnyu\, SØHJ\, K
+ irara\, W24\, Takapi\, Hallow Jan\, Men And Them\, THE VANE\, FuturePeerC
+ lub\, Kim Seungju\, Adios Audio\, Jack King Kong\n라인업: 우희준\, 
+ 문없는집\, 우륵과풍각쟁이들\, 오이스터즈\, 이십사일\
+ , 팔칠댄스\, 팻햄스터 & 캉뉴\, 서현정\, 키라라\, 타카
+ 피\, 할로우잰\, 맨앤뎀\, 더베인\, 퓨처피어클럽\, 김승
+ 주\, 아디오스오디오\, 잭킹콩\nTickets via Melon Ticket (link i
+ n @liveclubday profile). Sets at 20:00\, 21:00\, 22:00.\nSource: https://
+ www.instagram.com/p/DgFFNrPks0U/\nSource: https://www.instagram.com/p/DgF
+ E2kBkuAc/\nSource: https://www.instagram.com/p/DgFEajckm76/\nSource: http
+ s://www.instagram.com/p/DgFDOj7kvuu/\nSource: https://www.instagram.com/p
+ /DgFBesnEuVb/\nSource: https://www.instagram.com/p/DgFAvaDm-S4/\nListed b
+ y b1.shows. Always check the original post before you go.
+URL:https://www.instagram.com/p/DgFFNrPks0U/
 END:VEVENT
 BEGIN:VEVENT
 UID:3156b0739c12@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261127T200000
 DTEND;TZID=Asia/Seoul:20261127T230000
 SUMMARY:SoundDog 4 Days (Song Hayeon) @ SoundDog Jazz
 LOCATION:SoundDog Jazz (사운드독)
-DESCRIPTION:Lineup: Song Hayeon\n라인업: 송하연\nPrice: 20\,000 KRW 
- per person\nDrummer-led jazz shows\, 20:00-22:00. Reservation by text 010
- -5368-2584 (WhatsApp 82-10-5368-2584) with deposit. Outside food allowed 
- (5\,000 KRW charge per 2 people).\nSource: https://www.instagram.com/reel
- /DgFTsz8SOfC/\nListed by b1.shows. Always check the original post before 
- you go.
+DESCRIPTION:Lineup: Song Hayeon\n라인업: 송하연\nPrice: ₩20\,000\n
+ Reserve by text 010-5368-2584 and pay by bank transfer\; outside snacks a
+ llowed (₩5\,000 per 2 people).\nSource: https://www.instagram.com/reel/
+ DgFTsz8SOfC/\nListed by b1.shows. Always check the original post before y
+ ou go.
 URL:https://www.instagram.com/reel/DgFTsz8SOfC/
 END:VEVENT
 BEGIN:VEVENT
 UID:cd253b6f780d@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261127T230000
 DTEND;TZID=Asia/Seoul:20261128T020000
 SUMMARY:Thanksgiving Afterparty (DJ Eddie\, DJ Sodef) @ Club FF
 LOCATION:Club FF (클럽 FF)
-DESCRIPTION:Lineup: DJ Eddie\, DJ Sodef\nPrice: Free (no cover)\nAmerican 
- hits old & new: pop\, hip-hop\, pop-punk and party anthems. Located in Ho
- ngdae.\nSource: https://www.instagram.com/p/DgAHqc3SHoX/\nListed by b1.sh
- ows. Always check the original post before you go.
+DESCRIPTION:Lineup: DJ Eddie\, DJ Sodef\nPrice: Free\nNo cover. American h
+ its old and new: pop\, hip-hop\, pop-punk and party anthems.\nSource: htt
+ ps://www.instagram.com/p/DgAHqc3SHoX/\nListed by b1.shows. Always check t
+ he original post before you go.
 URL:https://www.instagram.com/p/DgAHqc3SHoX/
 END:VEVENT
 BEGIN:VEVENT
-UID:a1fa6c655d32@b1.shows
-DTSTAMP:20261123T214935Z
-DTSTART;TZID=Asia/Seoul:20261128T183000
-DTEND;TZID=Asia/Seoul:20261128T213000
-SUMMARY:SWIM\, DANCE\, LOVE (Bulgogi Disco\, Polyamory\, Swiimers) @ Pet S
- ounds
-LOCATION:Pet Sounds (펫사운즈)
-DESCRIPTION:Lineup: Bulgogi Disco\, Polyamory\, Swiimers\n라인업: 불
- 고기디스코\, 폴리아모리\, 스위머스\nPrice: Presale 30\,000 
- / Door 35\,000 KRW\nOne drink purchase required per person. Tickets on sa
- le now via link in bio. Venue in Itaewon (3rd floor).\nSource: https://ww
- w.instagram.com/p/Dfi-qfApHYC/\nListed by b1.shows. Always check the orig
- inal post before you go.
-URL:https://www.instagram.com/p/Dfi-qfApHYC/
-END:VEVENT
-BEGIN:VEVENT
-UID:e2b16772d659@b1.shows
-DTSTAMP:20261123T214935Z
-DTSTART;TZID=Asia/Seoul:20261128T200000
-DTEND;TZID=Asia/Seoul:20261128T230000
-SUMMARY:From Midnight TOKYO Vol.94 (DJ Cha Seungwoo\, DJ Kim Mingyu\, DJ H
- asegawa Yohei\, Hasegawa Yohei +more) @ Morene Sukha
-LOCATION:Morene Sukha (모래내극락)
-DESCRIPTION:Lineup: DJ Cha Seungwoo\, DJ Kim Mingyu\, DJ Hasegawa Yohei\, 
- Hasegawa Yohei\, Kim Min-gyu\, Cha Seung-woo\n라인업: DJ 차승우\, D
- J 김민규\, DJ 하세가와 요헤이\, 하세가와 요헤이\, 김민
- 규\, 차승우\nDoors: 20:00\nPrice: Walk-in only 15\,000 KRW\nWalk-in e
- ntry only. No under-18/minors\; ID check at entrance. One drink per perso
- n required. No parking. Near Gajwa Station (Gyeongui-Jungang line).\nSour
- ce: https://www.instagram.com/p/DfjpDpLo7SO/\nSource: https://www.instagr
- am.com/p/DfPmYvzzOVw/\nListed by b1.shows. Always check the original post
-  before you go.
-URL:https://www.instagram.com/p/DfjpDpLo7SO/
+UID:7a7b7483bd20@b1.shows
+DTSTAMP:20261123T233531Z
+DTSTART;TZID=Asia/Seoul:20261128T160000
+DTEND;TZID=Asia/Seoul:20261128T190000
+SUMMARY:Lily's Winter Preparations (Noh Ayoon\, Baek Seunghwan\, Joo Taeju
+ ng) @ Lily Music Studio
+LOCATION:Lily Music Studio (릴리뮤직스튜디오)
+DESCRIPTION:Lineup: Noh Ayoon\, Baek Seunghwan\, Joo Taejung\n라인업: 
+ 노아윤\, 백승환\, 주태중\nPrice: ₩30\,000\nBook via the link i
+ n the Lily Music Studio Instagram profile. Venue is in the basement (B1).
+ \nSource: https://www.instagram.com/p/Dfj1__lnbw6/\nListed by b1.shows. A
+ lways check the original post before you go.
+URL:https://www.instagram.com/p/Dfj1__lnbw6/
 END:VEVENT
 BEGIN:VEVENT
 UID:853ea183ade8@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261128T200000
 DTEND;TZID=Asia/Seoul:20261128T230000
 SUMMARY:SoundDog 4 Days (Song Hayeon) @ SoundDog Jazz
 LOCATION:SoundDog Jazz (사운드독)
-DESCRIPTION:Lineup: Song Hayeon\n라인업: 송하연\nPrice: 20\,000 KRW 
- per person\nDrummer-led jazz shows\, 20:00-22:00. Reservation by text 010
- -5368-2584 (WhatsApp 82-10-5368-2584) with deposit. Outside food allowed 
- (5\,000 KRW charge per 2 people).\nSource: https://www.instagram.com/reel
- /DgFTsz8SOfC/\nListed by b1.shows. Always check the original post before 
- you go.
+DESCRIPTION:Lineup: Song Hayeon\n라인업: 송하연\nPrice: ₩20\,000\n
+ Reserve by text 010-5368-2584 and pay by bank transfer\; outside snacks a
+ llowed (₩5\,000 per 2 people).\nSource: https://www.instagram.com/reel/
+ DgFTsz8SOfC/\nListed by b1.shows. Always check the original post before y
+ ou go.
 URL:https://www.instagram.com/reel/DgFTsz8SOfC/
 END:VEVENT
 BEGIN:VEVENT
 UID:a01cc79b095c@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261128T200000
 DTEND;TZID=Asia/Seoul:20261128T230000
 SUMMARY:Gritty Kitty @ Subriot
 LOCATION:Subriot (서브라이엇 HBC)
 DESCRIPTION:Lineup: Gritty Kitty\n라인업: 그리티 키티\nPrice: Free
-  entry / pay after the show\nJazz\, soul\, funk\, vocal. Reservations: 01
- 0-8018-5546 (Korean)\, 010-7454-4005 (English).\nSource: https://www.inst
- agram.com/p/Df9VRY_k6g4/\nListed by b1.shows. Always check the original p
- ost before you go.
+ \nFree entry\, pay after the show. Reservations: 010 7454 4005 (English).
+ \nSource: https://www.instagram.com/p/Df9VRY_k6g4/\nListed by b1.shows. A
+ lways check the original post before you go.
 URL:https://www.instagram.com/p/Df9VRY_k6g4/
 END:VEVENT
 BEGIN:VEVENT
-UID:251298e8f24a@b1.shows
-DTSTAMP:20261123T214935Z
-DTSTART;TZID=Asia/Seoul:20261129T170000
-DTEND;TZID=Asia/Seoul:20261129T200000
-SUMMARY:MRN Groove: UINONE LIVE (UINONE) @ Morene Sukha
-LOCATION:Morene Sukha (모래내극락)
-DESCRIPTION:Lineup: UINONE\n라인업: 유인원\nDoors: 16:00\nPrice: Adv
- ance 30\,000 / Door 35\,000 KRW\nStanding\, unreserved\, first-come entry
- . Door sales only if advance tickets are not sold out (the caption says n
- one if sold out). Set 17:00-18:30. 19+ only\, ID check. One drink order p
- er person required. Booking link in profile Linktree.\nSource: https://ww
- w.instagram.com/p/DfZXrF8TWC7/\nSource: https://www.instagram.com/p/DfPmY
- vzzOVw/\nListed by b1.shows. Always check the original post before you go
- .
-URL:https://www.instagram.com/p/DfZXrF8TWC7/
-END:VEVENT
-BEGIN:VEVENT
 UID:ddbf5b79ab96@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261129T210000
 DTEND;TZID=Asia/Seoul:20261130T000000
-SUMMARY:ROCK PARTY (Jay\, Felix\, Eddie) @ Club FF
+SUMMARY:Rock Party (Felix\, Jay\, Eddie) @ Club FF
 LOCATION:Club FF (클럽 FF)
-DESCRIPTION:Lineup: Jay\, Felix\, Eddie\nPrice: Free (no cover\, drink ord
- er required)\n100% rock DJing (no hip-hop\, EDM or pop). Runs all night. 
- Wear a rock band T-shirt to get one free Rock N Roll cocktail. Hongdae.\n
- Source: https://www.instagram.com/reel/Df9xuq9M0kw/\nListed by b1.shows. 
- Always check the original post before you go.
+DESCRIPTION:Lineup: Felix\, Jay\, Eddie\nPrice: Free\nNo cover\, but order
+  a drink first. Wear a rock band T-shirt for a free Rock N Roll cocktail.
+ \nSource: https://www.instagram.com/reel/Df9xuq9M0kw/\nListed by b1.shows
+ . Always check the original post before you go.
 URL:https://www.instagram.com/reel/Df9xuq9M0kw/
 END:VEVENT
 BEGIN:VEVENT
-UID:e0138e78d7da@b1.shows
-DTSTAMP:20261123T214935Z
+UID:fba0e81aa86f@b1.shows
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261204T200000
 DTEND;TZID=Asia/Seoul:20261204T230000
-SUMMARY:Marshall Live from 월하정인 (Moonlit Lovers) (SWELL CITY\, Hat
- haway) @ Morene Sukha
+SUMMARY:Bedside Radio '26 Finale: That Time\, That Season (Yena\, Seungyeo
+ n) @ Lily Music Studio
+LOCATION:Lily Music Studio (릴리뮤직스튜디오)
+DESCRIPTION:Lineup: Yena\, Seungyeon\n라인업: 예나\, 승연\nPrice: 
+ ₩20\,000\nTalk concert with violin and piano. Book via the link in the 
+ profile. Venue is in the basement (B1).\nSource: https://www.instagram.co
+ m/p/Dfigy-_E0Ed/\nListed by b1.shows. Always check the original post befo
+ re you go.
+URL:https://www.instagram.com/p/Dfigy-_E0Ed/
+END:VEVENT
+BEGIN:VEVENT
+UID:e0138e78d7da@b1.shows
+DTSTAMP:20261123T233531Z
+DTSTART;TZID=Asia/Seoul:20261204T200000
+DTEND;TZID=Asia/Seoul:20261204T230000
+SUMMARY:Marshall Live from Wolhajeongin (月下情人) (Swell City\, Hatha
+ w9y) @ Morene Sukha
 LOCATION:Morene Sukha (모래내 극락)
-DESCRIPTION:Lineup: SWELL CITY\, Hathaway\n라인업: 스웰시티\, 해
- 서웨이\nDoors: 19:00\nPrice: Advance 40\,000 / Door 45\,000 KRW\nTicke
- ts open 2026-11-23 8PM via Linktree in profile. Unreserved standing\, fir
- st come first served. No door sales if sold out. Minors only with guardia
- n\; ID check. One drink per person required. SWELL CITY 20:00\, Hathaway 
- 21:00. Free-entry music cafe and Marshall experience studio open from 18:
- 00.\nSource: https://www.instagram.com/p/Df8qkIEI_GP/\nListed by b1.shows
- . Always check the original post before you go.
+DESCRIPTION:Lineup: Swell City\, Hathaw9y\n라인업: 스웰시티\, 해
+ 서웨이\nDoors: 19:00\nPrice: Adv ₩40\,000 / Door ₩45\,000\nTickets
+  open 23 Nov 8PM\; standing\, first come. No door sales if sold out\; min
+ ors with guardian only\; 1 drink required.\nSource: https://www.instagram
+ .com/p/Df8qkIEI_GP/\nListed by b1.shows. Always check the original post b
+ efore you go.
 URL:https://www.instagram.com/p/Df8qkIEI_GP/
 END:VEVENT
 BEGIN:VEVENT
 UID:b8cc388d5e12@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261205T180000
 DTEND;TZID=Asia/Seoul:20261205T210000
-SUMMARY:VERY FIRST LAST MONTH EVER (THE RESETERS\, SEOUL DOLMANGCHI\, ...W
- HATEVER THAT MEANS\, 18FEVERS +more) @ Club SHARP
+SUMMARY:Very First Last Month Ever (The Reseters\, Seoul Dolmangchi\, ...W
+ hatever That Means\, 18Fevers +more) @ Club SHARP
 LOCATION:Club SHARP (클럽 샤프)
-DESCRIPTION:Lineup: THE RESETERS\, SEOUL DOLMANGCHI\, ...WHATEVER THAT MEA
- NS\, 18FEVERS\, STARTLINE\, LUSTROUBLE\n라인업: THE RESETERS\, 서울 
- 돌망치\, ...WHATEVER THAT MEANS\, 18FEVERS\, STARTLINE\, LUSTROUBLE\nD
- oors: 17:30\nPrice: Advance 30\,000 / Door 35\,000 KRW\nAdvance booking b
- y bank transfer to Woori Bank 1002 062 004400 (유진석)\, deadline Dec 
- 4 23:59. Pay in your own name and give the name at the door. No refunds. 
- No entry limit for this final month.\nSource: https://www.instagram.com/p
- /DfT2uaZP2GM/\nSource: https://www.instagram.com/p/De8Xei5sU29/\nListed b
- y b1.shows. Always check the original post before you go.
+DESCRIPTION:Lineup: The Reseters\, Seoul Dolmangchi\, ...Whatever That Mea
+ ns\, 18Fevers\, Startline\, Lustrouble\n라인업: 서울 돌망치\nDoor
+ s: 17:30\nPrice: Adv ₩30k / Door ₩35k\nAdvance by bank transfer to Wo
+ ori Bank by 4 Dec 23:59\; no refunds. Say your name at the door.\nSource:
+  https://www.instagram.com/p/DfT2uaZP2GM/\nSource: https://www.instagram.
+ com/p/De8Xei5sU29/\nListed by b1.shows. Always check the original post be
+ fore you go.
 URL:https://www.instagram.com/p/DfT2uaZP2GM/
 END:VEVENT
 BEGIN:VEVENT
 UID:bc928d5d2172@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261205T190000
 DTEND;TZID=Asia/Seoul:20261205T220000
-SUMMARY:Marshall Live from 월하정인 (Live show) (omm..\, Noridogam) @ 
- Morene Sukha
+SUMMARY:Marshall Live from 월하정인 (Moonlit Lovers) (omm..\, Noridoga
+ m\, Geukrakjo DJ Party: B.RALTA\, Tiger Disco +more) @ Morene Sukha
 LOCATION:Morene Sukha (모래내 극락)
-DESCRIPTION:Lineup: omm..\, Noridogam\n라인업: 옴\, 놀이도감\nDoor
- s: 18:00\nPrice: Advance 40\,000 / Door 45\,000 KRW\nTickets open 2026-11
- -23 8PM via Linktree in profile. Standing\, first come first served. No d
- oor sales if advance sells out. Minors only with guardian (ID check). One
-  drink per person required. Part of the Morene Sukha year-end series.\nSo
- urce: https://www.instagram.com/p/Df9SD5Do5Hb/\nListed by b1.shows. Alway
- s check the original post before you go.
-URL:https://www.instagram.com/p/Df9SD5Do5Hb/
-END:VEVENT
-BEGIN:VEVENT
-UID:fbab9b615d31@b1.shows
-DTSTAMP:20261123T214935Z
-DTSTART;TZID=Asia/Seoul:20261205T204000
-DTEND;TZID=Asia/Seoul:20261205T234000
-SUMMARY:Birds of Paradise DJ Party (Marshall Live from 월하정인) (B.RA
- LTA\, Tiger Disco\, Range Vak) @ Morene Sukha
-LOCATION:Morene Sukha (모래내 극락)
-DESCRIPTION:Lineup: B.RALTA\, Tiger Disco\, Range Vak\nPrice: Door 10\,000
-  KRW (door sales only)\; free for live show ticket holders\nFollows the l
- ive show on the same night.\nSource: https://www.instagram.com/p/Df9SD5Do
- 5Hb/\nListed by b1.shows. Always check the original post before you go.
+DESCRIPTION:Lineup: omm..\, Noridogam\, Geukrakjo DJ Party: B.RALTA\, Tige
+ r Disco\, Range Vak\n라인업: 옴\, 놀이도감\, 극락조\nDoors: 18
+ :00\nPrice: Adv ₩40\,000 / Door ₩45\,000\nLive show tickets open 23 N
+ ov 8PM via profile linktree\; standing\, no door sales if sold out. DJ pa
+ rty alone ₩10\,000 at door\; free for live ticket holders.\nSource: htt
+ ps://www.instagram.com/p/Df9SD5Do5Hb/\nListed by b1.shows. Always check t
+ he original post before you go.
 URL:https://www.instagram.com/p/Df9SD5Do5Hb/
 END:VEVENT
 BEGIN:VEVENT
 UID:571c8550cb60@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261206T170000
 DTEND;TZID=Asia/Seoul:20261206T200000
-SUMMARY:AxMxP Concert <Home Sweet Home> : 2026 MAPO Winter Edition (AxMxP)
-  @ Mapo Art Center Art Hall MAC
+SUMMARY:Home Sweet Home: 2026 Mapo Winter Edition (AxMxP) @ Mapo Art Cente
+ r Art Hall MAC
 LOCATION:Mapo Art Center Art Hall MAC (마포아트센터 아트홀맥)
-DESCRIPTION:Lineup: AxMxP\n라인업: 에이엠피\nPrice: 1F 121\,000 KRW
-  / 2F 110\,000 KRW\nTickets via Yes24 Ticket. Fan club presale Nov 5 8PM\
- ; general sale opened Nov 9 8PM. Organized by Mapo Foundation for Arts an
- d Culture and Rolling Hall.\nSource: https://www.instagram.com/p/DfgwVIrE
- 2Wh/\nListed by b1.shows. Always check the original post before you go.
+DESCRIPTION:Lineup: AxMxP\n라인업: 에이엠피\nPrice: 1F ₩121\,000 
+ / 2F ₩110\,000\nBook via Yes24 Ticket\; general sale opened 9 Nov\, 8PM
+ \, after the fan club presale.\nSource: https://www.instagram.com/p/DfgwV
+ IrE2Wh/\nListed by b1.shows. Always check the original post before you go
+ .
 URL:https://www.instagram.com/p/DfgwVIrE2Wh/
 END:VEVENT
 BEGIN:VEVENT
 UID:fd2706298885@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261206T170000
 DTEND;TZID=Asia/Seoul:20261206T200000
 SUMMARY:ChRocktikal The 1st World Tour [CRTK : The End of Beginning] in Se
  oul (ChRocktikal) @ Rolling Hall
 LOCATION:Rolling Hall (롤링홀)
-DESCRIPTION:Lineup: ChRocktikal\n라인업: 크록티칼\nPrice: 89\,000 K
- RW\nTickets on Melon Ticket\; opens 8 PM on post date (Nov 5).\nTickets: 
- https://url.kr/8qnnp8\nSource: https://www.instagram.com/reel/DfWBCbND25k
- /\nSource: https://www.instagram.com/p/DfD_er5iji7/\nListed by b1.shows. 
- Always check the original post before you go.
+DESCRIPTION:Lineup: ChRocktikal\n라인업: 크록티칼\nPrice: ₩89\,00
+ 0\nTickets open at 8 PM on 5 Nov via Melon Ticket.\nTickets: https://url.
+ kr/8qnnp8\nSource: https://www.instagram.com/reel/DfWBCbND25k/\nListed by
+  b1.shows. Always check the original post before you go.
 URL:https://www.instagram.com/reel/DfWBCbND25k/
 END:VEVENT
 BEGIN:VEVENT
 UID:7470251d651f@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261206T180000
 DTEND;TZID=Asia/Seoul:20261206T210000
-SUMMARY:Are the rivers and mountains changed? – Shin Seungeun 10th Anniv
- ersary of 1st Album (Shin Seung-eun\, Mui (drums)\, Kim Jeongmin (bass)\,
-  Yang Dongwook (electric guitar)) @ Channel 1969
+SUMMARY:Are the Mountains and Rivers Changed? (Shin Seung-eun 1st album 10
+ th anniversary concert) (Shin Seung-eun\, Muyi\, Kim Jeong-min\, Yang Don
+ g-uk) @ Channel 1969
 LOCATION:Channel 1969 (채널1969)
-DESCRIPTION:Lineup: Shin Seung-eun\, Mui (drums)\, Kim Jeongmin (bass)\, Y
- ang Dongwook (electric guitar)\n라인업: 신승은\, 무이\, 김정민
- \, 양동욱\nPrice: Advance 40\,000 / Door 45\,000 KRW\n10th anniversary
-  of debut album. About 90 minutes. Advance tickets open Nov 9 at 18:00 vi
- a Channel 1969 profile link or Naver Reservation. Text interpretation (ca
- ptioning) available.\nSource: https://www.instagram.com/p/DfhLUSxFDub/\nL
- isted by b1.shows. Always check the original post before you go.
+DESCRIPTION:Lineup: Shin Seung-eun\, Muyi\, Kim Jeong-min\, Yang Dong-uk\n
+ 라인업: 신승은\, 무이\, 김정민\, 양동욱\nPrice: Adv ₩40k 
+ / Door ₩45k\nBook via Naver Reservation (link in Channel 1969 profile)\
+ ; ~90 min\; text interpretation provided.\nSource: https://www.instagram.
+ com/p/DfhLUSxFDub/\nListed by b1.shows. Always check the original post be
+ fore you go.
 URL:https://www.instagram.com/p/DfhLUSxFDub/
 END:VEVENT
 BEGIN:VEVENT
 UID:36cd02fc0d88@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261206T180000
 DTEND;TZID=Asia/Seoul:20261206T210000
 SUMMARY:Marshall Live from 월하정인 (Moonlit Lovers) (Kim Ildu\, Windy
- city\, Ureuk and the Gypsies) @ Morene Sukha
+  City\, Ureuk and the Pungakjaengi) @ Morene Sukha
 LOCATION:Morene Sukha (모래내 극락)
-DESCRIPTION:Lineup: Kim Ildu\, Windycity\, Ureuk and the Gypsies\n라인
- 업: 김일두\, 윈디시티\, 우륵과 풍각쟁이들\nDoors: 17:00\n
- Price: Advance 35\,000 / Door 40\,000 KRW\nKim Ildu acoustic set at 16:00
-  is free to watch. Live show: 18:00 Windycity\, 19:00 Ureuk and the Gypsi
- es. Tickets open 2026-11-23 8PM via Linktree in profile. Unreserved stand
- ing\, first come first served\; no door sales if sold out. Minors only wi
- th guardian\, ID check. One drink per person required.\nSource: https://w
- ww.instagram.com/p/Df_NwDRo-EJ/\nListed by b1.shows. Always check the ori
- ginal post before you go.
+DESCRIPTION:Lineup: Kim Ildu\, Windy City\, Ureuk and the Pungakjaengi\n
+ 라인업: 김일두\, 윈디시티\, 우륵과 풍각쟁이들\nDoors: 1
+ 7:00\nPrice: Adv ₩35\,000 / Door ₩40\,000\nTickets open 23 Nov 8PM\; 
+ standing\, first-come. Kim Ildu's free acoustic set is at 16:00. No door 
+ sales if sold out.\nSource: https://www.instagram.com/p/Df_NwDRo-EJ/\nLis
+ ted by b1.shows. Always check the original post before you go.
 URL:https://www.instagram.com/p/Df_NwDRo-EJ/
 END:VEVENT
 BEGIN:VEVENT
 UID:a8ded7681b92@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261211T200000
 DTEND;TZID=Asia/Seoul:20261211T230000
-SUMMARY:Marshall Live from 월하정인 (Moonlit Lovers) (Yoo Younghyun) @
-  Morene Sukha
+SUMMARY:Marshall Live from Wolha Jeongin (Yoo Younghyun) @ Morene Sukha
 LOCATION:Morene Sukha (모래내 극락)
 DESCRIPTION:Lineup: Yoo Younghyun\n라인업: 유영현\nDoors: 19:00\nPri
- ce: Advance 30\,000 KRW\nTickets open 2026-11-23 8PM via Linktree in prof
- ile. Unreserved standing\, first come first served. No door sales if sold
-  out. Minors only with guardian\; ID check. One drink per person required
- .\nSource: https://www.instagram.com/p/Df_3A02o5Zw/\nListed by b1.shows. 
- Always check the original post before you go.
+ ce: ₩30\,000\nTickets open 23 Nov 8PM via link in bio. Standing\, first
+  come. No door sales if sold out. Minors need a guardian\; ID check.\nSou
+ rce: https://www.instagram.com/p/Df_3A02o5Zw/\nListed by b1.shows. Always
+  check the original post before you go.
 URL:https://www.instagram.com/p/Df_3A02o5Zw/
 END:VEVENT
 BEGIN:VEVENT
 UID:eb5eb5dce7ef@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261211T210000
 DTEND;TZID=Asia/Seoul:20261212T000000
 SUMMARY:Reverty Crew Party (String North Noodle\, DoongGae\, Queazy\, NWPH
  . +more) @ Morene Sukha
 LOCATION:Morene Sukha (모래내 극락)
 DESCRIPTION:Lineup: String North Noodle\, DoongGae\, Queazy\, NWPH.\, POSE
- \nPrice: Free\nPart of Marshall Live from 월하정인 night. String Nort
- h Noodle performs live\; the others are DJs. Free entry.\nSource: https:/
- /www.instagram.com/p/Df_3A02o5Zw/\nListed by b1.shows. Always check the o
- riginal post before you go.
+ \n라인업: 스트링노스누들\, 둥개\nPrice: Free\nFree entry. Par
+ t of the Wolha Jeongin year-end series\; String North Noodle plays live\,
+  the rest DJ.\nSource: https://www.instagram.com/p/Df_3A02o5Zw/\nListed b
+ y b1.shows. Always check the original post before you go.
 URL:https://www.instagram.com/p/Df_3A02o5Zw/
 END:VEVENT
 BEGIN:VEVENT
 UID:ab8ee882ed02@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261212T180000
 DTEND;TZID=Asia/Seoul:20261212T210000
-SUMMARY:Chanmin EP Release Solo Concert: 呼吸法 (Breathing Method) (Cha
- nmin) @ KT&G Sangsangmadang Live Hall
+SUMMARY:Chanmin Solo Concert: Breathing Method (呼吸法) (Chanmin) @ KT&
+ G Sangsangmadang Live Hall
 LOCATION:KT&G Sangsangmadang Live Hall (KT&G 상상마당 라이브홀)
-DESCRIPTION:Lineup: Chanmin\n라인업: 찬민\nPrice: 66\,000 KRW (all re
- served seating)\nTickets open 2026-11-16 (Mon) 7PM exclusively on Melon T
- icket. Venue inquiries: 02-2014-2021. Hongdae\, Seoul.\nSource: https://w
- ww.instagram.com/p/DfgUP6SiQ9A/\nListed by b1.shows. Always check the ori
- ginal post before you go.
+DESCRIPTION:Lineup: Chanmin\n라인업: 찬민\nPrice: ₩66\,000\nReserve
+ d seating. Tickets on Melon Ticket only\, opening 16 Nov at 19:00.\nSourc
+ e: https://www.instagram.com/p/DfgUP6SiQ9A/\nListed by b1.shows. Always c
+ heck the original post before you go.
 URL:https://www.instagram.com/p/DfgUP6SiQ9A/
 END:VEVENT
 BEGIN:VEVENT
+UID:822b1343d84d@b1.shows
+DTSTAMP:20261123T233531Z
+DTSTART;TZID=Asia/Seoul:20261212T190000
+DTEND;TZID=Asia/Seoul:20261212T220000
+SUMMARY:DJ Soulscape Curated 30 RAKUNELAMA (RAKUNELAMA) @ Hyundai Card Und
+ erstage
+LOCATION:Hyundai Card Understage (현대카드 언더스테이지)
+DESCRIPTION:Lineup: RAKUNELAMA\n라인업: 라쿠네라마\nPrice: ₩55\,
+ 000\nTickets via Melon Ticket from 23 Nov\, 18:00\; Hyundai Card holders 
+ get 10% off (₩49\,500)\, max 2 tickets.\nSource: https://www.instagram.
+ com/p/Df90j8cIBth/\nListed by b1.shows. Always check the original post be
+ fore you go.
+URL:https://www.instagram.com/p/Df90j8cIBth/
+END:VEVENT
+BEGIN:VEVENT
 UID:2b5257bdfefa@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261212T200000
 DTEND;TZID=Asia/Seoul:20261212T230000
-SUMMARY:Marshall Live from 월하정인 (Moonlit Lovers) (OYSTERS\, BABO\,
-  Being 可愛い\, SUNUG +more) @ Morene Sukha
+SUMMARY:Marshall Live from 월하정인 (OYSTERS\, BABO\, Being 可愛い\
+ , SUNUG +more) @ Morene Sukha
 LOCATION:Morene Sukha (모래내 극락)
 DESCRIPTION:Lineup: OYSTERS\, BABO\, Being 可愛い\, SUNUG\, SONG YOUNGN
- AM\, DJ HALAPINO\nDoors: 19:00\nPrice: Advance 50\,000 KRW\nLive set time
- s: OYSTERS 20:00\, BABO 21:00. Being 可愛い DJ party from 21:45 (SUNUG
- \, SONG YOUNGNAM\, DJ HALAPINO)\, free entry. Standing\, unreserved\, fir
- st-come entry. Tickets open 2026-11-23 8PM via the Linktree in the profil
- e\; no door sales if sold out. Minors only with a guardian\, ID check\; 1
-  drink per person required. Music cafe and Marshall studio open from 18:0
- 0\, free entry.\nSource: https://www.instagram.com/p/DgBy7LOo8en/\nListed
-  by b1.shows. Always check the original post before you go.
+ AM\, DJ HALAPINO\n라인업: 오이스터즈\, 바보\nDoors: 19:00\nPric
+ e: ₩50\,000\nLive show ticket sales open 23 Nov\, 8PM\, via link in bio
+ \; standing\, no door sales. Minors need guardian\; ID check\; one drink 
+ required.\nSource: https://www.instagram.com/p/DgBy7LOo8en/\nListed by b1
+ .shows. Always check the original post before you go.
 URL:https://www.instagram.com/p/DgBy7LOo8en/
 END:VEVENT
 BEGIN:VEVENT
 UID:5d16f128ffa8@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-SUMMARY:VERY FIRST LAST MONTH EVER (FIND THE SPOT\, SUTEGORO\, HUQUEYMSAW\
- , DUSTPAN (JPN) +more) @ Club SHARP
+SUMMARY:Very First Last Month Ever (Find the Spot\, Sutegoro\, Huqueymsaw\
+ , Dustpan (JPN) +more) @ Club SHARP
 LOCATION:Club SHARP (클럽 샤프)
-DESCRIPTION:Lineup: FIND THE SPOT\, SUTEGORO\, HUQUEYMSAW\, DUSTPAN (JPN)\
- , TONEDEAF (JPN)\n라인업: FIND THE SPOT\, SUTEGORO\, 흑염소\, DUSTP
- AN\, TONEDEAF\nPrice: Advance 30\,000 / Door 35\,000 KRW\nShow time diffe
- rs from the other dates\; check the day-of poster. Advance booking for th
- is date requires filling out a form via the link on the behindthetongue a
- ccount.\nSource: https://www.instagram.com/p/DfT2uaZP2GM/\nSource: https:
- //www.instagram.com/p/De8Xei5sU29/\nListed by b1.shows. Always check the 
- original post before you go.
+DESCRIPTION:Lineup: Find the Spot\, Sutegoro\, Huqueymsaw\, Dustpan (JPN)\
+ , Tonedeaf (JPN)\n라인업: 흑염소\nPrice: Adv ₩30k / Door ₩35k\n
+ Advance via the form link on the behindthetongue account. Show time diffe
+ rs\; check that day's poster.\nSource: https://www.instagram.com/p/DfT2ua
+ ZP2GM/\nSource: https://www.instagram.com/p/De8Xei5sU29/\nListed by b1.sh
+ ows. Always check the original post before you go.
 URL:https://www.instagram.com/p/DfT2uaZP2GM/
 END:VEVENT
 BEGIN:VEVENT
-UID:521c23c45257@b1.shows
-DTSTAMP:20261123T214935Z
-DTSTART;TZID=Asia/Seoul:20261213T160000
-DTEND;TZID=Asia/Seoul:20261213T190000
-SUMMARY:Marshall Live from 월하정인 - Acoustic set (Sagong) @ Morene S
- ukha
-LOCATION:Morene Sukha (모래내 극락)
-DESCRIPTION:Lineup: Sagong\n라인업: 사공\nPrice: Free\nFree-admission
-  acoustic performance. Music cafe Jeongbun and Marshall experience studio
-  open from 15:00\, also free.\nSource: https://www.instagram.com/p/DgCb_C
- Uo99w/\nListed by b1.shows. Always check the original post before you go.
-URL:https://www.instagram.com/p/DgCb_CUo99w/
-END:VEVENT
-BEGIN:VEVENT
 UID:49bc543115cd@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261213T170000
 DTEND;TZID=Asia/Seoul:20261213T200000
-SUMMARY:Chanmin EP Release Solo Concert: 呼吸法 (Breathing Method) (Cha
- nmin) @ KT&G Sangsangmadang Live Hall
+SUMMARY:Chanmin Solo Concert: Breathing Method (呼吸法) (Chanmin) @ KT&
+ G Sangsangmadang Live Hall
 LOCATION:KT&G Sangsangmadang Live Hall (KT&G 상상마당 라이브홀)
-DESCRIPTION:Lineup: Chanmin\n라인업: 찬민\nPrice: 66\,000 KRW (all re
- served seating)\nTickets open 2026-11-16 (Mon) 7PM exclusively on Melon T
- icket. Venue inquiries: 02-2014-2021. Hongdae\, Seoul.\nSource: https://w
- ww.instagram.com/p/DfgUP6SiQ9A/\nListed by b1.shows. Always check the ori
- ginal post before you go.
+DESCRIPTION:Lineup: Chanmin\n라인업: 찬민\nPrice: ₩66\,000\nReserve
+ d seating. Tickets on Melon Ticket only\, opening 16 Nov at 19:00.\nSourc
+ e: https://www.instagram.com/p/DfgUP6SiQ9A/\nListed by b1.shows. Always c
+ heck the original post before you go.
 URL:https://www.instagram.com/p/DfgUP6SiQ9A/
 END:VEVENT
 BEGIN:VEVENT
 UID:3e6698a79302@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261213T180000
 DTEND;TZID=Asia/Seoul:20261213T210000
-SUMMARY:Marshall Live from 월하정인 (Moonlit Lovers) (Cadejo\, Maibai)
-  @ Morene Sukha
+SUMMARY:Marshall Live from 월하정인 (Moonlit Lovers) (Sagong\, Cadejo\
+ , Maibai) @ Morene Sukha
 LOCATION:Morene Sukha (모래내 극락)
-DESCRIPTION:Lineup: Cadejo\, Maibai\n라인업: 까데호\, 마이바이\n
- Doors: 17:00\nPrice: Advance 40\,000 KRW\nPart of Morene Sukha's year-end
-  series (3rd season). Tickets open 2026-11-23 8PM via Linktree in profile
-  bio. Unreserved standing\, first come first served. No door sales if sol
- d out. Minors only with guardian\; ID check for all. One drink per person
-  required. Cadejo at 18:00\, Maibai at 19:00. Also: DJ party\, hula dance
-  party\, food pop-up\, and 2027 New Year countdown listed in the program.
- \nSource: https://www.instagram.com/p/DgCb_CUo99w/\nListed by b1.shows. A
- lways check the original post before you go.
+DESCRIPTION:Lineup: Sagong\, Cadejo\, Maibai\n라인업: 사공\, 까데
+ 호\, 마이바이\nDoors: 17:00\nPrice: ₩40\,000\nTickets open 23 Nov 
+ 8PM via profile linktree\; standing\, no door sales if sold out. Sagong's
+  free acoustic set is at 16:00. Minors need a guardian\; ID check.\nSourc
+ e: https://www.instagram.com/p/DgCb_CUo99w/\nListed by b1.shows. Always c
+ heck the original post before you go.
 URL:https://www.instagram.com/p/DgCb_CUo99w/
 END:VEVENT
 BEGIN:VEVENT
 UID:b8405b49f6ca@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261218T200000
 DTEND;TZID=Asia/Seoul:20261218T230000
-SUMMARY:Marshall Live from 월하정인 (月下情人) (KimOki & Mad Clown
-  feat. Wonstein) @ Morene Sukha
+SUMMARY:Marshall Live from 월하정인 (Moonlit Lovers) (KimOki\, Mad Clo
+ wn\, Wonstein) @ Morene Sukha
 LOCATION:Morene Sukha (모래내 극락)
-DESCRIPTION:Lineup: KimOki & Mad Clown feat. Wonstein\n라인업: 김오
- 키 & 매드클라운 feat. 원슈타인\nDoors: 19:00\nPrice: Advance 65
- \,000 KRW\nUnreserved standing\, first come first served. No door sales i
- f sold out. Minors only with guardian\; ID check. One drink per person re
- quired. Ticket sales open 2026-11-27 20:00. Part of the Morene Sukha year
- -end series.\nSource: https://www.instagram.com/p/DgEZULgo8gs/\nListed by
-  b1.shows. Always check the original post before you go.
+DESCRIPTION:Lineup: KimOki\, Mad Clown\, Wonstein\n라인업: 김오키\, 
+ 매드클라운\, 원슈타인\nDoors: 19:00\nPrice: ₩65\,000\nTickets 
+ open 27 Nov\, 8PM\, via profile link. Standing\, first come. No door sale
+ s if sold out. Minors only with guardian\; ID check.\nSource: https://www
+ .instagram.com/p/DgEZULgo8gs/\nListed by b1.shows. Always check the origi
+ nal post before you go.
 URL:https://www.instagram.com/p/DgEZULgo8gs/
 END:VEVENT
 BEGIN:VEVENT
 UID:dde54dbdb3ed@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261218T212000
 DTEND;TZID=Asia/Seoul:20261219T002000
-SUMMARY:Disco Surf Party (Marshall Live from 월하정인) (DJ Jinwook\, C
- himan) @ Morene Sukha
+SUMMARY:Disco Surf Party (DJ Jinwook\, Chiman) @ Morene Sukha
 LOCATION:Morene Sukha (모래내 극락)
-DESCRIPTION:Lineup: DJ Jinwook\, Chiman\nPrice: Free\nFree entry to the Di
- sco Surf Party after the live show.\nSource: https://www.instagram.com/p/
- DgEZULgo8gs/\nListed by b1.shows. Always check the original post before y
- ou go.
+DESCRIPTION:Lineup: DJ Jinwook\, Chiman\nPrice: Free\nFree entry after the
+  live show\, part of the Moonlit Lovers year-end series.\nSource: https:/
+ /www.instagram.com/p/DgEZULgo8gs/\nListed by b1.shows. Always check the o
+ riginal post before you go.
 URL:https://www.instagram.com/p/DgEZULgo8gs/
 END:VEVENT
 BEGIN:VEVENT
 UID:d121be13def4@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261219T170000
 DTEND;TZID=Asia/Seoul:20261219T200000
-SUMMARY:Chun Jinwoo and the Vomit Inducers Year-End Solo Concert: Christma
- s\, I'm Sorry (Chun Jinwoo and the Vomit Inducers\, Cheon Jinwoo and the 
- Gutoyubaljadeul) @ Rolling Hall
+SUMMARY:Cheon Jinwoo and Gutoyubaljadeul Year-End Solo Show: Christmas\, I
+ 'm Sorry (Cheon Jinwoo and Gutoyubaljadeul\, Cheon Jinwoo and the Vomit I
+ nducers) @ Rolling Hall
 LOCATION:Rolling Hall (롤링홀)
-DESCRIPTION:Lineup: Chun Jinwoo and the Vomit Inducers\, Cheon Jinwoo and 
- the Gutoyubaljadeul\n라인업: 천진우와 구토유발자들\nPrice: A
- dvance 66\,000 KRW / Door 77\,000 KRW\nTickets on sale via Melon Ticket f
- rom 2026-11-20 20:00. Age 7+ (with guardian). Standing. Capacity 100 on p
- oster's first-seat note unclear.\nTickets: http://ticket.melon.com\nSourc
- e: https://www.instagram.com/p/DfyV36gFuTE/\nSource: https://www.instagra
- m.com/reel/Df8u4Xno0H9/\nListed by b1.shows. Always check the original po
- st before you go.
-URL:https://www.instagram.com/p/DfyV36gFuTE/
+DESCRIPTION:Lineup: Cheon Jinwoo and Gutoyubaljadeul\, Cheon Jinwoo and th
+ e Vomit Inducers\n라인업: 천진우와 구토유발자들\nPrice: Adv 
+ ₩66\,000 / Door ₩77\,000\nTickets open 20 Nov at 8 PM on Melon Ticket
+ . Standing\, ages 7+\, about 100 minutes.\nTickets: https://buly.kr/2JrKh
+ VY\nSource: https://www.instagram.com/reel/Df8u4Xno0H9/\nSource: https://
+ www.instagram.com/p/DfyV36gFuTE/\nListed by b1.shows. Always check the or
+ iginal post before you go.
+URL:https://www.instagram.com/reel/Df8u4Xno0H9/
 END:VEVENT
 BEGIN:VEVENT
 UID:a1aeb698a690@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261219T180000
 DTEND;TZID=Asia/Seoul:20261219T210000
-SUMMARY:VERY FIRST LAST MONTH EVER (NAHU\, SLANT\, PALECISTUS\, NO SHELTER
+SUMMARY:Very First Last Month Ever (Nahu\, Slant\, Palecistus\, No Shelter
   +more) @ Club SHARP
 LOCATION:Club SHARP (클럽 샤프)
-DESCRIPTION:Lineup: NAHU\, SLANT\, PALECISTUS\, NO SHELTER\, WWA (World Wr
- estling Association)\n라인업: NAHU\, SLANT\, PALECISTUS\, NO SHELTER\,
-  WWA\nDoors: 17:30\nPrice: Advance 30\,000 / Door 35\,000 KRW\nAdvance bo
- oking by bank transfer to Woori Bank 1002 062 004400 (유진석)\, deadli
- ne Dec 4 23:59. No refunds.\nSource: https://www.instagram.com/p/DfT2uaZP
- 2GM/\nSource: https://www.instagram.com/p/De8Xei5sU29/\nListed by b1.show
- s. Always check the original post before you go.
+DESCRIPTION:Lineup: Nahu\, Slant\, Palecistus\, No Shelter\, WWA (World Wr
+ estling Association)\nDoors: 17:30\nPrice: Adv ₩30k / Door ₩35k\nAdva
+ nce by bank transfer to Woori Bank by 4 Dec 23:59\; no refunds. Say your 
+ name at the door.\nSource: https://www.instagram.com/p/DfT2uaZP2GM/\nSour
+ ce: https://www.instagram.com/p/De8Xei5sU29/\nListed by b1.shows. Always 
+ check the original post before you go.
 URL:https://www.instagram.com/p/DfT2uaZP2GM/
 END:VEVENT
 BEGIN:VEVENT
 UID:49c2ba07025a@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261219T200000
 DTEND;TZID=Asia/Seoul:20261219T230000
-SUMMARY:Marshall Live from 월하정인 (Moonlit Lovers) - Live show (Omar
-  and the Eastern Power) @ Morene Sukha
+SUMMARY:Marshall Live from 월하정인 (Moonlit Lovers) (Omar and the Eas
+ tern Power\, Huladang\, NAUN\, SUN) @ Morene Sukha
 LOCATION:Morene Sukha (모래내 극락)
-DESCRIPTION:Lineup: Omar and the Eastern Power\n라인업: 오마르와 
- 동방전력\nDoors: 19:00\nPrice: Advance 30\,000 / Door 35\,000 KRW\nPa
- rt of the Sagarenae Sukha year-end series. Unreserved standing\, first-co
- me entry. No door sales if advance sells out. Minors only with guardian\;
-  ID check. One drink per person required. Tickets open 2026-11-27 8PM via
-  Linktree on profile. A hula dance party (Huladang) follows at 21:00 (tic
- ket 11\,000 KRW).\nSource: https://www.instagram.com/p/DgFBbFoo3RS/\nList
- ed by b1.shows. Always check the original post before you go.
-URL:https://www.instagram.com/p/DgFBbFoo3RS/
-END:VEVENT
-BEGIN:VEVENT
-UID:caa8c5c2dc74@b1.shows
-DTSTAMP:20261123T214935Z
-DTSTART;TZID=Asia/Seoul:20261219T220000
-DTEND;TZID=Asia/Seoul:20261220T010000
-SUMMARY:Marshall Live from 월하정인 - DJ Party (NAUN\, SUN) @ Morene S
- ukha
-LOCATION:Morene Sukha (모래내 극락)
-DESCRIPTION:Lineup: NAUN\, SUN\n라인업: NAUN\, SUN\nPrice: Free\nDJ par
- ty after the live show and hula party\; free entry.\nSource: https://www.
- instagram.com/p/DgFBbFoo3RS/\nListed by b1.shows. Always check the origin
- al post before you go.
+DESCRIPTION:Lineup: Omar and the Eastern Power\, Huladang\, NAUN\, SUN\n
+ 라인업: 오마르와 동방전력\, 훌라당\, NAUN\, SUN\nDoors: 19:
+ 00\nPrice: Adv ₩30\,000 / Door ₩35\,000\nTickets open 27 Nov 8PM via 
+ profile Linktree. Hula party ₩11\,000 extra\; DJ party free. Minors nee
+ d guardian and ID.\nSource: https://www.instagram.com/p/DgFBbFoo3RS/\nLis
+ ted by b1.shows. Always check the original post before you go.
 URL:https://www.instagram.com/p/DgFBbFoo3RS/
 END:VEVENT
 BEGIN:VEVENT
 UID:e2b7bf3d6100@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261220T180000
 DTEND;TZID=Asia/Seoul:20261220T210000
-SUMMARY:Sangsang and the Numbers (9 and the Numbers year-end concert) (9 a
- nd the Numbers) @ KT&G Sangsangmadang Live Hall
+SUMMARY:Sangsang and the Numbers (9 and the Numbers) @ KT&G Sangsangmadang
+  Live Hall
 LOCATION:KT&G Sangsangmadang Live Hall (KT&G 상상마당 라이브홀)
-DESCRIPTION:Lineup: 9 and the Numbers\n라인업: 9와 숫자들\nPrice: G
- eneral 69\,000 / Student & exam-taker 55\,000 / Door 77\,000 KRW\nAll res
- erved seating. Tickets open 2026-11-17 19:00 exclusively on Melon Ticket.
-  Inquiries: 02-2014-2021.\nSource: https://www.instagram.com/p/DfoClquFC3
- W/\nListed by b1.shows. Always check the original post before you go.
+DESCRIPTION:Lineup: 9 and the Numbers\n라인업: 9와 숫자들\nPrice: 
+ ₩69\,000\nTickets on Melon Ticket from 17 Nov 7PM\; reserved seating. S
+ tudent ₩55\,000\, door ₩77\,000.\nSource: https://www.instagram.com/p
+ /DfoClquFC3W/\nListed by b1.shows. Always check the original post before 
+ you go.
 URL:https://www.instagram.com/p/DfoClquFC3W/
 END:VEVENT
 BEGIN:VEVENT
 UID:7fc40fa6f359@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261224T200000
 DTEND;TZID=Asia/Seoul:20261224T230000
-SUMMARY:2026 JINHO <JIN-GLE PARTY> (Jinho's Christmas Party!) (Jinho (Pent
- agon)\, Jinho) @ Rolling Hall
+SUMMARY:2026 JINHO <JIN-GLE PARTY> (Jinho (PENTAGON)\, Jinho) @ Rolling Ha
+ ll
 LOCATION:Rolling Hall (롤링홀)
-DESCRIPTION:Lineup: Jinho (Pentagon)\, Jinho\n라인업: 진호 (펜타곤
- )\, 진호\nPrice: 99\,000 KRW\nVIP access only per poster. Tickets on Me
- lon Ticket\, opened 2026-11-03 at 20:00.\nTickets: https://url.kr/ayyp1y\
- nSource: https://www.instagram.com/reel/DfQ3b7CjP4L/\nSource: https://www
- .instagram.com/p/DfD_kMSjx1X/\nListed by b1.shows. Always check the origi
- nal post before you go.
+DESCRIPTION:Lineup: Jinho (PENTAGON)\, Jinho\n라인업: 진호 (펜타곤
+ )\, 진호\nPrice: ₩99\,000\nTickets on Melon Ticket\; poster says VIP 
+ access only.\nTickets: https://url.kr/ayyp1y\nSource: https://www.instagr
+ am.com/reel/DfQ3b7CjP4L/\nSource: https://www.instagram.com/p/DfD_kMSjx1X
+ /\nListed by b1.shows. Always check the original post before you go.
 URL:https://www.instagram.com/reel/DfQ3b7CjP4L/
 END:VEVENT
 BEGIN:VEVENT
 UID:167ad0ac4175@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261225T170000
 DTEND;TZID=Asia/Seoul:20261225T200000
-SUMMARY:2026 JINHO <JIN-GLE PARTY> (Jinho's Christmas Party!) (Jinho (Pent
- agon)\, Jinho) @ Rolling Hall
+SUMMARY:2026 JINHO <JIN-GLE PARTY> (Jinho (PENTAGON)\, Jinho) @ Rolling Ha
+ ll
 LOCATION:Rolling Hall (롤링홀)
-DESCRIPTION:Lineup: Jinho (Pentagon)\, Jinho\n라인업: 진호 (펜타곤
- )\, 진호\nPrice: 99\,000 KRW\nVIP access only per poster. Tickets on Me
- lon Ticket\, opened 2026-11-03 at 20:00.\nTickets: https://url.kr/ayyp1y\
- nSource: https://www.instagram.com/reel/DfQ3b7CjP4L/\nSource: https://www
- .instagram.com/p/DfD_kMSjx1X/\nListed by b1.shows. Always check the origi
- nal post before you go.
+DESCRIPTION:Lineup: Jinho (PENTAGON)\, Jinho\n라인업: 진호 (펜타곤
+ )\, 진호\nPrice: ₩99\,000\nTickets on Melon Ticket\; poster says VIP 
+ access only.\nTickets: https://url.kr/ayyp1y\nSource: https://www.instagr
+ am.com/reel/DfQ3b7CjP4L/\nSource: https://www.instagram.com/p/DfD_kMSjx1X
+ /\nListed by b1.shows. Always check the original post before you go.
 URL:https://www.instagram.com/reel/DfQ3b7CjP4L/
 END:VEVENT
 BEGIN:VEVENT
 UID:01e81369f4b9@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261226T180000
 DTEND;TZID=Asia/Seoul:20261226T210000
-SUMMARY:Dive Or Die (Green Flame Boys (Chorokbulkkot Sonyeondan)\, Green F
- ire Boys) @ Rolling Hall
+SUMMARY:Dive Or Die (Green Flame Boys\, Green Flame Boys (Chorok Bulkkot S
+ onyeondan)) @ Rolling Hall
 LOCATION:Rolling Hall (롤링홀)
-DESCRIPTION:Lineup: Green Flame Boys (Chorokbulkkot Sonyeondan)\, Green Fi
- re Boys\n라인업: 초록불꽃소년단\nPrice: Advance 55\,000 / Door 
- 66\,000 KRW\nYear-end solo concert. Tickets via Melon Ticket\, opening at
-  8 PM on post date.\nTickets: https://buly.kr/7FUTWlW\nSource: https://ww
- w.instagram.com/reel/Dfi5AIfCF2r/\nSource: https://www.instagram.com/p/Df
- Q3icpDRLj/\nListed by b1.shows. Always check the original post before you
-  go.
+DESCRIPTION:Lineup: Green Flame Boys\, Green Flame Boys (Chorok Bulkkot So
+ nyeondan)\n라인업: 초록불꽃소년단\nPrice: Adv ₩55k / Door ₩
+ 66k\nTickets open 10 Nov at 8 PM on Melon Ticket.\nTickets: https://buly.
+ kr/7FUTWlW\nSource: https://www.instagram.com/reel/Dfi5AIfCF2r/\nSource: 
+ https://www.instagram.com/p/DfQ3icpDRLj/\nListed by b1.shows. Always chec
+ k the original post before you go.
 URL:https://www.instagram.com/reel/Dfi5AIfCF2r/
 END:VEVENT
 BEGIN:VEVENT
 UID:ec4fd4db620a@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261227T170000
 DTEND;TZID=Asia/Seoul:20261227T200000
 SUMMARY:Lee Byung-chan Year-End Solo Concert: Rollinghall Stage (Lee Byung
  -chan) @ Rolling Hall
 LOCATION:Rolling Hall (롤링홀)
-DESCRIPTION:Lineup: Lee Byung-chan\n라인업: 이병찬\nPrice: 110\,000 
- KRW\nTickets on sale via Melon Ticket from 2026-11-26 20:00 KST.\nTickets
- : ticket.melon.com\nSource: https://www.instagram.com/p/DgEXU4SBtps/\nLis
- ted by b1.shows. Always check the original post before you go.
+DESCRIPTION:Lineup: Lee Byung-chan\n라인업: 이병찬\nPrice: ₩110\,0
+ 00\nTickets via Melon Ticket\; booking opens 26 Nov at 20:00.\nTickets: t
+ icket.melon.com\nSource: https://www.instagram.com/p/DgEXU4SBtps/\nListed
+  by b1.shows. Always check the original post before you go.
 URL:https://www.instagram.com/p/DgEXU4SBtps/
 END:VEVENT
 BEGIN:VEVENT
 UID:a26e8e75b7a1@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261227T180000
 DTEND;TZID=Asia/Seoul:20261227T210000
-SUMMARY:VERY FIRST LAST MONTH EVER (BURNING HEPBURN\, ROW BROTHERS\, KILBA
- DAK\, SKASUCKS +more) @ Club SHARP
+SUMMARY:Very First Last Month Ever (Burning Hepburn\, Row Brothers\, Kilba
+ dak\, Skasucks) @ Club SHARP
 LOCATION:Club SHARP (클럽 샤프)
-DESCRIPTION:Lineup: BURNING HEPBURN\, ROW BROTHERS\, KILBADAK\, SKASUCKS\,
-  +1 MORE BADASS\n라인업: BURNING HEPBURN\, ROW BROTHERS\, 길바닥\, 
- SKASUCKS\, +1 MORE BADASS\nDoors: 17:30\nPrice: Advance 30\,000 / Door 35
- \,000 KRW\nFinal show of the last month at the venue. Advance booking by 
- bank transfer to Woori Bank 1002 062 004400 (유진석)\, deadline Dec 4 
- 23:59. No refunds.\nSource: https://www.instagram.com/p/DfT2uaZP2GM/\nSou
- rce: https://www.instagram.com/p/De8Xei5sU29/\nListed by b1.shows. Always
-  check the original post before you go.
+DESCRIPTION:Lineup: Burning Hepburn\, Row Brothers\, Kilbadak\, Skasucks\n
+ 라인업: 길바닥\nDoors: 17:30\nPrice: Adv ₩30k / Door ₩35k\nOne 
+ more band to be announced. Advance by bank transfer by 4 Dec 23:59\; no r
+ efunds. Final show\, no capacity limit.\nSource: https://www.instagram.co
+ m/p/DfT2uaZP2GM/\nSource: https://www.instagram.com/p/De8Xei5sU29/\nListe
+ d by b1.shows. Always check the original post before you go.
 URL:https://www.instagram.com/p/DfT2uaZP2GM/
 END:VEVENT
 BEGIN:VEVENT
 UID:07b0c66afb89@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261227T180000
 DTEND;TZID=Asia/Seoul:20261227T210000
-SUMMARY:2026 Oh Ji-eun Year-End Concert <Winter Light> (Oh Ji-eun) @ KT&G 
- Sangsangmadang Live Hall
+SUMMARY:Oh Ji-eun Year-End Concert: Winter Light (Oh Ji-eun) @ KT&G Sangsa
+ ngmadang Live Hall
 LOCATION:KT&G Sangsangmadang Live Hall (KT&G 상상마당 라이브홀)
-DESCRIPTION:Lineup: Oh Ji-eun\n라인업: 오지은\nPrice: 77\,000 KRW (a
- ll reserved seating)\nTickets open 2026-11-27 (Fri) 18:00 exclusively on 
- Melon Ticket. Reserved seating. Inquiries: 02-2014-2021. Marks 20 years s
- ince her first album.\nSource: https://www.instagram.com/p/DgEXUzuD_ww/\n
- Listed by b1.shows. Always check the original post before you go.
+DESCRIPTION:Lineup: Oh Ji-eun\n라인업: 오지은\nPrice: ₩77\,000\nRe
+ served seating. Tickets open 27 Nov 6PM exclusively on Melon Ticket.\nSou
+ rce: https://www.instagram.com/p/DgEXUzuD_ww/\nListed by b1.shows. Always
+  check the original post before you go.
 URL:https://www.instagram.com/p/DgEXUzuD_ww/
 END:VEVENT
 BEGIN:VEVENT
 UID:f47d485a5bdd@b1.shows
-DTSTAMP:20261123T214935Z
+DTSTAMP:20261123T233531Z
 DTSTART;TZID=Asia/Seoul:20261231T200000
 DTEND;TZID=Asia/Seoul:20261231T230000
 SUMMARY:Nilo Year End Solo Concert 'Our Season : Stay' (Nilo) @ Rolling Ha
  ll
 LOCATION:Rolling Hall (롤링홀)
-DESCRIPTION:Lineup: Nilo\n라인업: 닐로\nPrice: 66\,000 KRW\nTickets o
- n Melon Ticket\, booking opens 2026-11-16 20:00 KST.\nTickets: ticket.mel
- on.com\nSource: https://www.instagram.com/p/DfgUQY_kZhM/\nSource: https:/
- /www.instagram.com/reel/DfyV0nyjQcz/\nListed by b1.shows. Always check th
- e original post before you go.
-URL:https://www.instagram.com/p/DfgUQY_kZhM/
+DESCRIPTION:Lineup: Nilo\n라인업: 닐로\nPrice: ₩60\,000\nTickets vi
+ a Melon Ticket\; sales open 8 PM on 16 Nov.\nTickets: https://buly.kr/APy
+ ANyh\nSource: https://www.instagram.com/reel/DfyV0nyjQcz/\nSource: https:
+ //www.instagram.com/p/DfgUQY_kZhM/\nListed by b1.shows. Always check the 
+ original post before you go.
+URL:https://www.instagram.com/reel/DfyV0nyjQcz/
 END:VEVENT
 END:VCALENDAR

@@ -116,6 +116,11 @@ venues:
     area: Itaewon
     aliases: [Skunk Itaewon, 스컹크]
 
+  - handle: lily_music_studio     # singer-songwriter shows; set the area once you know it
+    name: Lily Music Studio
+    area: ""
+    aliases: [릴리 뮤직 스튜디오, 릴리뮤직스튜디오, Lily Music]
+
   # --- Euljiro / central ---
   - handle: acs.kr
     name: ACS

@@ -9,6 +9,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+<script data-goatcounter="https://b1shows.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 <style>
   :root {
     --paper: #0e0d0c;      /* page */
@@ -132,6 +133,11 @@
     <h3>How this works</h3>
     <p>Each morning a script checks the public Instagram posts of the venues, bands and promoters on our list. Claude reads the captions and Korean posters and pulls out the date, time, venue, lineup and price. Duplicate posts about the same show get merged.</p>
     <p>It gets things wrong sometimes, so always tap through to the original post before you head out. Shows marked <span class="unsure">check post</span> were harder to read.</p>
+    <div id="tip" hidden>
+      <h3>Keep b1.shows running</h3>
+      <p>b1.shows is free, ad-free and run by one person. Reading the posters every day costs a little each month. If it helped you find a good night out, you can chip in.</p>
+      <div class="sub"><a id="tip-link" href="#" target="_blank" rel="noopener">Buy me a beer</a></div>
+    </div>
     <p id="suggest" hidden>Know a venue or band we're missing? <a id="suggest-link" href="#" target="_blank" rel="noopener">Suggest it here</a>.</p>
     <p class="small" id="gen"></p>
   </footer>
@@ -141,6 +147,8 @@
 (() => {
   // Optional: link for "suggest a venue" (e.g. your repo's new-issue URL or a Google Form)
   const SUGGEST_URL = "";
+  // Tip jar: paste your Buy Me a Coffee / Ko-fi / Toss link here to show the section
+  const TIP_URL = "";
   const DATA_URL = "events.json";
   const DAY = 864e5;
 
@@ -155,6 +163,14 @@
     return n;
   };
   const safeUrl = (u) => (typeof u === "string" && /^https?:\/\//i.test(u) ? u : null);
+  // GoatCounter click events, e.g. "post/Club FF". Shows up under the site's events.
+  const track = (kind, label) => {
+    try {
+      if (window.goatcounter && window.goatcounter.count)
+        window.goatcounter.count({ path: kind + "/" + (label || "-"), title: kind, event: true });
+    } catch (_) {}
+  };
+  const tracked = (node, kind, label) => { node.addEventListener("click", () => track(kind, label)); return node; };
 
   // "Today" in Seoul regardless of the viewer's phone timezone
   const seoulToday = () => new Date(new Date().toLocaleString("en-US", { timeZone: "Asia/Seoul" }));
@@ -265,13 +281,14 @@
 
     const actions = el("div", { class: "actions" });
     const post = safeUrl(e.sources?.[0]?.url);
-    if (post) actions.append(el("a", { class: "primary", href: post, target: "_blank", rel: "noopener", text: "Post ↗" }));
+    if (post) actions.append(tracked(el("a", { class: "primary", href: post, target: "_blank", rel: "noopener", text: "Post ↗" }), "post", e.venue));
     const tix = safeUrl(e.ticket_url);
-    if (tix) actions.append(el("a", { href: tix, target: "_blank", rel: "noopener", text: "Tickets" }));
+    if (tix) actions.append(tracked(el("a", { href: tix, target: "_blank", rel: "noopener", text: "Tickets" }), "tickets", e.venue));
     const mapQ = e.venue_ko || e.venue;
-    actions.append(el("a", { href: "https://map.naver.com/p/search/" + encodeURIComponent(mapQ), target: "_blank", rel: "noopener", text: "Map" }));
+    actions.append(tracked(el("a", { href: "https://map.naver.com/p/search/" + encodeURIComponent(mapQ), target: "_blank", rel: "noopener", text: "Map" }), "map", e.venue));
     const cal = el("button", { type: "button", text: "+ Calendar" });
     cal.addEventListener("click", () => {
+      track("calendar", e.venue);
       const blob = new Blob([icsFor(e)], { type: "text/calendar" });
       const a = el("a", { href: URL.createObjectURL(blob), download: `gig-${e.date}.ics` });
       document.body.append(a); a.click(); a.remove();
@@ -314,6 +331,10 @@
       $("#sub-google").hidden = true;
     }
     if (SUGGEST_URL) { $("#suggest").hidden = false; $("#suggest-link").href = SUGGEST_URL; }
+    if (safeUrl(TIP_URL)) { $("#tip").hidden = false; $("#tip-link").href = TIP_URL; }
+    tracked($("#tip-link"), "tip", "footer");
+    tracked($("#sub-apple"), "subscribe", "apple");
+    tracked($("#sub-google"), "subscribe", "google");
   }
 
   $("#q").addEventListener("input", (ev) => { state.q = ev.target.value.trim(); render(); });

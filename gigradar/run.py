@@ -49,7 +49,7 @@ def main(argv=None) -> int:
         now = datetime.fromisoformat(os.environ["GIGRADAR_TODAY"]).replace(tzinfo=KST, hour=9)
     now_iso = now.isoformat(timespec="seconds")
     wl = load_watchlist(FIXTURES / "watchlist.yaml" if args.dry_run else None)
-    accounts = {a.handle.lower(): a for a in wl.accounts}
+    accounts = {a.handle.lower(): a for a in wl.accounts if a.fetch}
     venues = VenueIndex(wl.venues)
 
     if args.dry_run:

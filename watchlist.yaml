@@ -116,10 +116,20 @@ venues:
     area: Itaewon
     aliases: [Skunk Itaewon, 스컹크]
 
-  - handle: lily_music_studio     # singer-songwriter shows; set the area once you know it
+  - handle: lily_music_studio     # singer-songwriter shows, Toegye-ro 36ga-gil (B1)
     name: Lily Music Studio
-    area: ""
+    area: Chungmuro
     aliases: [릴리 뮤직 스튜디오, 릴리뮤직스튜디오, Lily Music]
+
+  # Understage doesn't have its own account; its shows are posted by
+  # @hyundaicard_dive (under promoters). fetch: false = this entry is only
+  # used to recognise the venue's name on posters.
+  - handle: understage
+    fetch: false
+    name: Hyundai Card Understage
+    name_ko: 현대카드 언더스테이지
+    area: Itaewon
+    aliases: [Understage, 언더스테이지, 현대카드 언더스테이지, Hyundai Card Music Library, 현대카드 뮤직 라이브러리]
 
   # --- Euljiro / central ---
   - handle: acs.kr
@@ -171,6 +181,11 @@ promoters:
 
   # Live Club Day: the last Friday of each month, one wristband for several
   # Hongdae venues (Prism Hall, Club FF, Veloso, Freebird, Musinsa Garage).
+  # Hyundai Card's culture account: Understage shows, plus lots of
+  # non-music posts that Claude skips (each still costs a little to read).
+  - handle: hyundaicard_dive
+    name: Hyundai Card DIVE
+
   - handle: liveclubday
     name: Live Club Day
 

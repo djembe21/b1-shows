@@ -30,10 +30,11 @@ Rules:
 - One post can list several shows (a monthly schedule, a tour). Record each date/venue as its own event.
 - Times are KST in 24h "HH:MM". Leave a field null rather than guessing.
 - price: SHORT, under 25 characters, e.g. "₩25,000", "Adv ₩25k / Door ₩30k", "Free". Put conditions (drink included, snack fees, discounts) in notes instead.
+- If tickets have a presale for card holders or members (e.g. Hyundai Card), say in notes when general sale opens, e.g. "General sale opens 3 Dec; Hyundai Card members get early access." Only list events open to the public.
 - notes: one short English sentence, under 140 characters, with only what a newcomer needs (how to book, age limit, sold out, cash only). No lineup repeats.
 - lineup: performer names as written in Latin script if the poster has it, otherwise a romanization; put the Hangul in lineup_ko in the same order.
 - venue: the venue name as written; venue_ko for Hangul if shown.
-- genres: up to 3 lowercase tags from: rock, indie, punk, hardcore, metal, folk, jazz, electronic, hip-hop, r&b, pop, experimental, shoegaze, psych, acoustic, dj, other.
+- genres: 1 to 3 lowercase tags, most specific first, chosen ONLY from: rock, punk, hardcore, metal, emo, post-rock, shoegaze, psych, garage, noise, experimental, folk, singer-songwriter, acoustic, city pop, pop, synth-pop, r&b/soul, hip-hop, jazz, funk, blues, reggae, world, electronic, dj. Never use "indie": every show here is indie, so it tells the reader nothing. Use the poster and caption, and what you know about the performers, to pick the most specific fit (e.g. "shoegaze" rather than "rock"). If nothing fits, return an empty list.
 - confidence: 0-1, how sure you are the date and venue are right.
 Always call the record_events tool, with an empty list if the post is not an upcoming show."""
 

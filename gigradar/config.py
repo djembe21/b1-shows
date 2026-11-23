@@ -22,6 +22,7 @@ class Account:
     name_ko: str = ""
     area: str = ""
     aliases: list[str] = field(default_factory=list)
+    fetch: bool = True  # False = only used to recognise the venue on posters
 
 
 @dataclass
@@ -51,6 +52,7 @@ def load_watchlist(path: Path | None = None) -> Watchlist:
                     name_ko=item.get("name_ko", ""),
                     area=item.get("area", ""),
                     aliases=[str(a) for a in item.get("aliases") or []],
+                    fetch=bool(item.get("fetch", True)),
                 )
             )
     settings = raw.get("settings") or {}

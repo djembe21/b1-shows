@@ -69,6 +69,32 @@ def normalize(raw: dict, source_post, source_account: Account, venues: VenueInde
     return ev
 
 
+def title_key(t: str) -> str:
+    """'Live Club Day #85' and 'Live Club Day Vol. 85' -> 'liveclubday85'."""
+    t = (t or "").lower()
+    t = re.sub(r"\b(vol|no)\b\.?", "", t)
+    return re.sub(r"[^0-9a-z가-힣]+", "", t)
+
+
+def _venue_entry(e: dict) -> dict:
+    return {"venue": e.get("venue"), "venue_ko": e.get("venue_ko"), "area": e.get("area"), "handle": e.get("venue_handle")}
+
+
+def _is_placeholder_venue(e: dict) -> bool:
+    v = (e.get("venue") or "").lower()
+    return not e.get("venue_handle") and any(w in v for w in ("multiple", "various", "venues not", "tba"))
+
+
+def _multi_venue(a: dict, b: dict) -> bool:
+    """Same numbered event running across several venues (e.g. Live Club Day)."""
+    if a["date"] != b["date"]:
+        return False
+    ka, kb = title_key(a.get("title") or ""), title_key(b.get("title") or "")
+    short, long_ = sorted((ka, kb), key=len)
+    # equal, or one is the other plus a stage name ("Live Club Day #85 - Track Zero Stage")
+    return len(short) >= 8 and bool(re.search(r"\d", short)) and long_.startswith(short)
+
+
 def _venue_key(e: dict) -> str:
     return e.get("venue_handle") or _slug(e.get("venue_ko") or "") or _slug(e.get("venue") or "")
 
@@ -78,7 +104,7 @@ def _same_show(a: dict, b: dict) -> bool:
         return False
     # Same date + same distinctive title = same show, even when one post
     # didn't name the venue (e.g. a promoter's "Live Club Day #85" post).
-    ta_, tb_ = _slug(a.get("title") or ""), _slug(b.get("title") or "")
+    ta_, tb_ = title_key(a.get("title") or ""), title_key(b.get("title") or "")
     if len(ta_) >= 6 and ta_ == tb_ and (not a.get("venue_handle") or not b.get("venue_handle") or _venue_key(a) == _venue_key(b)):
         return True
     if _venue_key(a) != _venue_key(b):
@@ -93,6 +119,12 @@ def _same_show(a: dict, b: dict) -> bool:
 
 
 def _merge(into: dict, new: dict) -> dict:
+    # Multi-venue events: keep every real venue in `venues`.
+    if _venue_key(into) != _venue_key(new) and _multi_venue(into, new):
+        vs = into.get("venues") or ([] if _is_placeholder_venue(into) else [_venue_entry(into)])
+        if not _is_placeholder_venue(new) and _venue_key(new) not in {v.get("handle") or _slug(v.get("venue_ko") or "") or _slug(v.get("venue") or "") for v in vs}:
+            vs.append(_venue_entry(new))
+        into["venues"] = vs
     # Prefer a venue we know over one we don't.
     if not into.get("venue_handle") and new.get("venue_handle"):
         for k in ("venue", "venue_ko", "venue_handle", "area"):
@@ -125,7 +157,7 @@ def event_id(e: dict) -> str:
 def upsert(events: list[dict], new: dict, now_iso: str) -> str:
     """Merge `new` into the list. Returns 'added' or 'merged'."""
     for e in events:
-        if _same_show(e, new):
+        if _same_show(e, new) or _multi_venue(e, new):
             _merge(e, new)
             e["updated"] = now_iso
             return "merged"
@@ -139,3 +171,17 @@ def upsert(events: list[dict], new: dict, now_iso: str) -> str:
 def prune_past(events: list[dict], today: datetime, keep_days: int = 2) -> list[dict]:
     t = today.date()
     return [e for e in events if (datetime.strptime(e["date"], "%Y-%m-%d").date() - t).days >= -keep_days]
+
+
+def consolidate(events: list[dict]) -> list[dict]:
+    """Re-run the duplicate checks over the whole list, so events stored
+    before a merge rule existed get merged too."""
+    out: list[dict] = []
+    for e in sorted(events, key=lambda x: (x["date"], x.get("first_seen") or "")):
+        for o in out:
+            if _same_show(o, e) or _multi_venue(o, e):
+                _merge(o, e)
+                break
+        else:
+            out.append(e)
+    return out

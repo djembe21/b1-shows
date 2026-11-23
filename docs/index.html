@@ -6,6 +6,15 @@
 <title>b1.shows · indie shows in Korea</title>
 <meta name="description" content="Indie and underground shows in Seoul, in English. Pulled daily from venue, band and promoter Instagram posts.">
 <meta name="theme-color" content="#0e0d0c">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="b1.shows">
+<meta property="og:title" content="b1.shows · indie shows in Korea, in English">
+<meta property="og:description" content="Gigs at Seoul's small venues, pulled daily from venue and band posts. Times, prices, maps and a calendar you can subscribe to.">
+<meta property="og:url" content="https://b1shows.com/">
+<meta property="og:image" content="https://b1shows.com/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="favicon.ico" sizes="any">
 <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -76,7 +85,18 @@
   }
   .day h2 small { font: 22px var(--dot); color: var(--led); text-shadow: 0 0 8px var(--led-glow); letter-spacing: 0.05em; }
 
-  .gig { display: grid; grid-template-columns: 70px 1fr; gap: 0 14px; padding: 14px 0; border-top: 1px dashed var(--line); }
+  .gig { border-top: 1px dashed var(--line); }
+  .gig summary { display: grid; grid-template-columns: 70px 1fr 18px; gap: 0 14px; padding: 14px 0; cursor: pointer; list-style: none; }
+  .gig summary::-webkit-details-marker { display: none; }
+  .gig summary:focus-visible { outline: 2px solid var(--led); outline-offset: 2px; border-radius: 4px; }
+  .chev { color: var(--ink-3); font: 18px/1 var(--dot); padding-top: 4px; transition: transform .15s; }
+  .gig[open] .chev { transform: rotate(180deg); color: var(--led); }
+  .sum-meta { margin-top: 4px; font-size: 14px; color: var(--ink-2); }
+  .sum-meta b { color: var(--ink); font-weight: 650; }
+  .also { margin-top: 4px; font: 17px/1.1 var(--dot); color: var(--led); letter-spacing: .02em; }
+  .more { margin: -4px 0 14px 84px; }
+  .more .meta:first-child { margin-top: 0; }
+  @media (max-width: 360px) { .more { margin-left: 0; } }
   .gig:first-of-type { border-top: 0; }
   .time { font: 26px/1 var(--dot); color: var(--led); padding-top: 1px; }
   .time small { display: block; font-size: 17px; color: var(--ink-3); margin-top: 2px; }
@@ -197,12 +217,15 @@
     return true;
   }
 
+  const areasOf = (e) => [e.area, ...(e.venues || []).map((v) => v.area)].filter(Boolean);
+  const SHORT_PRICE = 26;
+
   function matches(e) {
-    if (state.area && e.area !== state.area) return false;
+    if (state.area && !areasOf(e).includes(state.area)) return false;
     if (state.genre && !(e.genres || []).includes(state.genre)) return false;
     if (!inWindow(e)) return false;
     if (state.q) {
-      const hay = [e.title, e.title_ko, e.venue, e.venue_ko, e.area, ...(e.lineup || []), ...(e.lineup_ko || []), ...(e.genres || [])]
+      const hay = [e.title, e.title_ko, e.venue, e.venue_ko, e.area, ...(e.venues || []).flatMap((v) => [v.venue, v.venue_ko]), ...(e.lineup || []), ...(e.lineup_ko || []), ...(e.genres || [])]
         .filter(Boolean).join(" ").toLowerCase();
       if (!state.q.toLowerCase().split(/\s+/).every((w) => hay.includes(w))) return false;
     }
@@ -219,7 +242,7 @@
     const box = $("#chips"); box.textContent = "";
     for (const [k, label] of [["all", "All dates"], ["week", "Next 7 days"], ["weekend", "This weekend"]])
       box.append(chip(label, state.when === k, () => { state.when = k; render(); }));
-    const areas = [...new Set(state.events.map((e) => e.area).filter(Boolean))].sort();
+    const areas = [...new Set(state.events.flatMap(areasOf))].sort();
     if (areas.length > 1) {
       box.append(el("span", { class: "sep" }));
       for (const a of areas) box.append(chip(a, state.area === a, () => { state.area = state.area === a ? null : a; render(); }));
@@ -275,19 +298,36 @@
     const time = el("div", { class: "time" }, t ? document.createTextNode(t) : el("span", { text: "TBA" }),
       e.start && e.doors && e.doors !== e.start ? el("small", { text: "doors " + e.doors }) : null);
 
-    const lineupLine = e.title && e.lineup?.length ? el("div", { class: "meta", text: e.lineup.join(" · ") }) : null;
-    const ko = [e.title_ko, (e.lineup_ko || []).join(" · ")].filter(Boolean).join(" — ");
+    // --- always visible: what, where, how much
+    const title = el("h3", { class: "title", text: headline(e) });
+    if ((e.confidence ?? 1) < 0.7) title.append(el("span", { class: "unsure", text: "check post" }));
+    const venues = e.venues && e.venues.length > 1 ? e.venues : null;
+    const where = venues ? `${venues[0].venue} + ${venues.length - 1} more` : e.venue;
+    const area = venues ? [...new Set(venues.map((v) => v.area).filter(Boolean))].join(" / ") : e.area;
+    const shortPrice = e.price && e.price.length <= SHORT_PRICE ? e.price : null;
+    const sumMeta = el("div", { class: "sum-meta" }, el("b", { text: where }),
+      document.createTextNode([area, e.city && e.city !== "Seoul" ? e.city : null, shortPrice].filter(Boolean).map((x) => " · " + x).join("")));
+    const also = e.also && e.also.length
+      ? el("div", { class: "also", text: "ALSO " + e.also.map((d) => parseYmd(d).toLocaleDateString("en-GB", { weekday: "short", day: "numeric", month: "short" }).toUpperCase()).join(", ") })
+      : null;
+    const summary = el("summary", {}, time, el("div", {}, title, sumMeta, also), el("span", { class: "chev", "aria-hidden": "true", text: "▾" }));
 
-    const meta = el("div", { class: "meta" }, el("b", { text: e.venue }),
-      document.createTextNode([e.area, e.city && e.city !== "Seoul" ? e.city : null].filter(Boolean).map((x) => " · " + x).join("")),
-      e.price ? document.createTextNode(" · " + e.price) : null);
+    // --- on tap: the rest
+    const more = el("div", { class: "more" });
+    if (e.lineup?.length && (e.title || e.lineup.length > 1)) more.append(el("div", { class: "meta", text: e.lineup.join(" · ") }));
+    const ko = [e.title_ko, (e.lineup_ko || []).join(" · ")].filter(Boolean).join(" — ");
+    if (ko) more.append(el("div", { class: "ko", lang: "ko", text: ko }));
+    if (venues) more.append(el("div", { class: "meta", text: "Venues: " + venues.map((v) => v.venue).join(", ") }));
+    if (e.price && !shortPrice) more.append(el("div", { class: "meta", text: "Price: " + e.price }));
+    if (e.notes) more.append(el("div", { class: "note", text: e.notes }));
+    if (e.genres?.length) more.append(el("div", { class: "genres" }, ...e.genres.map((g) => el("span", { text: g }))));
 
     const actions = el("div", { class: "actions" });
     const post = safeUrl(e.sources?.[0]?.url);
     if (post) actions.append(tracked(el("a", { class: "primary", href: post, target: "_blank", rel: "noopener", text: "Post ↗" }), "post", e.venue));
     const tix = safeUrl(e.ticket_url);
     if (tix) actions.append(tracked(el("a", { href: tix, target: "_blank", rel: "noopener", text: "Tickets" }), "tickets", e.venue));
-    const mapQ = e.venue_ko || e.venue;
+    const mapQ = (venues ? venues[0].venue_ko || venues[0].venue : e.venue_ko || e.venue);
     actions.append(tracked(el("a", { href: "https://map.naver.com/p/search/" + encodeURIComponent(mapQ), target: "_blank", rel: "noopener", text: "Map" }), "map", e.venue));
     const cal = el("button", { type: "button", text: "+ Calendar" });
     cal.addEventListener("click", () => {
@@ -298,21 +338,41 @@
     });
     actions.append(cal);
     if ((e.sources || []).length > 1) actions.append(el("span", { class: "small", text: `${e.sources.length} posts` }));
+    more.append(actions);
 
-    const title = el("h3", { class: "title", text: headline(e) });
-    if ((e.confidence ?? 1) < 0.7) title.append(el("span", { class: "unsure", text: "check post" }));
+    const det = el("details", { class: "gig" }, summary, more);
+    det.addEventListener("toggle", () => { if (det.open) track("open", e.venue); });
+    return det;
+  }
 
-    return el("article", { class: "gig" }, time,
-      el("div", {}, title, lineupLine, ko ? el("div", { class: "ko", lang: "ko", text: ko }) : null, meta,
-        e.notes ? el("div", { class: "note", text: e.notes }) : null,
-        e.genres?.length ? el("div", { class: "genres" }, ...e.genres.map((g) => el("span", { text: g }))) : null,
-        actions));
+  // Recurring shows (same venue + same series name, 3+ dates) collapse into one card.
+  const seriesKey = (e) => (e.venue_handle || e.venue || "") + "|" +
+    (e.title || "").toLowerCase().split(/\s[(\-–]|\s-\s/)[0].replace(/[^0-9a-z가-힣]+/g, "");
+  function collapseSeries(list) {
+    const groups = new Map();
+    for (const e of list) {
+      if (!e.title) continue;
+      const k = seriesKey(e);
+      if (!groups.has(k)) groups.set(k, []);
+      groups.get(k).push(e);
+    }
+    const hide = new Set();
+    const out = [];
+    for (const e of list) {
+      if (hide.has(e)) continue;
+      const g = e.title ? groups.get(seriesKey(e)) : null;
+      if (g && g.length >= 3 && g[0] === e) {
+        g.slice(1).forEach((x) => hide.add(x));
+        out.push({ ...e, also: [...new Set(g.slice(1).map((x) => x.date))].filter((d) => d !== e.date) });
+      } else out.push(e);
+    }
+    return out;
   }
 
   function render() {
     renderChips();
     const list = $("#list"); list.textContent = "";
-    const shown = state.events.filter(matches);
+    const shown = collapseSeries(state.events.filter(matches));
     if (!shown.length) {
       list.append(el("div", { class: "empty", text: state.events.length ? "No shows match those filters." : "No upcoming shows yet. Check back tomorrow." }));
       return;

@@ -112,7 +112,10 @@ def to_ics(events: list[dict], now: datetime) -> str:
                 f"DTSTART;VALUE=DATE:{d:%Y%m%d}",
                 f"DTEND;VALUE=DATE:{d + timedelta(days=1):%Y%m%d}",
             ]
-        loc = e["venue"] + (f" ({e['venue_ko']})" if e.get("venue_ko") else "")
+        if len(e.get("venues") or []) > 1:
+            loc = ", ".join(v["venue"] for v in e["venues"] if v.get("venue"))
+        else:
+            loc = e["venue"] + (f" ({e['venue_ko']})" if e.get("venue_ko") else "")
         lines += [
             f"SUMMARY:{_esc(event_summary(e))}",
             f"LOCATION:{_esc(loc)}",

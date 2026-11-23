@@ -29,7 +29,8 @@ Rules:
 - Posters often omit the year. Use the post date to infer it: choose the nearest date on or after (post date - 7 days).
 - One post can list several shows (a monthly schedule, a tour). Record each date/venue as its own event.
 - Times are KST in 24h "HH:MM". Leave a field null rather than guessing.
-- price: keep the original currency text, e.g. "Advance 25,000 / Door 30,000 KRW". "Free" if free.
+- price: SHORT, under 25 characters, e.g. "₩25,000", "Adv ₩25k / Door ₩30k", "Free". Put conditions (drink included, snack fees, discounts) in notes instead.
+- notes: one short English sentence, under 140 characters, with only what a newcomer needs (how to book, age limit, sold out, cash only). No lineup repeats.
 - lineup: performer names as written in Latin script if the poster has it, otherwise a romanization; put the Hangul in lineup_ko in the same order.
 - venue: the venue name as written; venue_ko for Hangul if shown.
 - genres: up to 3 lowercase tags from: rock, indie, punk, hardcore, metal, folk, jazz, electronic, hip-hop, r&b, pop, experimental, shoegaze, psych, acoustic, dj, other.
@@ -57,10 +58,10 @@ EVENT_TOOL = {
                         "city": {"type": ["string", "null"], "description": "e.g. Seoul, Busan"},
                         "lineup": {"type": "array", "items": {"type": "string"}},
                         "lineup_ko": {"type": "array", "items": {"type": "string"}},
-                        "price": {"type": ["string", "null"]},
+                        "price": {"type": ["string", "null"], "description": "Short, under 25 chars"},
                         "ticket_url": {"type": ["string", "null"]},
                         "genres": {"type": "array", "items": {"type": "string"}},
-                        "notes": {"type": ["string", "null"], "description": "Short English note: age limit, sold out, foreigner booking info, etc."},
+                        "notes": {"type": ["string", "null"], "description": "One short sentence under 140 chars: booking, age limit, sold out, cash only"},
                         "confidence": {"type": "number"},
                     },
                     "required": ["date", "venue", "lineup", "confidence"],

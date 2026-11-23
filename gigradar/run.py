@@ -24,7 +24,7 @@ from .config import DATA_DIR, DOCS_DIR, KST, ROOT, VenueIndex, load_watchlist
 from .extract import is_valid_event
 from .instagram import InstagramClient, InstagramError, Post, filter_new
 from .publish import write_outputs
-from .store import load_json, normalize, prune_past, save_json, upsert
+from .store import consolidate, load_json, normalize, prune_past, save_json, upsert
 
 SEEN_PATH = DATA_DIR / "seen_posts.json"
 EVENTS_PATH = DATA_DIR / "events.json"
@@ -107,7 +107,7 @@ def main(argv=None) -> int:
             seen[post.id] = now_iso
         report["accounts"][handle] = stats
 
-    events = prune_past(events, now)
+    events = consolidate(prune_past(events, now))
     seen = _trim_seen(seen, keep=5000)
     save_json(events_path, events)
     save_json(seen_path, seen)

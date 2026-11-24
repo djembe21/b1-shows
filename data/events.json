@@ -115,6 +115,42 @@
     "updated": "2026-11-24T08:35:31+09:00"
   },
   {
+    "date": "2026-11-25",
+    "doors": null,
+    "start": "21:00",
+    "title": "TDAT",
+    "title_ko": null,
+    "venue": "Subriot",
+    "venue_ko": "서브라이엇 HBC",
+    "venue_handle": "subriot_hbc",
+    "area": "Haebangchon",
+    "city": "Seoul",
+    "lineup": [
+      "TDAT"
+    ],
+    "lineup_ko": [
+      "TDAT"
+    ],
+    "price": "Free",
+    "ticket_url": null,
+    "genres": [
+      "jazz",
+      "funk"
+    ],
+    "notes": "Free entry, pay after the show. Reservations: 010 7454 4005 (English).",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "subriot_hbc",
+        "url": "https://www.instagram.com/p/DgHpXV_zhas/",
+        "posted": "2026-11-24T18:35:30+09:00"
+      }
+    ],
+    "id": "e002bbe22e0e",
+    "first_seen": "2026-11-25T06:54:24+09:00",
+    "updated": "2026-11-25T06:54:24+09:00"
+  },
+  {
     "date": "2026-11-26",
     "doors": "18:30",
     "start": "19:00",
@@ -428,7 +464,7 @@
       "pop"
     ],
     "notes": "Tickets via Melon Ticket (link in @liveclubday profile). Sets at 20:00, 21:00, 22:00.",
-    "confidence": 0.9,
+    "confidence": 0.93,
     "sources": [
       {
         "handle": "liveclubday",
@@ -459,11 +495,21 @@
         "handle": "liveclubday",
         "url": "https://www.instagram.com/p/DgFAvaDm-S4/",
         "posted": "2026-11-23T18:01:59+09:00"
+      },
+      {
+        "handle": "hongdaeff",
+        "url": "https://www.instagram.com/p/DgImdeOkkB4/",
+        "posted": "2026-11-25T03:29:18+09:00"
+      },
+      {
+        "handle": "ssmadang_live",
+        "url": "https://www.instagram.com/p/DgHiAvzDnsH/",
+        "posted": "2026-11-24T17:31:11+09:00"
       }
     ],
     "id": "20a923c3882e",
     "first_seen": "2026-11-24T08:35:31+09:00",
-    "updated": "2026-11-24T08:35:31+09:00",
+    "updated": "2026-11-25T06:54:24+09:00",
     "venues": [
       {
         "venue": "Vel.R",
@@ -1559,6 +1605,81 @@
     "updated": "2026-11-24T08:35:31+09:00"
   },
   {
+    "date": "2026-12-24",
+    "doors": "19:00",
+    "start": "20:00",
+    "title": "Marshall Live from Moonlit Lovers (月下情人)",
+    "title_ko": "Marshall Live from 월하정인",
+    "venue": "Morene Sukha",
+    "venue_ko": "모래내 극락",
+    "venue_handle": "morene__sukha",
+    "area": "West Seoul",
+    "city": "Seoul",
+    "lineup": [
+      "Northfacegawd",
+      "GOLDBUUDA",
+      "J TONG",
+      "OUIDAEHAN",
+      "Quandol"
+    ],
+    "lineup_ko": [
+      "노스페이스갓",
+      "GOLDBUUDA",
+      "J TONG",
+      "OUIDAEHAN",
+      "Quandol"
+    ],
+    "price": "₩30,000",
+    "ticket_url": null,
+    "genres": [
+      "hip-hop",
+      "dj"
+    ],
+    "notes": "Tickets open 27 Nov 8PM via profile linktree; standing, no door sales if sold out. DJ party at 21:20 is free. Minors with guardian only.",
+    "confidence": 0.93,
+    "sources": [
+      {
+        "handle": "morene__sukha",
+        "url": "https://www.instagram.com/p/DgHmKlno8mJ/",
+        "posted": "2026-11-24T18:07:29+09:00"
+      }
+    ],
+    "id": "91a0ba1360e7",
+    "first_seen": "2026-11-25T06:54:24+09:00",
+    "updated": "2026-11-25T06:54:24+09:00"
+  },
+  {
+    "date": "2026-12-24",
+    "doors": null,
+    "start": null,
+    "title": "Christmas Jazz Singer Special",
+    "title_ko": "크리스마스 재즈싱어 스페셜",
+    "venue": "Subriot",
+    "venue_ko": "서브라이엇 HBC",
+    "venue_handle": "subriot_hbc",
+    "area": "Haebangchon",
+    "city": "Seoul",
+    "lineup": [],
+    "lineup_ko": [],
+    "price": null,
+    "ticket_url": null,
+    "genres": [
+      "jazz"
+    ],
+    "notes": "Reservations open 27 Nov 14:00, by text only to 010-8018-5546 for the 'Christmas Special Set'; no Naver booking.",
+    "confidence": 0.7,
+    "sources": [
+      {
+        "handle": "subriot_hbc",
+        "url": "https://www.instagram.com/p/DgH0LoWzqZV/",
+        "posted": "2026-11-24T20:10:00+09:00"
+      }
+    ],
+    "id": "332bfc994315",
+    "first_seen": "2026-11-25T06:54:24+09:00",
+    "updated": "2026-11-25T06:54:24+09:00"
+  },
+  {
     "date": "2026-12-25",
     "doors": null,
     "start": "17:00",
@@ -1599,6 +1720,109 @@
     "id": "167ad0ac4175",
     "first_seen": "2026-11-24T08:35:31+09:00",
     "updated": "2026-11-24T08:35:31+09:00"
+  },
+  {
+    "date": "2026-12-25",
+    "doors": "19:00",
+    "start": "20:00",
+    "title": "Marshall Live from 월하정인 (Moonlit Lovers)",
+    "title_ko": "월하정인",
+    "venue": "Morene Sukha",
+    "venue_ko": "모래내 극락",
+    "venue_handle": "morene__sukha",
+    "area": "West Seoul",
+    "city": "Seoul",
+    "lineup": [
+      "Han Young Ae"
+    ],
+    "lineup_ko": [
+      "한영애"
+    ],
+    "price": "₩50,000",
+    "ticket_url": null,
+    "genres": [
+      "blues",
+      "r&b/soul",
+      "rock"
+    ],
+    "notes": "Tickets open 27 Nov 8PM via profile Linktree. Unreserved standing, no door sales if sold out. Minors only with guardian; ID check; 1 drink minimum.",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "handle": "morene__sukha",
+        "url": "https://www.instagram.com/p/DgG8t4qo-kq/",
+        "posted": "2026-11-24T12:05:39+09:00"
+      }
+    ],
+    "id": "13ec849ec0cf",
+    "first_seen": "2026-11-25T06:54:24+09:00",
+    "updated": "2026-11-25T06:54:24+09:00"
+  },
+  {
+    "date": "2026-12-25",
+    "doors": null,
+    "start": "21:00",
+    "title": "Sad Ojisan Party",
+    "title_ko": "Sad Ojisan Party",
+    "venue": "Morene Sukha",
+    "venue_ko": "모래내 극락",
+    "venue_handle": "morene__sukha",
+    "area": "West Seoul",
+    "city": "Seoul",
+    "lineup": [
+      "YOUNGMOND",
+      "MIKI KIM",
+      "NAUN"
+    ],
+    "lineup_ko": [],
+    "price": "Free",
+    "ticket_url": null,
+    "genres": [
+      "dj"
+    ],
+    "notes": "Free entry DJ party, part of the Marshall Live from 월하정인 year-end event.",
+    "confidence": 0.85,
+    "sources": [
+      {
+        "handle": "morene__sukha",
+        "url": "https://www.instagram.com/p/DgG8t4qo-kq/",
+        "posted": "2026-11-24T12:05:39+09:00"
+      }
+    ],
+    "id": "175057149693",
+    "first_seen": "2026-11-25T06:54:24+09:00",
+    "updated": "2026-11-25T06:54:24+09:00"
+  },
+  {
+    "date": "2026-12-25",
+    "doors": null,
+    "start": null,
+    "title": "Christmas Jazz Singer Special",
+    "title_ko": "크리스마스 재즈싱어 스페셜",
+    "venue": "Subriot",
+    "venue_ko": "서브라이엇 HBC",
+    "venue_handle": "subriot_hbc",
+    "area": "Haebangchon",
+    "city": "Seoul",
+    "lineup": [],
+    "lineup_ko": [],
+    "price": null,
+    "ticket_url": null,
+    "genres": [
+      "jazz"
+    ],
+    "notes": "Reservations open 27 Nov 14:00, by text only to 010-8018-5546 for the 'Christmas Special Set'; no Naver booking.",
+    "confidence": 0.7,
+    "sources": [
+      {
+        "handle": "subriot_hbc",
+        "url": "https://www.instagram.com/p/DgH0LoWzqZV/",
+        "posted": "2026-11-24T20:10:00+09:00"
+      }
+    ],
+    "id": "86dc2f2c9f42",
+    "first_seen": "2026-11-25T06:54:24+09:00",
+    "updated": "2026-11-25T06:54:24+09:00"
   },
   {
     "date": "2026-12-26",

@@ -1,44 +1,5 @@
 [
   {
-    "date": "2026-11-23",
-    "doors": null,
-    "start": "20:00",
-    "title": "Yan Kim Trio",
-    "title_ko": "김요한 TRIO",
-    "venue": "SoundDog Jazz",
-    "venue_ko": "사운드독",
-    "venue_handle": "sounddog_jazz",
-    "area": "Huam-dong",
-    "city": "Seoul",
-    "lineup": [
-      "Yan Kim",
-      "Jeon Han-guk",
-      "Song Ha-yeon"
-    ],
-    "lineup_ko": [
-      "김요한",
-      "전한국",
-      "송하연"
-    ],
-    "price": "₩20,000",
-    "ticket_url": null,
-    "genres": [
-      "jazz"
-    ],
-    "notes": "Reserve by text 010-5368-2584 and pay by bank transfer. Outside snacks allowed (₩5,000 per 2 people).",
-    "confidence": 0.9,
-    "sources": [
-      {
-        "handle": "sounddog_jazz",
-        "url": "https://www.instagram.com/p/DgDC0S4S0yY/",
-        "posted": "2026-11-22T23:41:42+09:00"
-      }
-    ],
-    "id": "fbab236eccbb",
-    "first_seen": "2026-11-24T08:35:31+09:00",
-    "updated": "2026-11-24T08:35:31+09:00"
-  },
-  {
     "date": "2026-11-24",
     "doors": null,
     "start": "19:30",
@@ -84,17 +45,23 @@
     "doors": null,
     "start": "20:00",
     "title": "SoundDog 4 Days",
-    "title_ko": null,
+    "title_ko": "송하연 SoundDog 4 Days",
     "venue": "SoundDog Jazz",
     "venue_ko": "사운드독",
     "venue_handle": "sounddog_jazz",
     "area": "Huam-dong",
     "city": "Seoul",
     "lineup": [
-      "Song Hayeon"
+      "Song Hayeon",
+      "One Mind Trio",
+      "Song Suji",
+      "Kim Jonghyeon"
     ],
     "lineup_ko": [
-      "송하연"
+      "송하연",
+      "원 마인드 트리오",
+      "송수지",
+      "김종현"
     ],
     "price": "₩20,000",
     "ticket_url": null,
@@ -102,17 +69,22 @@
       "jazz"
     ],
     "notes": "Reserve by text 010-5368-2584 and pay by bank transfer; outside snacks allowed (₩5,000 per 2 people).",
-    "confidence": 0.85,
+    "confidence": 0.9,
     "sources": [
       {
         "handle": "sounddog_jazz",
         "url": "https://www.instagram.com/reel/DgFTsz8SOfC/",
         "posted": "2026-11-23T20:48:04+09:00"
+      },
+      {
+        "handle": "sounddog_jazz",
+        "url": "https://www.instagram.com/p/DgJA-kUSTOT/",
+        "posted": "2026-11-25T07:21:04+09:00"
       }
     ],
     "id": "d87a28d7836c",
     "first_seen": "2026-11-24T08:35:31+09:00",
-    "updated": "2026-11-24T08:35:31+09:00"
+    "updated": "2026-11-26T06:54:47+09:00"
   },
   {
     "date": "2026-11-25",
@@ -271,17 +243,24 @@
     "doors": null,
     "start": "20:00",
     "title": "SoundDog 4 Days",
-    "title_ko": null,
+    "title_ko": "송하연 Quartet",
     "venue": "SoundDog Jazz",
     "venue_ko": "사운드독",
     "venue_handle": "sounddog_jazz",
     "area": "Huam-dong",
     "city": "Seoul",
     "lineup": [
-      "Song Hayeon"
+      "Song Hayeon",
+      "Hayeon Song (drums)",
+      "Junseo Park (tenor sax)",
+      "Yan Kim (piano)",
+      "Hangook Jeon (bass)"
     ],
     "lineup_ko": [
-      "송하연"
+      "송하연",
+      "박준서",
+      "Yan Kim",
+      "전한국"
     ],
     "price": "₩20,000",
     "ticket_url": null,
@@ -289,17 +268,22 @@
       "jazz"
     ],
     "notes": "Reserve by text 010-5368-2584 and pay by bank transfer; outside snacks allowed (₩5,000 per 2 people).",
-    "confidence": 0.85,
+    "confidence": 0.9,
     "sources": [
       {
         "handle": "sounddog_jazz",
         "url": "https://www.instagram.com/reel/DgFTsz8SOfC/",
         "posted": "2026-11-23T20:48:04+09:00"
+      },
+      {
+        "handle": "sounddog_jazz",
+        "url": "https://www.instagram.com/p/DgKl-vIyL0X/",
+        "posted": "2026-11-25T22:03:39+09:00"
       }
     ],
     "id": "9d26f8dbf02b",
     "first_seen": "2026-11-24T08:35:31+09:00",
-    "updated": "2026-11-24T08:35:31+09:00"
+    "updated": "2026-11-26T06:54:47+09:00"
   },
   {
     "date": "2026-11-27",
@@ -548,6 +532,41 @@
         "handle": null
       }
     ]
+  },
+  {
+    "date": "2026-11-27",
+    "doors": null,
+    "start": "20:00",
+    "title": "Pet Sounds Indie Live",
+    "title_ko": "펫사운즈 인디 라이브",
+    "venue": "Pet Sounds",
+    "venue_ko": "펫사운즈",
+    "venue_handle": "petsoundsmusicpub",
+    "area": "Itaewon",
+    "city": "Seoul",
+    "lineup": [
+      "CUTTY"
+    ],
+    "lineup_ko": [
+      "커티"
+    ],
+    "price": "Free",
+    "ticket_url": null,
+    "genres": [
+      "rock"
+    ],
+    "notes": "Free entry with deferred payment (pay for drinks/food after). Located on 3F, Itaewon-dong, Yongsan-gu.",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "petsoundsmusicpub",
+        "url": "https://www.instagram.com/p/DgJYOdbJOJT/",
+        "posted": "2026-11-25T10:44:12+09:00"
+      }
+    ],
+    "id": "5a3b36e6f8e7",
+    "first_seen": "2026-11-26T06:54:47+09:00",
+    "updated": "2026-11-26T06:54:47+09:00"
   },
   {
     "date": "2026-11-28",
@@ -1563,6 +1582,51 @@
     "updated": "2026-11-24T08:35:31+09:00"
   },
   {
+    "date": "2026-12-20",
+    "doors": "15:00",
+    "start": "16:00",
+    "title": "Marshall Live from 월하정인 (Zen Alone BADHANDS Party)",
+    "title_ko": "월하정인",
+    "venue": "Morene Sukha",
+    "venue_ko": "모래내 극락",
+    "venue_handle": "morene__sukha",
+    "area": "West Seoul",
+    "city": "Seoul",
+    "lineup": [
+      "Zen Alone",
+      "Loopland",
+      "Lo-g",
+      "Slosolo",
+      "Busynessmane",
+      "ATTITUDE SEOUL",
+      "LUCAS",
+      "Haewon",
+      "ovalike"
+    ],
+    "lineup_ko": [
+      "젠얼론"
+    ],
+    "price": "Free",
+    "ticket_url": null,
+    "genres": [
+      "acoustic",
+      "electronic",
+      "dj"
+    ],
+    "notes": "Zen Alone acoustic set 16:00, beat live 18:00, DJs 20:00. One drink per person required; minors only with guardian, ID check.",
+    "confidence": 0.85,
+    "sources": [
+      {
+        "handle": "morene__sukha",
+        "url": "https://www.instagram.com/p/DgKC0fzmDms/",
+        "posted": "2026-11-25T16:56:21+09:00"
+      }
+    ],
+    "id": "3ebeaac7a0d7",
+    "first_seen": "2026-11-26T06:54:47+09:00",
+    "updated": "2026-11-26T06:54:47+09:00"
+  },
+  {
     "date": "2026-12-24",
     "doors": null,
     "start": "20:00",
@@ -1866,6 +1930,41 @@
     "updated": "2026-11-24T08:35:31+09:00"
   },
   {
+    "date": "2026-12-26",
+    "doors": null,
+    "start": "18:00",
+    "title": "Leegodo 1st Album Release Show <People on the Outskirts>",
+    "title_ko": "이고도 정규 1집 발매 기념 단독 공연 <외곽의 사람>",
+    "venue": "KT&G Sangsangmadang Live Hall",
+    "venue_ko": "KT&G 상상마당 라이브홀",
+    "venue_handle": "ssmadang_live",
+    "area": "Hongdae",
+    "city": "Seoul",
+    "lineup": [
+      "Leegodo"
+    ],
+    "lineup_ko": [
+      "이고도"
+    ],
+    "price": "₩55,000",
+    "ticket_url": null,
+    "genres": [
+      "singer-songwriter"
+    ],
+    "notes": "Reserved seating. Tickets open 30 Nov 6PM exclusively on Melon Ticket.",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "ssmadang_live",
+        "url": "https://www.instagram.com/p/DgJg6hEiZyl/",
+        "posted": "2026-11-25T12:00:06+09:00"
+      }
+    ],
+    "id": "6385ee4c72bb",
+    "first_seen": "2026-11-26T06:54:47+09:00",
+    "updated": "2026-11-26T06:54:47+09:00"
+  },
+  {
     "date": "2026-12-27",
     "doors": null,
     "start": "17:00",
@@ -2020,5 +2119,46 @@
     "id": "f47d485a5bdd",
     "first_seen": "2026-11-24T08:35:31+09:00",
     "updated": "2026-11-24T08:35:31+09:00"
+  },
+  {
+    "date": "2026-12-31",
+    "doors": "20:00",
+    "start": "21:00",
+    "title": "Marshall Live from 월하정인 (Moonlit Lovers)",
+    "title_ko": "마샬 라이브 프롬 월하정인",
+    "venue": "Morene Sukha",
+    "venue_ko": "모래내 극락",
+    "venue_handle": "morene__sukha",
+    "area": "West Seoul",
+    "city": "Seoul",
+    "lineup": [
+      "DJ Jino",
+      "CHS",
+      "From Midnight Tokyo (Tiger Disco / Hasegawa Yohei)"
+    ],
+    "lineup_ko": [
+      "DJ Jino",
+      "CHS",
+      "From Midnight Tokyo"
+    ],
+    "price": "₩60,000",
+    "ticket_url": null,
+    "genres": [
+      "dj",
+      "hip-hop",
+      "electronic"
+    ],
+    "notes": "Tickets open 1 Dec 8PM via Linktree; standing, first come. No door sales if sold out. Minors only with guardian; ID check; 1 drink required.",
+    "confidence": 0.85,
+    "sources": [
+      {
+        "handle": "morene__sukha",
+        "url": "https://www.instagram.com/p/DgKYZthGEnp/",
+        "posted": "2026-11-25T20:04:56+09:00"
+      }
+    ],
+    "id": "99d24e87d1ab",
+    "first_seen": "2026-11-26T06:54:47+09:00",
+    "updated": "2026-11-26T06:54:47+09:00"
   }
 ]

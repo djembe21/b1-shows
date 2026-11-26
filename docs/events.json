@@ -1,170 +1,7 @@
 {
-  "generated": "2026-11-26T06:54:47.482459+09:00",
-  "count": 50,
+  "generated": "2026-11-27T06:51:34.082742+09:00",
+  "count": 54,
   "events": [
-    {
-      "date": "2026-11-26",
-      "doors": "18:30",
-      "start": "19:00",
-      "title": "Thursday Vibes",
-      "title_ko": null,
-      "venue": "Club FF",
-      "venue_ko": "클럽 FF",
-      "venue_handle": "hongdaeff",
-      "area": "Hongdae",
-      "city": "Seoul",
-      "lineup": [
-        "Sern",
-        "Mandarin Juice",
-        "Sayang",
-        "Other",
-        "Lego",
-        "James Kiss"
-      ],
-      "lineup_ko": [
-        "Sern",
-        "만다린쥬스",
-        "사양",
-        "아더",
-        "레고",
-        "제임스키스"
-      ],
-      "price": "₩20,000",
-      "ticket_url": null,
-      "genres": [
-        "rock",
-        "punk",
-        "pop"
-      ],
-      "notes": "Door sales only, no advance booking. Under-19s must leave by 22:00 unless with a guardian. Caption also says 8pm.",
-      "confidence": 0.85,
-      "sources": [
-        {
-          "handle": "hongdaeff",
-          "url": "https://www.instagram.com/p/DgCu7TuS1Ur/",
-          "posted": "2026-11-22T20:51:11+09:00"
-        }
-      ],
-      "id": "1a407bcf2174",
-      "first_seen": "2026-11-24T08:35:31+09:00",
-      "updated": "2026-11-24T08:35:31+09:00"
-    },
-    {
-      "date": "2026-11-26",
-      "doors": "19:00",
-      "start": "20:00",
-      "title": "Thursday Music Life",
-      "title_ko": "목요음악생활",
-      "venue": "Channel 1969",
-      "venue_ko": "채널1969",
-      "venue_handle": "channel1969.seoul",
-      "area": "Yeonnam",
-      "city": "Seoul",
-      "lineup": [
-        "Gneuldance",
-        "Nazare"
-      ],
-      "lineup_ko": [
-        "그늘춤",
-        "나자레"
-      ],
-      "price": "₩10,000",
-      "ticket_url": null,
-      "genres": [],
-      "notes": "Sets at 20:00 and 21:00. Bookable via Naver Reservation.",
-      "confidence": 0.9,
-      "sources": [
-        {
-          "handle": "channel1969.seoul",
-          "url": "https://www.instagram.com/p/Dfg-nK8PCX3/",
-          "posted": "2026-11-09T18:11:58+09:00"
-        }
-      ],
-      "id": "86a3290f6917",
-      "first_seen": "2026-11-24T08:35:31+09:00",
-      "updated": "2026-11-24T08:35:31+09:00"
-    },
-    {
-      "date": "2026-11-26",
-      "doors": null,
-      "start": "20:00",
-      "title": "SoundDog 4 Days",
-      "title_ko": "송하연 Quartet",
-      "venue": "SoundDog Jazz",
-      "venue_ko": "사운드독",
-      "venue_handle": "sounddog_jazz",
-      "area": "Huam-dong",
-      "city": "Seoul",
-      "lineup": [
-        "Song Hayeon",
-        "Hayeon Song (drums)",
-        "Junseo Park (tenor sax)",
-        "Yan Kim (piano)",
-        "Hangook Jeon (bass)"
-      ],
-      "lineup_ko": [
-        "송하연",
-        "박준서",
-        "Yan Kim",
-        "전한국"
-      ],
-      "price": "₩20,000",
-      "ticket_url": null,
-      "genres": [
-        "jazz"
-      ],
-      "notes": "Reserve by text 010-5368-2584 and pay by bank transfer; outside snacks allowed (₩5,000 per 2 people).",
-      "confidence": 0.9,
-      "sources": [
-        {
-          "handle": "sounddog_jazz",
-          "url": "https://www.instagram.com/reel/DgFTsz8SOfC/",
-          "posted": "2026-11-23T20:48:04+09:00"
-        },
-        {
-          "handle": "sounddog_jazz",
-          "url": "https://www.instagram.com/p/DgKl-vIyL0X/",
-          "posted": "2026-11-25T22:03:39+09:00"
-        }
-      ],
-      "id": "9d26f8dbf02b",
-      "first_seen": "2026-11-24T08:35:31+09:00",
-      "updated": "2026-11-26T06:54:47+09:00"
-    },
-    {
-      "date": "2026-11-26",
-      "doors": null,
-      "start": "23:00",
-      "title": "Eurobash",
-      "title_ko": null,
-      "venue": "Club FF",
-      "venue_ko": "클럽 FF",
-      "venue_handle": "hongdaeff",
-      "area": "Hongdae",
-      "city": "Seoul",
-      "lineup": [
-        "DJ Eddie"
-      ],
-      "lineup_ko": [],
-      "price": "Free",
-      "ticket_url": null,
-      "genres": [
-        "dj",
-        "pop"
-      ],
-      "notes": "No cover. European hits and party anthems, DJ Eddie all night.",
-      "confidence": 0.95,
-      "sources": [
-        {
-          "handle": "hongdaeff",
-          "url": "https://www.instagram.com/p/DgADFBeyvrm/",
-          "posted": "2026-11-21T19:54:08+09:00"
-        }
-      ],
-      "id": "645e8dc8aeb5",
-      "first_seen": "2026-11-24T08:35:31+09:00",
-      "updated": "2026-11-24T08:35:31+09:00"
-    },
     {
       "date": "2026-11-27",
       "doors": null,
@@ -250,11 +87,12 @@
         "아디오스오디오",
         "잭킹콩"
       ],
-      "price": null,
+      "price": "₩45,000 (on-site)",
       "ticket_url": null,
       "genres": [
         "rock",
-        "pop"
+        "pop",
+        "jazz"
       ],
       "notes": "Tickets via Melon Ticket (link in @liveclubday profile). Sets at 20:00, 21:00, 22:00.",
       "confidence": 0.93,
@@ -298,11 +136,31 @@
           "handle": "ssmadang_live",
           "url": "https://www.instagram.com/p/DgHiAvzDnsH/",
           "posted": "2026-11-24T17:31:11+09:00"
+        },
+        {
+          "handle": "liveclubday",
+          "url": "https://www.instagram.com/p/DgMxtgEuBNP/",
+          "posted": "2026-11-26T18:24:51+09:00"
+        },
+        {
+          "handle": "liveclubday",
+          "url": "https://www.instagram.com/p/DfycrM1SxRd/",
+          "posted": "2026-11-26T17:00:03+09:00"
+        },
+        {
+          "handle": "liveclubday",
+          "url": "https://www.instagram.com/p/DfycnmsySZI/",
+          "posted": "2026-11-26T11:00:04+09:00"
+        },
+        {
+          "handle": "liveclubday",
+          "url": "https://www.instagram.com/p/Dfycc1RSZ86/",
+          "posted": "2026-11-26T11:00:02+09:00"
         }
       ],
       "id": "20a923c3882e",
       "first_seen": "2026-11-24T08:35:31+09:00",
-      "updated": "2026-11-25T06:54:24+09:00",
+      "updated": "2026-11-27T06:51:34+09:00",
       "venues": [
         {
           "venue": "Vel.R",
@@ -339,8 +197,61 @@
           "venue_ko": "무신사 개러지",
           "area": null,
           "handle": null
+        },
+        {
+          "venue": "Vel.R",
+          "venue_ko": "Vel.R",
+          "area": null,
+          "handle": null
+        },
+        {
+          "venue": "Participating Live Club Day venues",
+          "venue_ko": "라이브클럽데이 참여 공연장",
+          "area": null,
+          "handle": null
+        },
+        {
+          "venue": "Participating Hongdae live clubs",
+          "venue_ko": null,
+          "area": null,
+          "handle": null
+        },
+        {
+          "venue": "Club Evans",
+          "venue_ko": "클럽 에반스",
+          "area": null,
+          "handle": null
         }
       ]
+    },
+    {
+      "date": "2026-11-27",
+      "doors": null,
+      "start": "20:00",
+      "title": "85th Live Club Day",
+      "title_ko": "제 85회 라이브클럽데이",
+      "venue": "Multiple clubs (Live Club Day)",
+      "venue_ko": "라이브클럽데이",
+      "venue_handle": null,
+      "area": null,
+      "city": "Seoul",
+      "lineup": [],
+      "lineup_ko": [],
+      "price": null,
+      "ticket_url": null,
+      "genres": [],
+      "notes": "Multi-venue festival; swap tickets for a wristband at each club's booth with ID. Teens admitted. Entry may be capped per venue.",
+      "confidence": 0.6,
+      "sources": [
+        {
+          "handle": "liveclubday",
+          "url": "https://www.instagram.com/p/DfycXEmydFE/",
+          "posted": "2026-11-26T11:00:04+09:00"
+        }
+      ],
+      "id": "5acf3086f5dd",
+      "first_seen": "2026-11-27T06:51:34+09:00",
+      "updated": "2026-11-27T06:51:34+09:00"
     },
     {
       "date": "2026-11-27",
@@ -379,20 +290,67 @@
     },
     {
       "date": "2026-11-27",
+      "doors": "19:30",
+      "start": "20:00",
+      "title": "Biuret 4 Seasons : Winter",
+      "title_ko": null,
+      "venue": "Rolling Hall",
+      "venue_ko": "롤링홀",
+      "venue_handle": "rollinghall",
+      "area": "Hongdae",
+      "city": "Seoul",
+      "lineup": [
+        "Biuret",
+        "GAEHWA"
+      ],
+      "lineup_ko": [
+        "뷰렛",
+        "개화"
+      ],
+      "price": "₩66,000",
+      "ticket_url": "ticket.melon.com",
+      "genres": [
+        "singer-songwriter",
+        "pop"
+      ],
+      "notes": "Tickets on Melon Ticket; on-site purchase available. Ticket booth opens 19:00. Guest: GAEHWA.",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "handle": "rollinghall",
+          "url": "https://www.instagram.com/p/DgM8p6DB-wp/",
+          "posted": "2026-11-26T20:00:14+09:00"
+        }
+      ],
+      "id": "60276ba667b7",
+      "first_seen": "2026-11-27T06:51:34+09:00",
+      "updated": "2026-11-27T06:51:34+09:00"
+    },
+    {
+      "date": "2026-11-27",
       "doors": null,
       "start": "20:00",
       "title": "SoundDog 4 Days",
-      "title_ko": null,
+      "title_ko": "송하연 Quintet",
       "venue": "SoundDog Jazz",
       "venue_ko": "사운드독",
       "venue_handle": "sounddog_jazz",
       "area": "Huam-dong",
       "city": "Seoul",
       "lineup": [
-        "Song Hayeon"
+        "Song Hayeon",
+        "Hayeon Song",
+        "Choi Junki",
+        "Park Junseo",
+        "Kim Minjun",
+        "Jeon Hanguk"
       ],
       "lineup_ko": [
-        "송하연"
+        "송하연",
+        "최준기",
+        "박준서",
+        "김민준",
+        "전한국"
       ],
       "price": "₩20,000",
       "ticket_url": null,
@@ -400,17 +358,22 @@
         "jazz"
       ],
       "notes": "Reserve by text 010-5368-2584 and pay by bank transfer; outside snacks allowed (₩5,000 per 2 people).",
-      "confidence": 0.85,
+      "confidence": 0.9,
       "sources": [
         {
           "handle": "sounddog_jazz",
           "url": "https://www.instagram.com/reel/DgFTsz8SOfC/",
           "posted": "2026-11-23T20:48:04+09:00"
+        },
+        {
+          "handle": "sounddog_jazz",
+          "url": "https://www.instagram.com/p/DgNRhloSVvV/",
+          "posted": "2026-11-26T23:02:37+09:00"
         }
       ],
       "id": "3156b0739c12",
       "first_seen": "2026-11-24T08:35:31+09:00",
-      "updated": "2026-11-24T08:35:31+09:00"
+      "updated": "2026-11-27T06:51:34+09:00"
     },
     {
       "date": "2026-11-27",
@@ -487,6 +450,46 @@
       "id": "7a7b7483bd20",
       "first_seen": "2026-11-24T08:35:31+09:00",
       "updated": "2026-11-24T08:35:31+09:00"
+    },
+    {
+      "date": "2026-11-28",
+      "doors": null,
+      "start": "18:30",
+      "title": "Swim, Dance, Love",
+      "title_ko": "SWIM, DANCE, LOVE",
+      "venue": "Pet Sounds",
+      "venue_ko": "펫사운즈",
+      "venue_handle": "petsoundsmusicpub",
+      "area": "Itaewon",
+      "city": "Seoul",
+      "lineup": [
+        "Bulgogi Disco",
+        "Polyamory",
+        "Swiimers"
+      ],
+      "lineup_ko": [
+        "불고기디스코",
+        "폴리아모리",
+        "스위머스"
+      ],
+      "price": "Adv ₩30k / Door ₩35k",
+      "ticket_url": null,
+      "genres": [
+        "rock",
+        "pop"
+      ],
+      "notes": "One drink purchase required per person. Tickets via link in the Pet Sounds Instagram bio.",
+      "confidence": 0.93,
+      "sources": [
+        {
+          "handle": "petsoundsmusicpub",
+          "url": "https://www.instagram.com/p/DgMtW0rBPOH/",
+          "posted": "2026-11-26T17:46:35+09:00"
+        }
+      ],
+      "id": "a1fa6c655d32",
+      "first_seen": "2026-11-27T06:51:34+09:00",
+      "updated": "2026-11-27T06:51:34+09:00"
     },
     {
       "date": "2026-11-28",
@@ -595,6 +598,93 @@
       "id": "ddbf5b79ab96",
       "first_seen": "2026-11-24T08:35:31+09:00",
       "updated": "2026-11-24T08:35:31+09:00"
+    },
+    {
+      "date": "2026-12-03",
+      "doors": null,
+      "start": "20:00",
+      "title": "Music Library X UNDERSTAGE <R&B AFFAIR>: DJ Soulscape Presents 90s R&B with 8BallTown",
+      "title_ko": "Music Library X UNDERSTAGE <R&B AFFAIR>",
+      "venue": "Hyundai Card Understage",
+      "venue_ko": "현대카드 언더스테이지",
+      "venue_handle": "understage",
+      "area": "Itaewon",
+      "city": "Seoul",
+      "lineup": [
+        "DJ Soulscape",
+        "8BallTown",
+        "KIRIN",
+        "Jason Lee",
+        "Ye-in"
+      ],
+      "lineup_ko": [
+        "DJ Soulscape",
+        "8BallTown",
+        "KIRIN",
+        "Jason Lee",
+        "예인"
+      ],
+      "price": "₩33,000",
+      "ticket_url": null,
+      "genres": [
+        "r&b/soul",
+        "dj"
+      ],
+      "notes": "Tickets on sale now via the Hyundai Card DIVE app. Runs 20:00–21:30.",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "handle": "hyundaicard_dive",
+          "url": "https://www.instagram.com/p/DgMh0yvk7Do/",
+          "posted": "2026-11-26T16:05:02+09:00"
+        }
+      ],
+      "id": "f3fafa195b3e",
+      "first_seen": "2026-11-27T06:51:34+09:00",
+      "updated": "2026-11-27T06:51:34+09:00"
+    },
+    {
+      "date": "2026-12-04",
+      "doors": "17:30",
+      "start": "18:30",
+      "title": "Eyes Without a Face",
+      "title_ko": null,
+      "venue": "Club FF",
+      "venue_ko": "클럽 FF",
+      "venue_handle": "hongdaeff",
+      "area": "Hongdae",
+      "city": "Seoul",
+      "lineup": [
+        "Dirty Shoe",
+        "PNR",
+        "JULYWANTSMORE",
+        "GUGU",
+        "NATASHA"
+      ],
+      "lineup_ko": [
+        "더티슈",
+        "PNR",
+        "줄라이원츠모어",
+        "구구",
+        "나타샤"
+      ],
+      "price": "₩35,000",
+      "ticket_url": null,
+      "genres": [
+        "rock"
+      ],
+      "notes": "Door sales only, no advance booking. Under-18s must leave by 22:00. Set times start 18:30.",
+      "confidence": 0.93,
+      "sources": [
+        {
+          "handle": "hongdaeff",
+          "url": "https://www.instagram.com/p/DgNJwRmSxvZ/",
+          "posted": "2026-11-26T21:58:13+09:00"
+        }
+      ],
+      "id": "2a4da704b948",
+      "first_seen": "2026-11-27T06:51:34+09:00",
+      "updated": "2026-11-27T06:51:34+09:00"
     },
     {
       "date": "2026-12-04",
@@ -761,6 +851,48 @@
       "updated": "2026-11-24T08:35:31+09:00"
     },
     {
+      "date": "2026-12-05",
+      "doors": "19:15",
+      "start": "20:15",
+      "title": "Dirty Boots",
+      "title_ko": null,
+      "venue": "Club FF",
+      "venue_ko": "클럽 FF",
+      "venue_handle": "hongdaeff",
+      "area": "Hongdae",
+      "city": "Seoul",
+      "lineup": [
+        "Varnish",
+        "Merry Hey Day",
+        "Long Time No Shit",
+        "Low High Low"
+      ],
+      "lineup_ko": [
+        "바니쉬",
+        "메리헤이데이",
+        "롱타임노쉿",
+        "로우하이로우"
+      ],
+      "price": "₩30,000 (door)",
+      "ticket_url": null,
+      "genres": [
+        "punk",
+        "rock"
+      ],
+      "notes": "Door sales only, no advance booking; tickets from ~1 hr before. Minors must leave by 10pm. DJ party from 11pm.",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "handle": "hongdaeff",
+          "url": "https://www.instagram.com/p/DgNS4SjyBKd/",
+          "posted": "2026-11-26T23:22:28+09:00"
+        }
+      ],
+      "id": "32614f6c276e",
+      "first_seen": "2026-11-27T06:51:34+09:00",
+      "updated": "2026-11-27T06:51:34+09:00"
+    },
+    {
       "date": "2026-12-06",
       "doors": null,
       "start": "17:00",
@@ -913,6 +1045,41 @@
       "id": "36cd02fc0d88",
       "first_seen": "2026-11-24T08:35:31+09:00",
       "updated": "2026-11-24T08:35:31+09:00"
+    },
+    {
+      "date": "2026-12-11",
+      "doors": null,
+      "start": "20:00",
+      "title": "MARIE Christmas",
+      "title_ko": "2026 김마리 연말 단독 콘서트 <MARIE Christmas>",
+      "venue": "KT&G Sangsangmadang Live Hall",
+      "venue_ko": "KT&G 상상마당 라이브홀",
+      "venue_handle": "ssmadang_live",
+      "area": "Hongdae",
+      "city": "Seoul",
+      "lineup": [
+        "Kim Mari"
+      ],
+      "lineup_ko": [
+        "김마리"
+      ],
+      "price": "₩77,000",
+      "ticket_url": null,
+      "genres": [
+        "singer-songwriter"
+      ],
+      "notes": "Tickets via Melon Ticket. Inquiries: 02-323-2460.",
+      "confidence": 0.93,
+      "sources": [
+        {
+          "handle": "ssmadang_live",
+          "url": "https://www.instagram.com/p/DgMTcVqltru/",
+          "posted": "2026-11-26T14:00:06+09:00"
+        }
+      ],
+      "id": "57bf9a9bd067",
+      "first_seen": "2026-11-27T06:51:34+09:00",
+      "updated": "2026-11-27T06:51:34+09:00"
     },
     {
       "date": "2026-12-11",
@@ -1873,11 +2040,16 @@
           "handle": "rollinghall",
           "url": "https://www.instagram.com/p/DgEXU4SBtps/",
           "posted": "2026-11-23T12:00:08+09:00"
+        },
+        {
+          "handle": "rollinghall",
+          "url": "https://www.instagram.com/reel/DgMGZ21kQ8y/",
+          "posted": "2026-11-26T12:06:27+09:00"
         }
       ],
       "id": "ec4fd4db620a",
       "first_seen": "2026-11-24T08:35:31+09:00",
-      "updated": "2026-11-24T08:35:31+09:00"
+      "updated": "2026-11-27T06:51:34+09:00"
     },
     {
       "date": "2026-12-27",
@@ -2040,6 +2212,46 @@
       "id": "99d24e87d1ab",
       "first_seen": "2026-11-26T06:54:47+09:00",
       "updated": "2026-11-26T06:54:47+09:00"
+    },
+    {
+      "date": "2027-01-02",
+      "doors": null,
+      "start": "17:00",
+      "title": "Bad Boy Ballad: SFC.JGR 1st Concert (Rolling 32nd Anniversary)",
+      "title_ko": "재규어 중사 첫 단독 콘서트 'Bad Boy Ballad' : 롤링 32주년 기념공연",
+      "venue": "Rolling Hall",
+      "venue_ko": "롤링홀",
+      "venue_handle": "rollinghall",
+      "area": "Hongdae",
+      "city": "Seoul",
+      "lineup": [
+        "SFC.JGR",
+        "KIRIN",
+        "Lov3rboi"
+      ],
+      "lineup_ko": [
+        "재규어 중사",
+        "기린",
+        "Lov3rboi"
+      ],
+      "price": "₩55,000",
+      "ticket_url": "https://ticket.melon.com",
+      "genres": [
+        "hip-hop",
+        "r&b/soul"
+      ],
+      "notes": "Tickets on Melon Ticket; booking opens 3 Dec 2026 at 20:00.",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "handle": "rollinghall",
+          "url": "https://www.instagram.com/p/DgMFt4uMRhF/",
+          "posted": "2026-11-26T12:00:10+09:00"
+        }
+      ],
+      "id": "184c36f08f9d",
+      "first_seen": "2026-11-27T06:51:34+09:00",
+      "updated": "2026-11-27T06:51:34+09:00"
     }
   ]
 }

@@ -1,87 +1,5 @@
 [
   {
-    "date": "2026-11-25",
-    "doors": null,
-    "start": "20:00",
-    "title": "SoundDog 4 Days",
-    "title_ko": "송하연 SoundDog 4 Days",
-    "venue": "SoundDog Jazz",
-    "venue_ko": "사운드독",
-    "venue_handle": "sounddog_jazz",
-    "area": "Huam-dong",
-    "city": "Seoul",
-    "lineup": [
-      "Song Hayeon",
-      "One Mind Trio",
-      "Song Suji",
-      "Kim Jonghyeon"
-    ],
-    "lineup_ko": [
-      "송하연",
-      "원 마인드 트리오",
-      "송수지",
-      "김종현"
-    ],
-    "price": "₩20,000",
-    "ticket_url": null,
-    "genres": [
-      "jazz"
-    ],
-    "notes": "Reserve by text 010-5368-2584 and pay by bank transfer; outside snacks allowed (₩5,000 per 2 people).",
-    "confidence": 0.9,
-    "sources": [
-      {
-        "handle": "sounddog_jazz",
-        "url": "https://www.instagram.com/reel/DgFTsz8SOfC/",
-        "posted": "2026-11-23T20:48:04+09:00"
-      },
-      {
-        "handle": "sounddog_jazz",
-        "url": "https://www.instagram.com/p/DgJA-kUSTOT/",
-        "posted": "2026-11-25T07:21:04+09:00"
-      }
-    ],
-    "id": "d87a28d7836c",
-    "first_seen": "2026-11-24T08:35:31+09:00",
-    "updated": "2026-11-26T06:54:47+09:00"
-  },
-  {
-    "date": "2026-11-25",
-    "doors": null,
-    "start": "21:00",
-    "title": "TDAT",
-    "title_ko": null,
-    "venue": "Subriot",
-    "venue_ko": "서브라이엇 HBC",
-    "venue_handle": "subriot_hbc",
-    "area": "Haebangchon",
-    "city": "Seoul",
-    "lineup": [
-      "TDAT"
-    ],
-    "lineup_ko": [
-      "TDAT"
-    ],
-    "price": "Free",
-    "ticket_url": null,
-    "genres": [
-      "jazz",
-      "funk"
-    ],
-    "notes": "Free entry, pay after the show. Reservations: 010 7454 4005 (English).",
-    "confidence": 0.95,
-    "sources": [
-      {
-        "handle": "subriot_hbc",
-        "url": "https://www.instagram.com/p/DgHpXV_zhas/",
-        "posted": "2026-11-24T18:35:30+09:00"
-      }
-    ],
-    "id": "e002bbe22e0e",
-    "first_seen": "2026-11-25T06:54:24+09:00",
-    "updated": "2026-11-25T06:54:24+09:00"
-  },
-  {
     "date": "2026-11-26",
     "doors": "18:30",
     "start": "19:00",
@@ -691,6 +609,96 @@
     "updated": "2026-11-27T06:51:34+09:00"
   },
   {
+    "date": "2026-11-27",
+    "doors": null,
+    "start": "20:00",
+    "title": "Ojiik Quintet",
+    "title_ko": "오직 퀸텟",
+    "venue": "Subriot",
+    "venue_ko": "서브라이엇 HBC",
+    "venue_handle": "subriot_hbc",
+    "area": "Haebangchon",
+    "city": "Seoul",
+    "lineup": [
+      "Ojiik Quintet",
+      "Ojiik",
+      "Phil Grenadier",
+      "Paul Kirby",
+      "Choi Se-yeol",
+      "Lee Seok-hyeon"
+    ],
+    "lineup_ko": [
+      "오직 퀸텟",
+      "오직",
+      "Phil Grenadier",
+      "Paul Kirby",
+      "최세열",
+      "이석현"
+    ],
+    "price": "Free",
+    "ticket_url": null,
+    "genres": [
+      "jazz"
+    ],
+    "notes": "Free entry, pay after the show. Reservations: 010 7454 4005 (English).",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "subriot_hbc",
+        "url": "https://www.instagram.com/p/DgOfopWk7vY/",
+        "posted": "2026-11-27T10:25:06+09:00"
+      }
+    ],
+    "id": "e138f0522566",
+    "first_seen": "2026-11-28T06:52:49+09:00",
+    "updated": "2026-11-28T06:52:49+09:00"
+  },
+  {
+    "date": "2026-11-27",
+    "doors": null,
+    "start": "22:00",
+    "title": "Lee Yeong-in Quintet",
+    "title_ko": "이영인 퀸텟",
+    "venue": "Subriot",
+    "venue_ko": "서브라이엇 HBC",
+    "venue_handle": "subriot_hbc",
+    "area": "Haebangchon",
+    "city": "Seoul",
+    "lineup": [
+      "Lee Yeong-in Quintet",
+      "Lee Yeong-in",
+      "Ahn Hyeon-bin",
+      "Park Hae-chan",
+      "Kang Jae-woo",
+      "Min Hong-gi"
+    ],
+    "lineup_ko": [
+      "이영인 퀸텟",
+      "이영인",
+      "안현빈",
+      "박해찬",
+      "강재우",
+      "민홍기"
+    ],
+    "price": "Free",
+    "ticket_url": null,
+    "genres": [
+      "jazz"
+    ],
+    "notes": "Free entry, pay after the show. Reservations: 010 7454 4005 (English).",
+    "confidence": 0.95,
+    "sources": [
+      {
+        "handle": "subriot_hbc",
+        "url": "https://www.instagram.com/p/DgOfopWk7vY/",
+        "posted": "2026-11-27T10:25:06+09:00"
+      }
+    ],
+    "id": "b50c441ca8cd",
+    "first_seen": "2026-11-28T06:52:49+09:00",
+    "updated": "2026-11-28T06:52:49+09:00"
+  },
+  {
     "date": "2026-11-28",
     "doors": null,
     "start": "20:00",
@@ -772,17 +780,28 @@
     "doors": null,
     "start": "20:00",
     "title": "SoundDog 4 Days",
-    "title_ko": null,
+    "title_ko": "송하연 Quintet",
     "venue": "SoundDog Jazz",
     "venue_ko": "사운드독",
     "venue_handle": "sounddog_jazz",
     "area": "Huam-dong",
     "city": "Seoul",
     "lineup": [
-      "Song Hayeon"
+      "Song Hayeon",
+      "Hayeon Song Quintet",
+      "Hayeon Song",
+      "Junseo Park",
+      "Taeguk Kim",
+      "Minjun Kim",
+      "Hangook Jeon"
     ],
     "lineup_ko": [
-      "송하연"
+      "송하연",
+      "송하연 퀸텟",
+      "박준서",
+      "김태국",
+      "김민준",
+      "전한국"
     ],
     "price": "₩20,000",
     "ticket_url": null,
@@ -790,17 +809,22 @@
       "jazz"
     ],
     "notes": "Reserve by text 010-5368-2584 and pay by bank transfer; outside snacks allowed (₩5,000 per 2 people).",
-    "confidence": 0.85,
+    "confidence": 0.9,
     "sources": [
       {
         "handle": "sounddog_jazz",
         "url": "https://www.instagram.com/reel/DgFTsz8SOfC/",
         "posted": "2026-11-23T20:48:04+09:00"
+      },
+      {
+        "handle": "sounddog_jazz",
+        "url": "https://www.instagram.com/p/DgPuLBASFjF/",
+        "posted": "2026-11-27T21:51:25+09:00"
       }
     ],
     "id": "853ea183ade8",
     "first_seen": "2026-11-24T08:35:31+09:00",
-    "updated": "2026-11-24T08:35:31+09:00"
+    "updated": "2026-11-28T06:52:49+09:00"
   },
   {
     "date": "2026-11-28",
@@ -1040,6 +1064,41 @@
     "id": "2a4da704b948",
     "first_seen": "2026-11-27T06:51:34+09:00",
     "updated": "2026-11-27T06:51:34+09:00"
+  },
+  {
+    "date": "2026-12-04",
+    "doors": null,
+    "start": "20:00",
+    "title": "Korean Indie & British Indie Party",
+    "title_ko": "한국 인디 & 영국 인디 파티",
+    "venue": "Pet Sounds",
+    "venue_ko": "펫사운즈",
+    "venue_handle": "petsoundsmusicpub",
+    "area": "Itaewon",
+    "city": "Seoul",
+    "lineup": [
+      "DJ Jamie"
+    ],
+    "lineup_ko": [
+      "DJ 제이미"
+    ],
+    "price": "Free",
+    "ticket_url": null,
+    "genres": [
+      "dj"
+    ],
+    "notes": "Korean indie 8-11pm, then British indie from 11pm/midnight. Free entry.",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "handle": "petsoundsmusicpub",
+        "url": "https://www.instagram.com/p/DgPRDfcJKIC/",
+        "posted": "2026-11-27T17:37:00+09:00"
+      }
+    ],
+    "id": "6d3c78b46b8a",
+    "first_seen": "2026-11-28T06:52:49+09:00",
+    "updated": "2026-11-28T06:52:49+09:00"
   },
   {
     "date": "2026-12-05",
@@ -2041,7 +2100,7 @@
   {
     "date": "2026-12-24",
     "doors": null,
-    "start": null,
+    "start": "18:00",
     "title": "Christmas Jazz Singer Special",
     "title_ko": "크리스마스 재즈싱어 스페셜",
     "venue": "Subriot",
@@ -2049,25 +2108,71 @@
     "venue_handle": "subriot_hbc",
     "area": "Haebangchon",
     "city": "Seoul",
-    "lineup": [],
-    "lineup_ko": [],
+    "lineup": [
+      "Yang Hye-jeong Jazz Band"
+    ],
+    "lineup_ko": [
+      "양혜정 재즈밴드"
+    ],
     "price": null,
     "ticket_url": null,
     "genres": [
       "jazz"
     ],
     "notes": "Reservations open 27 Nov 14:00, by text only to 010-8018-5546 for the 'Christmas Special Set'; no Naver booking.",
-    "confidence": 0.7,
+    "confidence": 0.9,
     "sources": [
       {
         "handle": "subriot_hbc",
         "url": "https://www.instagram.com/p/DgH0LoWzqZV/",
         "posted": "2026-11-24T20:10:00+09:00"
+      },
+      {
+        "handle": "subriot_hbc",
+        "url": "https://www.instagram.com/p/DgOthVDEzGg/",
+        "posted": "2026-11-27T12:26:26+09:00"
       }
     ],
     "id": "332bfc994315",
     "first_seen": "2026-11-25T06:54:24+09:00",
-    "updated": "2026-11-25T06:54:24+09:00"
+    "updated": "2026-11-28T06:52:49+09:00"
+  },
+  {
+    "date": "2026-12-24",
+    "doors": null,
+    "start": "20:00",
+    "title": "Christmas Jazz Live! – Jazz Singer Carol Special",
+    "title_ko": "크리스마스 재즈싱어 캐롤 특집",
+    "venue": "Subriot",
+    "venue_ko": "서브라이엇 HBC",
+    "venue_handle": "subriot_hbc",
+    "area": "Haebangchon",
+    "city": "Seoul",
+    "lineup": [
+      "BB Collective",
+      "Ashian Quartet"
+    ],
+    "lineup_ko": [
+      "애쉬안 QUARTET"
+    ],
+    "price": null,
+    "ticket_url": null,
+    "genres": [
+      "jazz",
+      "r&b/soul"
+    ],
+    "notes": "Reservation only via Christmas Special Set; text 010-8018-5546. Booking opens 27 Nov 2pm.",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "handle": "subriot_hbc",
+        "url": "https://www.instagram.com/p/DgOthVDEzGg/",
+        "posted": "2026-11-27T12:26:26+09:00"
+      }
+    ],
+    "id": "422f8ec2982c",
+    "first_seen": "2026-11-28T06:52:49+09:00",
+    "updated": "2026-11-28T06:52:49+09:00"
   },
   {
     "date": "2026-12-25",
@@ -2186,7 +2291,7 @@
   {
     "date": "2026-12-25",
     "doors": null,
-    "start": null,
+    "start": "16:00",
     "title": "Christmas Jazz Singer Special",
     "title_ko": "크리스마스 재즈싱어 스페셜",
     "venue": "Subriot",
@@ -2194,7 +2299,9 @@
     "venue_handle": "subriot_hbc",
     "area": "Haebangchon",
     "city": "Seoul",
-    "lineup": [],
+    "lineup": [
+      "Betty Quartet"
+    ],
     "lineup_ko": [],
     "price": null,
     "ticket_url": null,
@@ -2202,17 +2309,61 @@
       "jazz"
     ],
     "notes": "Reservations open 27 Nov 14:00, by text only to 010-8018-5546 for the 'Christmas Special Set'; no Naver booking.",
-    "confidence": 0.7,
+    "confidence": 0.9,
     "sources": [
       {
         "handle": "subriot_hbc",
         "url": "https://www.instagram.com/p/DgH0LoWzqZV/",
         "posted": "2026-11-24T20:10:00+09:00"
+      },
+      {
+        "handle": "subriot_hbc",
+        "url": "https://www.instagram.com/p/DgOthVDEzGg/",
+        "posted": "2026-11-27T12:26:26+09:00"
       }
     ],
     "id": "86dc2f2c9f42",
     "first_seen": "2026-11-25T06:54:24+09:00",
-    "updated": "2026-11-25T06:54:24+09:00"
+    "updated": "2026-11-28T06:52:49+09:00"
+  },
+  {
+    "date": "2026-12-25",
+    "doors": null,
+    "start": "18:00",
+    "title": "Christmas Jazz Live! – Jazz Singer Carol Special",
+    "title_ko": "크리스마스 재즈싱어 캐롤 특집",
+    "venue": "Subriot",
+    "venue_ko": "서브라이엇 HBC",
+    "venue_handle": "subriot_hbc",
+    "area": "Haebangchon",
+    "city": "Seoul",
+    "lineup": [
+      "Im Ji-min Quartet",
+      "Rose Kim Quartet",
+      "Kim So-gon with Kim Young-jik Quartet"
+    ],
+    "lineup_ko": [
+      "임지민 QUARTET",
+      "김소곤 WITH 김영직 QUARTET"
+    ],
+    "price": null,
+    "ticket_url": null,
+    "genres": [
+      "jazz",
+      "funk"
+    ],
+    "notes": "Reservation only via Christmas Special Set; text 010-8018-5546. Booking opens 27 Nov 2pm.",
+    "confidence": 0.9,
+    "sources": [
+      {
+        "handle": "subriot_hbc",
+        "url": "https://www.instagram.com/p/DgOthVDEzGg/",
+        "posted": "2026-11-27T12:26:26+09:00"
+      }
+    ],
+    "id": "bf6bfb9c9b15",
+    "first_seen": "2026-11-28T06:52:49+09:00",
+    "updated": "2026-11-28T06:52:49+09:00"
   },
   {
     "date": "2026-12-26",
